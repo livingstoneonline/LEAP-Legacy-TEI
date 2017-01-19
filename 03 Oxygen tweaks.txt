@@ -1,0 +1,22 @@
+Global
+Uncheck "Open last edited files from project"
+
+Editor/Edit modes/Text
+Check "Line wrap"
+
+Editor/Format
+Uncheck "Detect indent on open"
+Check "Indent with tabs" 
+Indent size: 0
+Uncheck "indent on enter"
+
+Editor/Format/XML
+Uncheck "Indent inline elements"
+Uncheck "Indent (when typing) in preserve space elements"
+Uncheck "Indent on paste - sections with number of lines less than 300"
+
+Editor/Content Completion
+Uncheck "Close the inserted element"
+
+Diff/Files Comparison/Appearance
+Check "Line wrap"
