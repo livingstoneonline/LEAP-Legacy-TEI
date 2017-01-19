@@ -35,6 +35,10 @@
 				<date>2008-01-29</date>
 				<name xml:id="SM">Sharon Messenger</name>Initial Transcription by Sharon Messenger
 			</change>
+			<change>
+				<date>2017-01-19</date>
+				<name xml:id="AW">Adrian S. Wisnicki</name>Coding Review by Adrian S. Wisnicki
+			</change>
 		</revisionDesc>
 	</teiHeader>
 
@@ -43,9 +47,14 @@
 			<div>
 
 	<pb n="0001" facs="liv_002538_0001"/><!--pb/@n='35r'-->
-<lb/><p rend="right"><placeName>Ujiji</placeName> - 30<hi rend="sup"><hi rend="underline">th</hi></hi> May 1869 </p>
-<lb/><p>My Dear <persName>Col. Playfair</persName> or <persName>D<hi rend="sup underline">r</hi> Kirk</persName>
-<lb/><choice><reg>T</reg><orig>t</orig></choice>his note goes by Musa 
+<addSpan spanTo="#p35r-01" place="marginleft"><!--addSpan/@place='left hand margin'--></addSpan>
+<lb/><p rend="no-indent">A long box paid for to Ujiji was left at <placeName>Unjembe</placeName>
+<lb/>&amp; so with other boxes<reg>.</reg></p><anchor xml:id="p35r-01"/>
+			
+<lb/><p rend="center"><add rend="red" hand="#U">64</add> <space extent="2" unit="chars"/><placeName>Ujiji</placeName> - 30<hi rend="sup"><hi rend="underline">th</hi></hi> May 1869 <add hand="#U" rend="small">35</add></p>
+<lb/>
+<lb/><p rend="no-indent">My Dear <persName>Col. Playfair</persName> or <persName>D<hi rend="sup underline">r</hi> Kirk</persName></p>
+<lb/><p>This note goes by Musa 
 <lb/>Kamaals who was employed 
 <lb/>by Karoji to drive the buffaloes 
 <lb/>hither, but by <add place="above">over</add> driving them 
@@ -92,7 +101,8 @@
 <lb/>Steuart &amp;co of <placeName>Bombay</placeName> for 
 <lb/>Rs 2000 - and some forty letters 
 <lb/>written during my slow recovery. 
-<lb/>I fear it may never reach you<reg>.</reg> A party was sent to the coast two 
+<lb/>I fear it may never reach you<reg>.</reg> 
+<lb/>A party was sent to the coast two 
 <lb/>months ago. One man volunteered 
 <lb/>to take a letter secretly, but his master 
 <lb/>warned them all not to do so, 
@@ -118,14 +128,19 @@
 <lb/>begging two of his <choice><sic>gaurd</sic><corr>guard</corr></choice> to 
 <lb/>see to the safety of the goods 
 <lb/>here into <persName>Thani bin Suellim<reg>'</reg>s</persName>
-<lb/>hands or into those of <persName>Muhamad bin Saleh</persName>. </p>
+<lb/>hands or into those of 
+<lb/><persName>Muhamad bin Saleh</persName>. </p>
 <lb/><p>As to the work to be done 
 <lb/>by me it is only to connect 
 <lb/>the sources which I have 
 <lb/>discovered from 500 to 700 
 <lb/>miles south of Speke and 
 <lb/>Baker's <add place="above">with their <placeName>Nile</placeName></add>. The volume of 
-<lb/>water which flows North from Lat. 12º South is <gap extent="3" unit="lines" agent="damage"/>
+<lb/>water which flows North 
+<lb/>from Lat. 12º South is 
+<lb/><gap extent="3" unit="lines" agent="damage"/><space extent="3" unit="words"/><space extent="1" unit="chars"/>that
+<lb/><space extent="5" unit="words"/><space extent="3" unit="chars"/>at the
+<lb/><space extent="5" unit="words"/><space extent="3" unit="chars"/>as well
 
 	<pb n="0004" facs="liv_002538_0004"/><!--pb/@n='36v'-->
 <lb/>those of the <placeName>Nile</placeName>. I have to go 
@@ -141,7 +156,8 @@
 <lb/>this. The outflow of this whether 
 <lb/>to <placeName>Congo</placeName> or <placeName>Nile</placeName> I have 
 <w>to-<lb break="no"/>ascertain.</w><choice><reg>T</reg><orig>t</orig></choice>he people West of 
-<lb/>this called <term type="tribe">Menyema</term> are cannibals if Arabs speak truly<reg>.</reg>
+<lb/>this called <term type="tribe">Manyema</term> 
+<lb/>are cannibals if Arabs speak truly<reg>.</reg>
 <lb/>I may have to go there first 
 <lb/>and down <placeName>Tanganyike</placeName> if 
 <lb/>I come out uneaten &amp; find 
@@ -150,10 +166,8 @@
 <lb/>do what you can to help me 
 <lb/>with the goods &amp; men - £400 to 
 <lb/>be sent by <persName>M<hi rend="sup underline">r</hi> Young</persName> must 
-<lb/>surely have come to you through <persName>Fleming</persName><gap extent="1" unit="lines" agent="damage"/></p><addSpan spanTo="#p35r-01" place="marginleft"><!--addSpan/@place='left hand margin'--></addSpan>
-<lb/><p>A long box paid for to Ujiji was left at <placeName>Unjembe</placeName>
-<lb/>&amp; so with other boxes<reg>.</reg></p><anchor xml:id="p35r-01"/>
-			
+<lb/>surely have come to you through 
+<lb/><persName>Fleming</persName> <gap extent="1" unit="lines" agent="damage"/></p>
 </div>
 		</body>
 	</text></TEI>
