@@ -36,16 +36,16 @@
 		</profileDesc>
 		<revisionDesc>
 			<change>
-				<date>2017-02-02</date>
-				<name xml:id="AK">Ashanka Kumari</name>Proofreading and Encoding by Ashanka Kumari
-			</change>
-			<change>
 				<date>2008-08-14</date>
 				<name xml:id="CO">Caroline Overy</name>Initial Transcription by Caroline Overy
 			</change>
 			<change>
 				<date>2008-09-09</date>
 				<name xml:id="CL">Chris Lawrence</name>Proof by Chris Lawrence
+			</change>
+			<change>
+				<date>2017-02-02</date>
+				<name xml:id="AK">Ashanka Kumari</name>Proofreading and Encoding by Ashanka Kumari
 			</change>
 		</revisionDesc>
 	</teiHeader>
@@ -56,13 +56,16 @@
 
 	<!--Adrian, I'm not sure how to encode the diagonal text at the top corner of this letter. Could you take a look? -AK-->
 <pb n="0001" facs="liv_000056_0001"/><!--pb/@n='1r'-->
+<lb/><p rend="no-indent"><add rend="diagonal"><figure><figDesc>Dedication in another hand.</figDesc></figure></add></p>
+<lb/><p rend="no-indent"><space extent="8" unit="words"/><add place="inspace" hand="#U" rend="gray small">6131/1</add></p>
 <lb/><p rend="right"><placeName>Claremont Mauritius</placeName>
 <lb/>28 <hi rend="sup underline">th</hi>August 1856.</p>
+<lb/>
 <lb/><p rend="no-indent">My Dear Everybody in the House</p>
 <lb/><p rend="indent">I don't number this 
 <lb/>in order to spare you the pain of blushing 
 <lb/>black when you see how much I have 
-<lb/>written in answer to ----<!-- long dash --> I make 
+<lb/>written in answer to _______<!-- long dash --> I make 
 <lb/>ready the enclosures now in consequence 
 <lb/>of having missed a mail this morning<reg>.</reg>
 <lb/>Another will start in about a fortnight<reg>.</reg>
@@ -99,11 +102,29 @@
 
 	<pb n="0003" facs="liv_000056_0003"/><!--pb/@n='2r'-->
 <lb/>days with you that will be all at first. </p>
-<lb/><p><delSpan spanTo="#del-1" rend="gray" hand="#U2"/>lengthy passage written by Livingstone and crossed out <!--is it safe to assume this was also crossed out by DL? -AK-->
-<lb/><anchor xml:id="del-2"/> <!--I'm not sure I did this right. -AK-->
+<lb/><p rend="no-indent"><add place="inspace" hand="#U" rend="small red">x <space extent="3" unit="chars"/>x <space extent="3" unit="chars"/>x <space extent="3" unit="chars"/>x <space extent="3" unit="chars"/>x <space extent="3" unit="chars"/>x <space extent="3" unit="chars"/>x <space extent="3" unit="chars"/>x</add></p>
+<lb/><p><delSpan spanTo="#del-1" rend="gray" hand="#U2"/><gap extent="1" unit="lines" agent="overwriting"/>
+<lb/><gap extent="1" unit="lines" agent="overwriting"/>
+<lb/><gap extent="1" unit="lines" agent="overwriting"/>
+<lb/><gap extent="1" unit="lines" agent="overwriting"/>
+<lb/><gap extent="1" unit="lines" agent="overwriting"/>
+<lb/><gap extent="1" unit="lines" agent="overwriting"/>
+<lb/><gap extent="1" unit="lines" agent="overwriting"/>
+<lb/><gap extent="1" unit="lines" agent="overwriting"/>
+<lb/><gap extent="1" unit="lines" agent="overwriting"/>
+<lb/><gap extent="1" unit="lines" agent="overwriting"/>
+<lb/><gap extent="1" unit="lines" agent="overwriting"/>
+<lb/><gap extent="1" unit="lines" agent="overwriting"/>
+<lb/><gap extent="1" unit="lines" agent="overwriting"/>
+<lb/><gap extent="1" unit="lines" agent="overwriting"/>
+<lb/><gap extent="1" unit="lines" agent="overwriting"/>
+<lb/><gap extent="1" unit="lines" agent="overwriting"/>
+<lb/><gap extent="1" unit="lines" agent="overwriting"/>
+<lb/><gap extent="1" unit="lines" agent="overwriting"/>
+<lb/><gap extent="1" unit="lines" agent="overwriting"/><anchor xml:id="del-1"/></p><!--is it safe to assume this was also crossed out by DL? -AK--><!--I'm not sure I did this right. -AK--><!-- Fixed. AW -->
 
 	<pb n="0004" facs="liv_000056_0004"/><!--pb/@n='2v'-->
-<lb/><del type="strikethrough">prayer to God decide for yourselves. 
+<lb/><p rend="no-indent"><del type="strikethrough">prayer to God decide for yourselves. 
 <lb/>I cannot urge you but do not understand 
 <lb/>how you managed to give up your 
 <lb/>own connections on <choice><sic>recieving</sic><corr>receiving</corr></choice> the 
@@ -117,12 +138,12 @@
 <lb/>in your case that to working people 
 <lb/>the new world was worse than the 
 <lb/>old<reg>.</reg></del></p>
-<lb/><p><choice><reg>T</reg><orig>t</orig></choice>his is a fine island. <choice><reg>T</reg><orig>t</orig></choice>he cultivation 
+<lb/><p>This is a fine island. <choice><reg>T</reg><orig>t</orig></choice>he cultivation 
 <lb/>is sugar chiefly. It is the fabulous 
 <lb/>scene of the fine tale <persName>Paul</persName> &amp; <persName>Virginia</persName><reg>.</reg>
 <lb/>I am very well not quite however<reg>.</reg></p>
 <lb/><p rend="center">Affectionately </p>
-<lb/><p rend="center"><persName>David Livingston</persName> </p>
+<lb/><p rend="right"><space extent="1" unit="words"/><space extent="2" unit="chars"/><persName>David Livingston</persName> </p>
 			
 </div>
 		</body>
