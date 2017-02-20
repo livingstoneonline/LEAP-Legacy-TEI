@@ -39,6 +39,10 @@
 				<date>2010-07-06</date>
 				<name xml:id="SM">Sharon Messenger</name>Initial Transcription by Sharon Messenger
 			</change>
+			<change>
+				<date>2017-02-20</date>
+				<name xml:id="AK">Ashanka Kumari</name>Proofreading and Encoding by Ashanka Kumari
+			</change>
 		</revisionDesc>
 	</teiHeader>
 
@@ -50,8 +54,8 @@
 <lb/><p rend="right"><placeName>57 Sloane St</placeName></p>
 <lb/><p rend="right">7 <hi rend="sup underline">th</hi> April </p>
 <lb/><p rend="right">1857 </p>
-<lb/><p>Dear Sir </p>
-<lb/><p>I went at once 
+<lb/><p rend="no-indent">Dear Sir </p>
+<lb/><p rend="indent">I went at once 
 <lb/>after your call this 
 <lb/>morning to the 
 <lb/><persName>Lord Mayor</persName>, and 
@@ -86,12 +90,14 @@
 <lb/>the Bankers - 
 <lb/>there can be no 
 <lb/>mistake now. </p>
-<lb/><p>I shall write also to <persName>D<hi rend="sup"><hi rend="underline">r</hi></hi> Tidman</persName> to 
-<lb/>the same effect<reg>.</reg>
+<lb/><p>I shall write also 
+<lb/>to <persName>D<hi rend="sup"><hi rend="underline">r</hi></hi> Tidman</persName> to 
+<lb/>the same effect
 
 	<pb n="0004" facs="liv_000060_0004"/><!--pb/@n='2v'-->
-<lb/>I called at Coutts to ask 
-<lb/>them to <choice><sic>recieve</sic><corr>receive</corr></choice> it. And they are quite agreeable 
+<lb/>I called at <persName>Coutts</persName> to ask 
+<lb/>them to <choice><sic>recieve</sic><corr>receive</corr></choice> it. And 
+<lb/>they are quite agreeable 
 <lb/>to do so. </p>
 <lb/><p>I now beg you 
 <lb/>will accept my 
