@@ -51,9 +51,10 @@
 			<div>
 
 	<pb n="0001" facs="liv_000060_0001"/><!--pb/@n='1r'-->
-<lb/><p rend="right"><placeName>57 Sloane St</placeName></p>
-<lb/><p rend="right">7 <hi rend="sup underline">th</hi> April </p>
-<lb/><p rend="right">1857 </p>
+<lb/><p rend="center"><placeName>57 Sloane St</placeName></p>
+<lb/><p rend="center"><space extent="2" unit="chars"/>7 <hi rend="sup underline">th</hi> April </p>
+<lb/><p rend="center"><space extent="5" unit="chars"/>1857 </p>
+<lb/>
 <lb/><p rend="no-indent">Dear Sir </p>
 <lb/><p rend="indent">I went at once 
 <lb/>after your call this 
@@ -75,7 +76,8 @@
 <lb/>the matter plain 
 <lb/>I have now 
 <lb/>written the <persName>Lord 
-<lb/>Mayor</persName> to the same effect. At the 
+<lb/>Mayor</persName> to the 
+<lb/>same effect. At the 
 <lb/>last meeting they 
 
 	<pb n="0003" facs="liv_000060_0003"/><!--pb/@n='2r'-->
@@ -107,7 +109,7 @@
 <lb/>in the matter </p>
 <lb/><p rend="center">and am </p>
 <lb/><p rend="center">Your much obliged </p>
-<lb/><p rend="center"><persName>David Livingstone</persName></p>
+<lb/><p rend="no-indent"><space extent="1" unit="words"/><persName>David Livingstone</persName></p>
 			
 </div>
 		</body>
