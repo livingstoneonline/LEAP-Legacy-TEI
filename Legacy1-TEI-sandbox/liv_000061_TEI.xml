@@ -39,6 +39,10 @@
 				<date>2008-08-19</date>
 				<name xml:id="SM">Sharon Messenger</name>Initial Transcription by Sharon Messenger
 			</change>
+			<change>
+				<date>2017-02-20</date>
+				<name xml:id="AK">Ashanka Kumari</name>Proofreading and Encoding by Ashanka Kumari
+			</change>
 		</revisionDesc>
 	</teiHeader>
 
@@ -47,7 +51,7 @@
 			<div>
 
 	<pb n="0001" facs="liv_000061_0001"/><!--pb/@n='1r'-->
-<lb/><p>Dear Sir, 
+<lb/><p rend="no-indent">Dear Sir, 
 <lb/>You fear for the result of my 
 <lb/>going alone. I hope I am in 
 <lb/>the way of duty; my own 
@@ -56,7 +60,7 @@
 <lb/>I am doing something for God. 
 <lb/>I have preached the gospel 
 <lb/>in many a spot where 
-<lb/>the name of Christ has 
+<lb/>the name of <persName>Christ</persName> has 
 <lb/>never been heard, and I 
 <lb/>would work till more in 
 <lb/>the way of reducing this 
@@ -65,21 +69,21 @@
 <lb/>from fever. Exhaustion 
 <lb/>produced vertigo, causing 
 <lb/>me, if I looked suddenly 
-<lb/>up<fw type="catch" place="marginbottom" rend="right">up</fw>
+<lb/><fw type="catch" place="marginbottom" rend="right">up</fw>
 
 	<pb n="0002" facs="liv_000061_0002"/><!--pb/@n='2r'-->
-<lb/>up, lamost to lose consciousness. 
+<lb/>up, almost to lose consciousness. 
 <lb/>This made me give up some 
 <lb/>of my sedentary work; but 
 <lb/>I hope God will accept of 
 <lb/>what I do. The temperature 
-<lb/>in the shade is about 100¨ 
-<lb/>fah<hi rend="sup">r</hi>, during the day, and 
-<lb/>often 90¨ at nine at night. 
+<lb/>in the shade is about 100° 
+<lb/>Fah<hi rend="sup">r</hi>, during the day, and 
+<lb/>often 90° at nine at night. 
 <lb/>But a merry heart doeth 
 <lb/>good like a medicine<reg>.</reg></p>
 <lb/><p rend="center">Yours faithfully </p>
-<lb/><p rend="center">David Livingstone </p>
+<lb/><p rend="center"><persName>David Livingstone</persName></p>
 			
 </div>
 		</body>
