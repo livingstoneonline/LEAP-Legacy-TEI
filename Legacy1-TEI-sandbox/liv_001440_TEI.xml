@@ -29,7 +29,7 @@
 		</profileDesc>
 		<revisionDesc>
 			<change>
-				<date>29-01-2010</date>
+				<date>2010-01-29</date>
 				<name xml:id="SM">Sharon Messenger</name>Transcribed by Sharon Messenger
 			</change>
 		</revisionDesc>
@@ -41,12 +41,12 @@
 
 	<pb n="0001" facs="liv_001440_0001"/><!--pb/@n='01'-->
 <lb/><p rend="left"><placeName>Shupanga</placeName> 31<hi rend="sup underline">st</hi> May </p>
-<lb/><p rend="left">1859 </p>
-<lb/><p>To The </p>
+<lb/><p rend="left"><space extent="2" unit="words"/>1859 </p>
+<lb/><p rend="no-indent">To The </p>
 <lb/><p>Commander of </p>
-<lb/><p>Her Majesty<reg>'</reg>s Ship - </p>
-<lb/><p>Sir </p>
-<lb/><p>I took the liberty 
+<lb/><p><space extent="1" unit="words"/><space extent="1" unit="chars"/>Her Majesty<reg>'</reg>s Ship - </p>
+<lb/><p><space extent="1" unit="words"/>Sir </p>
+<lb/><p><space extent="1" unit="words"/><space extent="2" unit="chars"/>I took the liberty 
 <lb/>of applying to <persName>Admiral 
 <lb/>Sir Frederick Grey</persName> about 
 <lb/>the beginning of the present 
