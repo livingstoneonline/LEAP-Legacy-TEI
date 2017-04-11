@@ -33,11 +33,7 @@
 		<revisionDesc>
 			<change>
 				<date>2008-10-13</date>
-				<name>Sharon Messenger</name>Initial Transcription by Sharon Messenger
-			</change>
-			<change>
-				<date>2017-04-11</date>
-				<name>Adrian S. Wisnicki</name>Proofing by Adrian S. Wisnicki
+				<name xml:id="initials">SM</name>Initial Transcription by Sharon Messenger
 			</change>
 		</revisionDesc>
 	</teiHeader>
