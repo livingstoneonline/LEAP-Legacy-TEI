@@ -33,6 +33,10 @@
 				<date>2008</date>
 				<name xml:id="SM">Sharon Messenger</name>Transcribed by Sharon Messenger
 			</change>
+			<change>
+				<date>2017</date>
+				<name>Heather Ball</name>Proofed by Heather Ball
+			</change>
 		</revisionDesc>
 	</teiHeader>
 
@@ -41,21 +45,28 @@
 			<div>
 
 	<pb n="0001" facs="liv_000457_0001"/><!--pb/@n='01'-->
-<lb/><p rend="left"><hi rend="underline">To <persName>Janet Livingston</persName></hi></p>
-<lb/><p rend="right">My Dear Sister </p>
-<lb/><p>I send you these lines which 
-<lb/>I received as a reliquaire from my friend <persName>M<hi rend="sup">r</hi> Banff</persName>. 
+<lb/><p rend="no-indent"><hi rend="underline">To <persName>Janet <choice><sic>Livingston</sic><corr>Livingstone</corr></choice></persName></hi></p>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/><p rend="no-indent"><space unit="chars" extent="2"/>My Dear Sister</p>
+<lb/>
+<lb/><p><space unit="words" extent="3"/>I send you these lines which 
+<lb/>I received as a <hi rend="underline">reliquaire</hi> from my friend <persName>M<hi rend="sup underline">r</hi> Banff</persName>. 
 <lb/>Accept them as a token of my unabated affection, and 
-<lb/>sincere wish that the Christian's exalted hope may 
-<lb/>be your portion through life; and though we may not 
+<lb/>sincere wish that the <orgName>Christian's</orgName> exalted hope may 
+<lb/>be your portion through Life; and though we may not 
 <lb/>meet again in Time, that you and all my beloved 
 <lb/>relatives and friends, may meet where separation 
-<lb/>and sorrow are unknown, to sing the praises of 
-<lb/>our dear Redeeemer, who loved &amp; gave himself for us. </p>
-<lb/><p rend="center">Your Affectionate Brother </p>
-<lb/><p rend="center"><hi rend="underline"><persName>David Livingston</persName></hi></p>
-<lb/><p rend="left"><placeName>Ongar,</placeName><placeName>Essex,</placeName> Oct<hi rend="sup">r</hi> 3 <hi rend="sup">d</hi>/58 </p>
-			
+<lb/>and sorrow are unknown, To sing the praises of 
+<lb/>our dear Redeeemer, who Loved &amp; gave himself for us. </p>
+<lb/><p><space unit="words" extent="8"/>Your Affectionate Brother</p>
+<lb/><p rend="no-indent"><space unit="chars" extent="3"/><hi rend="underline"><placeName><settlement type="town">Ongar</settlement></placeName>, <placeName><region>Essex</region></placeName></hi>, Oct<hi rend="sup">r</hi> 3 <hi rend="sup">d</hi>/58 </p>
+<lb/><p><space unit="words" extent="9"/><hi rend="underline"><persName>David <choice><sic>Livingston</sic><corr>Livingstone</corr></choice></persName></hi></p>	
+		
 </div>
 		</body>
 	</text></TEI>
