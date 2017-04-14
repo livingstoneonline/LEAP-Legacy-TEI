@@ -36,6 +36,10 @@
 				<date>2010-05-20</date>
 				<name xml:id="SM">Sharon Messenger</name>Intial Transcription by Sharon Messenger
 			</change>
+			<change>
+				<date>2017-04-14</date>
+				<name>Heather Ball</name>Proofed by Heather Ball
+			</change>
 		</revisionDesc>
 	</teiHeader>
 
@@ -44,34 +48,41 @@
 			<div>
 
 	<pb n="0001" facs="liv_001409_0001"/><!--pb/@n='1r'-->
-<lb/><p rend="center"> Pater Noster </p>
-<lb/><p>Baba nato ga adi cu zuru, </p>
-<lb/><p>zina raco racara nambire </p>
-<lb/><p>Rize cuna ifeézico raco nabxitue </p>
-<lb/><p>cubanza cuaco; cudia cuato cuassico </p>
-<lb/><p>zonze passi rero; tine reca </p>
-<lb/><p>nhamanzaua nato niga iueé cucundua </p>
-<lb/><p>na pando zato, ti purumusse cha 
-<lb/>cuipa.</p>
-<lb/><p rend="center">Signal da cruz </p>
-<lb/><p>sa bua zindiquiro ea Santa </p>
-<lb/><p>cruzu, ti- purumusse Murango </p>
-<lb/><p>biua mato, papando zato: </p>
-<lb/><p>zina na Baba na na Muana </p>
-<lb/><p>Espititu Santo. </p>
-<lb/><p rend="center">Ave Maria </p>
-<lb/><p>Ave Maria adazara na graca </p>
-<lb/><p>buia ana ineé dineé nhacus'un-</p>
-<lb/><p>buanta mi acazi ni - </p>
-<lb/><p>mussapo ua mimba muaco - </p>
-<lb/><p rend="center">Santa Maria </p>
-<lb/><p>Santa Maria Mama ma </p>
-<lb/><p>Morungo - teromberere ifeé </p>
-<lb/><p>uanhandambi, Sico e areéro </p>
-<lb/><p>uaia cufa - Amen Jesu. </p>
+<lb/><p rend="no-indent"><space unit="words" extent="2"/>Pater Noster</p>
+<lb/>
+<lb/><p rend="no-indent">Baba nato ga adi cu zuru,
+<lb/>Zina raco racara nambire
+<lb/>Rize cuna ifeézico raco nabxitue 
+<lb/>cubanza cuaco; <space unit="chars" extent="2"/>cudia cuato cuassico 
+<lb/>zonze passi réro ; <space unit="chars" extent="1"/>Tine reca 
+<lb/>nhamangaua uato ninga iué cucundua 
+<lb/>na pando zato. tí purumusse cha 
+<lb/><space unit="chars" extent="2"/>cuipa.</p>
+<lb/>
+<lb/><p rend="no-indent"><space unit="words" extent="2"/>Signal da cruz</p>
+<lb/>
+<lb/><p rend="no-indent"><space unit="chars" extent="2"/>sa bua zindiquiro ea Santa
+<lb/><space unit="chars" extent="2"/>cruzu, ti- purumusse Murungo
+<lb/><space unit="chars" extent="2"/>biua uato, papando zato:
+<lb/><space unit="chars" extent="2"/>zina na Baba na <w><subst><del>n</del><add place="over-text">z</add></subst>a</w> Muana
+<lb/><space unit="chars" extent="3"/>Espititu Santo.</p>
+<lb/>
+<lb/><p rend="no-indent"><space unit="words" extent="2"/>Ave Maria</p>
+<lb/>
+<lb/><p rend="no-indent"><space unit="chars" extent="2"/>Ave Maria adazara na graca
+<lb/><space unit="chars" extent="2"/>buia ana iué diué nhacus'sun-
+<lb/><space unit="chars" extent="2"/>buanta <space unit="chars" extent="2"/>mi acazi ni <space unit="chars" extent="1"/>-
+<lb/><space unit="chars" extent="2"/>mussapo ua mimba muaco -</p>
+<lb/>
+<lb/><p rend="no-indent"><space unit="words" extent="2"/>Santa Maria</p>
+<lb/>
+<lb/><p rend="no-indent"><space unit="chars" extent="2"/>Santa Maria Mama ua
+<lb/><space unit="chars" extent="3"/><w>M<subst><del>a</del><add place="over-text">o</add></subst>rungo</w> - <space unit="chars" extent="2"/>teromberere ifé
+<lb/><space unit="chars" extent="4"/>uanhandambi. Sico e aréro
+<lb/><space unit="chars" extent="5"/>uaia cufa - Amen Jesu.</p>
 
 	<pb n="0002" facs="liv_001409_0002"/><!--pb/@n='1v'-->
-<lb/><p rend="center">Credo </p>
+<lb/><p rend="no-indent"><space unit="words" extent="3"/>Credo</p>
 <lb/><p>(Tini ziba Morungo Baba mpamfu 
 <lb/>zonse, Nyakotsika ku zuru na 
 <lb/>nanze. ) "Pa Jesu christo bozeéka 
