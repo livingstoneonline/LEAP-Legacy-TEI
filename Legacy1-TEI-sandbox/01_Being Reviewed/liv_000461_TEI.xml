@@ -33,7 +33,11 @@
 		<revisionDesc>
 			<change>
 				<date>2008-10-06</date>
-				<name xml:id="initials">SM</name>Initial Transcription by Sharon Messenger
+				<name>Sharon Messenger</name>Initial Transcription by Sharon Messenger
+			</change>
+			<change>
+				<date>2017-04-14</date>
+				<name>Adrian S. Wisnicki</name>Proofing by Adrian S. Wisnicki
 			</change>
 		</revisionDesc>
 	</teiHeader>
@@ -43,8 +47,9 @@
 			<div>
 
 	<pb n="0001" facs="liv_000461_0001"/><!--pb/@n='1r'-->
-<lb/><p>Dear Sir </p>
-<lb/><p>As the different courses of 
+<lb/><p rend="no-indent"><space extent="4" unit="chars"/>Dear Sir </p>
+<lb/>
+<lb/><p><space extent="4" unit="words"/><space extent="2" unit="chars"/>As the different courses of 
 <lb/>lectures delivered at <placeName>Charing Cross Hospital</placeName> are soon 
 <lb/>to terminate for the season, and no clinical 
 <lb/>lectures being given there during the summer 
@@ -52,17 +57,17 @@
 <lb/>have an opportunity of witnessing the practice &amp; 
 <lb/>attending the clinical lectures of some other 
 <lb/>hospital - </p>
-<lb/><p><placeName>St Bartholomew's</placeName> being the most 
+<lb/><p><space extent="1" unit="words"/><placeName>St Bartholomew's</placeName> being the most 
 <lb/>eligible for that purpose, both on account 
 <lb/>of its situation and other lectures in addition 
-<lb/>to the clinical, such as Midwifery &amp; the diseases 
-<lb/>of women and children, Medical physics, Botany &amp;c<reg>.</reg>
+<lb/>to the clinical, such as <term type="occupation">Midwifery</term> &amp; the diseases 
+<lb/>of women and children, <term type="occupation">Medical physics</term>, <term type="occupation">Botany</term> &amp;c<reg>.</reg>
 <lb/><persName>D<hi rend="sup">r</hi> J.B. Bennet</persName>, through whose influence, admission 
 <lb/>to the hospital at <placeName>Charing Cross</placeName> was gratuitously 
 <lb/>afforded, endeavoured to procure the same 
 <lb/>at <placeName>Bartholomew's</placeName> but the authorities there 
 <lb/>having taken his request into consideration 
-<lb/>resolved that missionary students should not 
+<lb/>resolved that <term type="occupation">missionary students</term> should not 
 
 	<pb n="0002" facs="liv_000461_0002"/><!--pb/@n='1v'-->
 <lb/>now as formerly be admitted <hi rend="underline">gratis</hi>, but that 
@@ -71,20 +76,21 @@
 <lb/>advantages of the hospital are to the thrown open 
 <lb/>to them - </p>
 <lb/><p>Hoping, that my requesting  <del type="strikethrough">for</del> the fee for 
-<lb/>the medical practice, which is the lowest on 
+<lb/>the <term type="occupation">medical practice</term>, which is the lowest on 
 <lb/>the list, will not be considered an <del type="strikethrough">unnecessary</del><add place="above">unnecessary</add>
 <lb/>demand on the funds of the society<reg>.</reg></p>
-<lb/><p rend="center">I beg leave </p>
-<lb/><p rend="center">to subscribe myself </p>
-<lb/><p rend="center">yours sincerely </p>
-<lb/><p rend="center"><persName>D Livingston</persName></p>
-<lb/><p> P.S. the advantages cannot be transferred 
+<lb/><p rend="center"><space extent="2" unit="words"/>I beg leave </p>
+<lb/><p rend="center"><space extent="4" unit="words"/>to subscribe myself </p>
+<lb/><p rend="center"><space extent="6" unit="words"/>yours sincerely </p>
+<lb/><p rend="center"><space extent="7" unit="words"/><persName>D Livingston</persName></p>
+<lb/>
+<lb/><p rend="no-indent">P.S. the advantages cannot be transferred 
 <lb/>nor can we pay the fee for a shorter period 
 <lb/>than 9 months<reg>.</reg></p>
 
 	<pb n="0003" facs="liv_000461_0003"/><!--pb/@n='2r'-->
-<lb/><p><persName>Rev <hi rend="sup underline">d</hi> A. Tidman</persName>
-<lb/><placeName>Mission House</placeName></p>
+<lb/><p rend="no-indent"><persName>Rev<hi rend="sup underline">d</hi> A. Tidman</persName>
+<lb/><space extent="2" unit="words"/><placeName>Mission House</placeName></p>
 			
 </div>
 		</body>
