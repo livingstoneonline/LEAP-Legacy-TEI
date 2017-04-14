@@ -29,11 +29,9 @@
 		</profileDesc>
 		<revisionDesc>
 			<change>
-				<date>16-03-2010</date>
+				<date>2010-03-16</date>
 				<name>Sharon Messenger</name>Transcribed by Sharon Messenger
-			</change>
-			<change>
-				<date>14-04-2017</date>
+				<date>2017-04-14</date>
 				<name>Justin Livingstone</name>Proofed by Justin Livingstone
 			</change>
 		</revisionDesc>
@@ -44,9 +42,11 @@
 			<div>
 
 	<pb n="0001" facs="liv_000576_0001"/><!--pb/@n='01'-->
-<lb/><p><space extent="28" unit="chars"/><placeName>Kuruman</placeName> 25 January 1845 </p>
-<lb/><p rend="no-indent"><space extent="2" unit="chars"/>My very Dear Friend </p>
-<lb/><p><space extent="15" unit="chars"/>I have again the pleasure of announcing 
+<lb/><space extent="43" unit="chars"/><fw n="151"><add place="inspace" rend="gray right" hand="#U">151</add></fw>
+<lb/><p><space extent="30" unit="chars"/><placeName>Kuruman</placeName> 25 January 1845 </p>
+<lb/>				
+<lb/><p rend="no-indent"><space extent="2" unit="chars"/>My very Dear Friend <space extent="24" unit="chars"/><add place="inline" rend="gray" hand="#U">Acc. 1064</add></p>
+<lb/><p><space extent="18" unit="chars"/>I have again the pleasure of announcing 
 <lb/>the safe arrival of two letters from you and to say they 
 <lb/>were welcome would be only saying that which you 
 <lb/>already know, <space extent="2" unit="chars"/><persName>M<hi rend="sup">r</hi> P's</persName> I shall answer by itself, and hope 
@@ -121,6 +121,7 @@
 <lb/>calculations so I think I shall go as soon as poss</p>
 
 	<pb n="0003" facs="liv_000576_0003"/><!--pb/@n='03'-->
+<lb/><space extent="33" unit="chars"/><fw n="152"><add place="inspace" rend="gray right" hand="#U">152</add></fw>
 <lb/><p rend="no-indent"><persName>M<hi rend="sup">r</hi> Inglis</persName> makes a very poor figure in the language
 <lb/>While <persName>M<hi rend="sup">r</hi>
 Ashton</persName> preaches fluently &amp; very correctly indeed 
@@ -157,26 +158,29 @@ Ashton</persName> preaches fluently &amp; very correctly indeed
 <lb/><persName>Bernard</persName> &amp; the other who may have by this time 
 <lb/>come - (The Queen is going on at a dreadful 
 <lb/>rate). In these my <persName>Mary</persName> writes Ever Affectionately
-<lb/><space extent="6" unit="words"/>Yours <persName>D. Livingston</persName></p>
+<lb/><space extent="6" unit="words"/><space extent="3" unit="chars"/>Yours <persName>D. Livingston</persName></p>
 
 	<pb n="0004" facs="liv_000576_0004"/><!--pb/@n='04'-->
-<lb/><p>P.S. I enclose the specimen for the album which 
+<lb/><p rend="no-indent"><space extent="1" unit="chars"/>P.S. I enclose the specimen for the album which 
 <lb/>you requested <space extent="2" unit="chars"/>Give that which will suit 
 <lb/>her character. I did not intend to convey any 
 <lb/>reproof or ought else in that which I wrote 
 <lb/>for you formerly I never hint if a subject 
 <lb/>is worth talking about I talk out &amp; never 
 <lb/>by a side wind so I did not mean you </p>
-<lb/><p><space extent="5" unit="words"/><date when="1845-01">Jany 1845</date>
-<lb/><cb rend="vertical"/><address>
-<addrLine><del type="strikethrough">Care of <persName>Rev<hi rend="sup underline">d</hi> D<hi rend="sup underline">r</hi> Phillip</persName> <placeName><settlement type="city">Cape Town</settlement></placeName></del></addrLine>
 <lb/>
-<lb/><addrLine><persName>Benjamin Pyne <choice><abbr>Esq<hi rend="sup underline">re</hi></abbr><expan>Esquire</expan></choice></persName></addrLine>
-<lb/><addrLine><placeName>Wildingtree</placeName> <placeName><settlement type="village">Ongar</settlement></placeName></addrLine>
-<lb/><addrLine><placeName>Essex</placeName></addrLine>
+<lb/><p><space extent="4" unit="words"/><date when="1845-01">Jany 1845</date>
+<cb rend="vertical"/><address>
+<addrLine><del type="strikethrough">Care of <persName>Rev<hi rend="sup underline">d</hi> D<hi rend="sup underline">r</hi> Phillip</persName> <placeName><settlement type="city">Cape Town</settlement></placeName></del></addrLine>
+<addrLine><space extent="5" unit="chars"/><persName>Benjamin Pyne <choice><abbr>Esq<hi rend="sup underline">re</hi></abbr><expan>Esquire</expan></choice></persName></addrLine>
+<addrLine><space extent="12" unit="chars"/><placeName>Wildingtree</placeName> <placeName><settlement type="village">Ongar</settlement></placeName></addrLine>
+<addrLine><space extent="18" unit="chars"/><placeName>Essex</placeName></addrLine>
 </address>
-<lb/>2 sheets
+2 sheets</p>
+<lb/>
+<p rend="no-indent"><cb rend="upside-down"/><space extent="6" unit="chars"/><date when="1845-01-28">Jany 28/45</date>
 </p>
+<lb/>				
 <lb/><p rend="no-indent">when I spoke of the teeth of a saw writing 
 <lb/>However since you draw my attention to it so I 
 <lb/>must say I the application might be made 
@@ -186,9 +190,9 @@ Ashton</persName> preaches fluently &amp; very correctly indeed
 <lb/>-- you must just write in the way you 
 <lb/>can, most surely write often &amp; long </p>
 <lb/><addSpan spanTo="#p.04-01" place="marginleft"><!--addSpan/@place='left margin of fols 04-01'--></addSpan>
-<lb/><p rend="no-indent"><cb rend="vertical upside-down"/>long what from <unclear cert="low">you</unclear> &amp; never fail 
+<p rend="no-indent"><cb rend="vertical upside-down"/>long what from <unclear cert="low">you</unclear> &amp; never fail 
 <lb/>to answer yours &amp; never will 
-<lb/><space extent="3" unit="words"/>Believe me yours affectionately</p><anchor xml:id="p.04-01"/>
+<lb/><space extent="4" unit="words"/>Believe me yours affectionately</p><anchor xml:id="p.04-01"/>
 			
 </div>
 		</body>
