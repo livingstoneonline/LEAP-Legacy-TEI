@@ -49,10 +49,10 @@
 	<pb n="0001" facs="liv_000463_0001"/><!--pb/@n='1r'-->
 <lb/><p rend="right"><placeName>London</placeName> 17 June 1840 </p>
 <lb/><p>My Dear Friend </p>
-<lb/><p>In compliance with your request 
+<lb/><p><space extent="4" unit="words"/>In compliance with your request 
 <lb/>I shall not now endeavour to give utterance to the 
 <lb/>emotions which spring up in my bosom when 
-<lb/>I yesterday received your letter. I do this 
+<lb/>I yesterday received your <bibl>letter</bibl>. I do this 
 <lb/>rather reluctantly because, in returning thanks 
 <lb/>to Him who bestows every good &amp; perfect gift, 
 <lb/>I would fain include the instrument through 
@@ -60,8 +60,8 @@
 <lb/><p>I was not aware that I had made 
 <lb/>known my pecuniary difficulties to any one 
 <lb/>besides him who knows all things, but as 
-<lb/>I now address a brother disciple of Jesus &amp; a 
-<lb/>friend who (quite unexpected by me) has taken <add place="above">an interest</add> in 
+<lb/>I now address a <orgName>brother disciple of <persName>Jesus</persName></orgName> &amp; a 
+<lb/>friend who (quite unexpected by me) has taken <add place="below">^</add><add place="above">an interest</add> in 
 <lb/>my future course, I may mention that these 
 <lb/>difficulties were chiefly prospective &amp; that 
 <lb/>the Lord has now dispelled all my fears 
@@ -90,7 +90,7 @@
 <lb/>may descend upon you &amp; that the Lord will 
 <lb/>fulfil the utmost desire of your heart with 
 <lb/>respect to every one of your beloved family<reg>.</reg></p>
-<lb/><p>Yours very affectionately <hi rend="sup underline">D.</hi> Livingston </p>
+<lb/><p>Yours very affectionately <persName><choice><abbr>D<hi rend="sup underline">d</hi></abbr><expan>David</expan></choice> <choice><orig>Livingston</orig><reg>Livingstone</reg></choice></persName></p>
 			
 </div>
 		</body>
