@@ -30,8 +30,12 @@
 		</profileDesc>
 		<revisionDesc>
 			<change>
-				<date>20-01-2010</date>
+				<date>2010-01-20</date>
 				<name xml:id="SM">Sharon Messenger</name>Transcribed by Sharon Messenger
+			</change>
+			<change>
+				<date>2017-04-14</date>
+				<name xml:id="AW">Adrian S. Wisnicki</name>Transcribed by Adrian S. Wisnicki
 			</change>
 		</revisionDesc>
 	</teiHeader>
@@ -41,10 +45,11 @@
 			<div>
 
 	<pb n="0001" facs="liv_002297_0001"/><!--pb/@n='01'-->
-<lb/><p rend="left">Dear <persName>Alington</persName></p>
+<lb/><p rend="no-indent">Dear <persName>Alington</persName></p>
 <lb/><p>I shall be in 
 <lb/>at 4 P.M. &amp; 
-<lb/>will be delighted to meet you<reg>.</reg></p>
+<lb/>will be delighted 
+<lb/>to meet you<reg>.</reg></p>
 <lb/><p>D L. </p>
 			
 </div>
