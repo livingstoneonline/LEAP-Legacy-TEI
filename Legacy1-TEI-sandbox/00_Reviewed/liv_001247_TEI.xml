@@ -37,9 +37,9 @@
 		<revisionDesc>
 			<change>
 				<date>2009-05-19</date>
-				<name>Sharon Messenger</name>Letter foliated by Sharon Messenger
+				<name>SM</name>Letter foliated by Sharon Messenger
 				<date>2017-04-14</date>
-				<name>Kate Simpson</name>Proofed by Kate Simpson
+				<name>KS</name>Proofed by Kate Simpson
 			</change>
 		</revisionDesc>
 	</teiHeader>
@@ -49,89 +49,88 @@
 			<div>
 
 	<pb n="0001" facs="liv_001247_0001"/><!--pb/@n='01'-->
-<lb/><p rend="right"><space extent="2" unit="chars"/><placeName>50 Albemarle St.</placeName></p>
-				<lb/><p rend="right"><space extent="2" unit="chars"/><placeName>London</placeName> 18<hi rend="sup underline">th</hi> <choice><abbr>Feby</abbr><expan>February</expan></choice></p>
-				<lb/><p rend="right"><space extent="7" unit="chars"/>1858</p>
-				<lb/>
-<lb/><p rend="no-indent">My Dear Brother </p>
-<lb/><p><space extent="10" unit="chars"/>I have been unable 
-<lb/><choice><sic>untill</sic><corr>until</corr></choice> this moment to write you 
+<lb/><p rend="right"><placeName>50 Albemarle St.</placeName></p>
+<lb/><p rend="right"><placeName>London</placeName> 18<hi rend="sup underline">th</hi> Feby </p>
+<lb/><p>1858 </p>
+<lb/><p>My Dear Brother </p>
+<lb/><p>I have been unable 
+<lb/><choice><sic>until</sic><corr>untill</corr></choice> this moment to write you 
 <lb/>on a very important point to 
 <lb/>which I am happy to call your 
-<lb/>attention - A friend of mine <persName>M<hi rend="sup">r</hi>
+<lb/>attention. A friend of mine <persName>M<hi rend="sup">r</hi>
 <lb/>James Young</persName> who was the assistant 
-	<lb/>to the <term type="occupation">professor of Chemistry</term> at 
-	<lb/><orgName>University College <placeName type="city">London</placeName></orgName> when 
+<lb/>to the professor of Chemistry at 
+<lb/><placeName>University College London</placeName> when 
 <lb/>I was there made a discovery 
 <lb/>by which he is able to extract 
 <lb/>oil from a peculiar kind of 
-	<lb/>coal - this is <choice><sic>name</sic><corr>named</corr></choice> Paraffin 
+<lb/>coal - this is name Paraffin 
 <lb/>and it is simply gas in a 
-<lb/><seg rend="vertical">I was waiting at the <orgName>Admiralty</orgName> and
-	<lb/>found time for this - Write at once to <persName>Young</persName>
-	<lb/><persName>David Livingstone</persName></seg>
 
 	<pb n="0002" facs="liv_001247_0002"/><!--pb/@n='02'-->
-<lb/>fluid state - By a very simple 
+<lb/>fluid state. By a very simple 
 <lb/>lamp it burns like gas and 
 <lb/>is so cheap that one gallon 
-<lb/>which in <placeName type="city">London</placeName> sells at 3/8 
-<lb/>gives as much light as 22<choice><abbr>lbs</abbr><expan>pounds</expan></choice> 
-<lb/>of spermaceti candles - He has 
+<lb/>which in <placeName>London</placeName> sells at 3/8 
+<lb/>gives as much light as 22 lbs 
+<lb/>of sperma ceti candles. He has 
 <lb/>made a large fortune by it and 
 <lb/>being a good man he wishes 
-<lb/>to do good and is very generous
+<lb/>to do good and is very generous<reg>.</reg>
 <lb/>I mentioned you as a suitable 
-	<lb/>agent in <placeName><country>Canada</country></placeName> and he is 
+<lb/>agent in <placeName>Canada</placeName> and he is 
 <lb/>willing to employ you and 
 <lb/>give you such a percentage 
 <lb/>as will make you anxious 
-	<lb/>to keep <persName>Niel</persName> at home instead 
+<lb/>to keep Niel at home instead 
 <lb/>of sending him abroad. He wants 
-<lb/>you to go into the thing without 
+<lb/>you to go into the thing with out 
 <lb/>any doubt. It will return you 
 
 	<pb n="0003" facs="liv_001247_0003"/><!--pb/@n='03'-->
-<lb/>an abundant income - He will 
+<lb/>an abundant income. He will 
 <lb/>supply all the materials - lamps 
 <lb/>oil - vessels &amp;c &amp; you must lay 
 <lb/>yourself out for an immense 
 <lb/>sale by advertizing it beforehand 
-<lb/>for next winter - Write to 
-<lb/>him <space extent="2" unit="chars"/><persName>James Young <choice><abbr>Esq -</abbr><expan>Esquire</expan></choice></persName> 
-<lb/><space extent="7" unit="chars"/><placeName>Sardinia Terrace</placeName>
-				<lb/><space extent="13" unit="chars"/><placeName type="city">Glasgow</placeName>
-<lb/>and tell him whether you are 
-<lb/>willing to engage in it - You 
+<lb/>for next winter. Write to 
+<lb/>him </p>
+<lb/><p><persName>James Young Esq.</persName></p>
+<lb/><p><placeName>Sardinia Terrace</placeName>
+<lb/><placeName>Glasgow</placeName></p>
+<lb/><p>and tell him whether you are 
+<lb/>willing to engage in it. You 
 <lb/>will be able both to benefit 
 <lb/>yourself and him by entering 
 <lb/>into it heartily - Tell him 
 <lb/>freely all your affairs &amp; 
-<lb/>what you will or can do
+<lb/>what you will or can do<reg>.</reg>
 <lb/>Can you devote your entire 
 <lb/>time to suppose he sends you 
 
 	<pb n="0004" facs="liv_001247_0004"/><!--pb/@n='04'-->
-<lb/>10000 lamps and some hundreds 
-<lb/>of tons of oil. Write at once
+<lb/>10,000 lamps and some hundreds 
+<lb/>of tons of oil. Write at once<reg>.</reg>
 <lb/>I shall be off in a week or 
 <lb/>ten days. I got a letter from our 
-	<lb/>cousin <persName>John</persName> &amp; will send him 
+<lb/>cousin John &amp; will send him 
 <lb/>a book having the index before 
-<lb/>I sail. Our launch was tried 
-	<lb/>yesterday &amp; gave from 8 to 10 
-<lb/>knots an hour - We sail in 
+<lb/>I sail. Our launch was tried yesterday &amp; gave from 8 to 10 
+<lb/>knots an hour. We sail in 
 <lb/>the "Pearl" - She puts into the 
-	<lb/><placeName><geogName type="river">Zambesi</geogName></placeName> then we put our 
+<lb/><placeName>Zambesi</placeName> then we put our 
 <lb/>launch together as she goes out 
-<lb/>in three pieces &amp; go up - I am 
-<lb/><term type="occupation">consul</term> - £500 only - The Portuguese 
-<lb/>are favourable - If you still 
-	<lb/>think of <placeName><bloc>Africa</bloc></placeName> for <persName>Niel</persName> I have 
-<lb/>not forgot my promise - You 
-	<lb/>will hear from me <persName>Charles</persName> gave 
+<lb/>in three pieces &amp; go up. I am 
+<lb/>counsel - £500 only. The Portuguese 
+<lb/>are favourable. If you still 
+<lb/>think of <placeName>Africa</placeName> for Niel I have 
+<lb/>not forgot my promise. You 
+<lb/>will hear from me Charles gave 
 <lb/>up £750 a year on the west he has 
-<lb/>£350 now - love to <persName>Sarah</persName> &amp; all</p>
+<lb/>£350 now. Love to <persName>Sarah</persName> &amp; all<reg>.</reg>
+<lb/><addSpan spanTo="#p01r-01" place="marginright"><!--addSpan/@place='right hand margin of fol.01'--></addSpan>I was waiting at the Admiralty and 
+<lb/>found time for this. Write at once to <persName>Young</persName></p>
+<lb/><p><persName>David Livingstone</persName></p><anchor xml:id="p01r-01"/>
 			
 </div>
 		</body>
