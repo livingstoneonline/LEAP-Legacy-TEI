@@ -43,7 +43,7 @@
 			<div>
 
 	<pb n="0001" facs="liv_001766_0001"/><!--pb/@n='01'-->
-<lb/><p rend="right"><placeName>Shupanga</placeName>25 <hi rend="sup underline">th</hi>April 1862 </p>
+<lb/><p rend="right"><placeName>Shupanga</placeName><date when="1862-04-25">25 <hi rend="sup underline">th</hi>April 1862</date> </p>
 <lb/><p>Dear <persName>Lord Kinnaird</persName>
 <lb/>You may have been 
 <w>sur-<lb break="no"/>prised</w><add place="above">to</add> hear of the death of <persName>Bishop MacKenzie</persName>
@@ -88,10 +88,11 @@
 <lb/>wonder that some of them feel discouraged 
 <lb/>and 
 <lb/><!-- nothing missing here - he just ends mid sentence --></p>
-<lb/><p>8<hi rend="sup underline">th</hi> May<reg>.</reg> I had written thus much by the 
+<lb/><p><date when="1862-05-08">8<hi rend="sup underline">th</hi> May</date><reg>.</reg> I had written thus much by the 
 <lb/>sick bed of my wife when the saddest 
 <lb/>event of my life put it out of my head. 
-<lb/>On 27<hi rend="sup"><hi rend="underline">th</hi></hi> I had to part with my good and faithful companion of eighteen years whom 
+<lb/>On <date when="1862-04-27">27<hi rend="sup"><hi rend="underline">th</hi></hi></date> I had to part with my good and 
+<lb/>faithful companion of eighteen years whom 
 <lb/>I married for love and the longer I had her 
 <lb/>I loved her the more. It is the first 
 <w>heart-<lb break="no"/>stroke</w> I have experienced and seems to take the 
@@ -107,7 +108,7 @@
 <lb/>was a good though often dejected christian<reg>.</reg>
 <lb/>You will excuse my saying so much 
 <lb/>of a personal nature. </p>
-<lb/><p>Our steamer for <placeName>Nyassa</placeName> came out 
+<lb/><p>Our steamer for <placeName><geogName type="lake">Nyassa</geogName></placeName> came out 
 <lb/>in pieces instead of sailing out as I had 
 <lb/>arranged that she should do. It was 
 <lb/>feared that in sailing out she might be 
@@ -128,7 +129,7 @@
 
 	<pb n="0004" facs="liv_001766_0004"/><!--pb/@n='04'-->
 <lb/>the engineer of the <term type="boat">Pioneer</term> had neglected his 
-<lb/>duty. <choice><reg>he</reg><orig>t</orig></choice>engines were full of sand &amp; 
+<lb/>duty. The engines were full of sand &amp; 
 <lb/>we were three weeks in getting up to 
 <lb/><placeName>Shupanga</placeName> which we have done before &amp; 
 <lb/>since with as heavy a load in two &amp; 
@@ -147,13 +148,13 @@
 <lb/><p><persName>M<hi rend="sup underline">r</hi>Rae</persName> put the shell of the steamer 
 <lb/>together in a fortnight. I am carrying the 
 <lb/>rest of her from <placeName>Kongone</placeName> to <placeName>Shupanga</placeName>
-<lb/>and we hope to go up <placeName>Shire</placeName> in June. <choice><reg>T</reg><orig>t</orig></choice>he 
+<lb/>and we hope to go up <placeName>Shire</placeName> in <date when="1862-06">June</date>. <choice><reg>T</reg><orig>t</orig></choice>he 
 <lb/>Portuguese say nothing to us about the 
 <lb/>captives we freed and we of course don<reg>'</reg>t 
 <lb/>introduce the subject. We hope to do something 
 <lb/>towards a permanent stoppage of the trade 
-<lb/>from <placeName>Nyassa</placeName> of 19000 slaves to <placeName>Zanzibar</placeName>
-<lb/>as soon as we get on the lake<reg>.</reg>David Livingstone </p><addSpan spanTo="#p01-01" place="marginleft"><!--addSpan/@place='left hand margin'--></addSpan>
+<lb/>from <placeName><geogName type="lake">Nyassa</geogName></placeName> of 19000 <orgName>slaves</orgName> to <placeName>Zanzibar</placeName>
+<lb/>as soon as we get on the Lake<reg>.</reg>David Livingstone </p><addSpan spanTo="#p01-01" place="marginleft"><!--addSpan/@place='left hand margin'--></addSpan>
 <lb/><p>A kind salutation to <persName>Lady Kinnaird</persName>. My wife told me 
 <lb/>lately of her kindness to her. </p><anchor xml:id="p01-01"/>
 			
