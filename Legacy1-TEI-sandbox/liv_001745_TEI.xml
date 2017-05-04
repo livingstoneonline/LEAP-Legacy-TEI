@@ -41,10 +41,10 @@
 
 	<pb n="0001" facs="liv_001745_0001"/><!--pb/@n='1r'-->
 <lb/><p rend="right"><placeName>Shupanga</placeName>, <placeName>Zambesi</placeName></p>
-<lb/><p rend="right">12 March 1862</p>
+<lb/><p rend="right"><date when="1862-03-12">12 March 1862</date></p>
 <lb/><p><persName>Rev<hi rend="sup"><hi rend="underline">d</hi></hi> D<hi rend="sup"><hi rend="underline">r</hi></hi> Candlish</persName></p>
 <lb/><p>My Dear Sir</p>
-<lb/><p>I am happy to inform 
+<lb/><p><hi rend="right">I am happy to inform</hi> 
 <lb/>you that <persName>M<hi rend="sup"><hi rend="underline">r</hi></hi> Stewart</persName> arrived off the 
 <lb/>mouth of this river on the last day 
 <lb/>of January, and as it appeared 
@@ -54,7 +54,7 @@
 <lb/>and people with his own eyes, 
 <lb/>I invited him to accompany us 
 <lb/>while trying to take a steamer up 
-<lb/>to Lake Nyassa. By the kind 
+<lb/>to <placeName><geogName type="lake">Lake Nyassa</geogName><placeName>. By the kind 
 <lb/>assistance of <persName>Captain Wilson</persName> of 
 <lb/><term type="boat">H. M. S. Gorgon</term> we soon had most of 
 <lb/>the hull aboard the <term type="boat">Pioneer</term>, but 
@@ -82,8 +82,8 @@
 
 	<pb n="0003" facs="liv_001745_0003"/><!--pb/@n='2r'-->
 <lb/>is spoken at <placeName>Senna</placeName> &amp; <placeName>Tette</placeName> on the 
-<lb/><placeName>Zambesi</placeName> - and up to the end of <placeName>Lake 
-<lb/>Nyassa</placeName> 400 miles to the North - the <persName>bishop <add place="above">Mackenzie</add></persName> is working at it, but years 
+<lb/><placeName><geogName type="river">Zambesi</geogName></placeName> - and up to the end of <placeName>Lake 
+<lb/>Nyassa</placeName> <measure>400 miles</measure> to the North - the <persName>bishop <add place="above">Mackenzie</add></persName> is working at it, but years 
 <lb/>must elapse before it can become 
 <lb/>a proper or copious vehicle of 
 <lb/>religious thought.</p>
@@ -92,12 +92,12 @@
 <lb/>rejoice in the prospect of 
 <lb/>another mission where there is 
 <lb/>so very much room for work. 
-<lb/>Nineteen thousand slaves pass 
+<lb/>Nineteen thousand <orgName>slaves</orgName> pass 
 <lb/>annually through the custom 
 <lb/>house of <placeName>Zanzibar</placeName> and according 
-<lb/>to <persName>Colonel Rigby</persName> H M consul there 
+<lb/>to <persName>Colonel Rigby</persName> DM consul there 
 <lb/>the chief portion of them comes from 
-<lb/><placeName>Lake Nyassa</placeName>. We hope to do 
+<lb/><placeName><geogName type="lake">Lake Nyassa</geogName></placeName>. We hope to do 
 <w>some-<lb break="no"/>thing</w> towards stopping this traffic 
 <lb/>but it is only by christian 
 
@@ -126,10 +126,8 @@
 <lb/><p>though I had not the pleasure of meeting you at <persName>D<hi rend="sup"><hi rend="underline">r</hi></hi>
 <lb/>Buchanan's</persName> I met your daughter there &amp; beg to 
 <lb/>present kind salutations<reg>.</reg></p><anchor xml:id="p.1r-01"/><addSpan spanTo="#p.1v-01" place="marginleft"><!--addSpan/@place='left and right margins of fol. 1v and left margin of fol. 2r'--></addSpan>
-<lb/><p>15 March - <persName>The Bishop Mackenzie</persName> &amp; <persName>Rev<hi rend="sup"><hi rend="underline">d</hi></hi> Burrup</persName> died 
-<lb/>in January &amp; February - came down to meet us in a canoe which 
-
-	<pb n="0005" facs="liv_001745_0005"/><!--pb/@n='2r'-->
+<lb/><p><date when="1862-03-15">15 March</date> - <persName>The Bishop Mackenzie</persName> &amp; <persName>Rev<hi rend="sup"><hi rend="underline">d</hi></hi> Burrup</persName> died 
+<lb/>in <date when="1862-01">January</date> &amp; <date when="1862-02">February</date> - came down to meet us in a canoe which 
 <lb/>was overturned - clothes &amp; medicines lost - fever &amp; diarrhoea 
 <lb/>proved fatal - a sad blow - but whatever effect it may have 
 <lb/>at home not one hairs breadth will I swerve from my works.</p><anchor xml:id="p.1v-01"/>
