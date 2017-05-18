@@ -35,6 +35,10 @@
 				<date>2008-06-30</date>
 				<name xml:id="SM">Sharon Messenger</name>Initial Transcription by Sharon Messenger
 			</change>
+			<change>
+				<date>2017-05-18</date>
+				<name xml:id="MW">Megan Ward</name>Proofed and Updated XML
+			</change>
 		</revisionDesc>
 	</teiHeader>
 
@@ -44,17 +48,19 @@
 
 	<pb n="0001" facs="liv_002285_0001"/><!--pb/@n='01'-->
 <lb/><p rend="right"><placeName>8 Dover St</placeName>
-<lb/><placeName>Piccadilly</placeName>4 May 1865  </p>
+<lb/><placeName>Piccadilly</placeName>
+<lb/><date when="1865-05-04">4 May 1865</date></p>
 <lb/><p>My Dear <persName>D<hi rend="sup underline">r</hi>Hamilton</persName></p>
 <lb/><p>Will you kindly 
 <lb/>forward this note 
-<lb/>to <persName>M<hi rend="sup"><hi rend="underline">r</hi></hi>Brodie</persName>? </p>
-<lb/><p>A gentleman called <persName>Robert 
+<lb/>to <persName>M<hi rend="sup"><hi rend="underline">r</hi></hi>Brodie</persName>?</p>
+<lb/><p>A gentleman 
+<lb/>called <persName>Robert 
 <lb/>Arthington</persName>of 
 <lb/><placeName>Leeds</placeName>wishes to 
 <lb/>make an effort 
 <lb/>to introduce the 
-<lb/>bible into <placeName>Angola</placeName>
+<lb/><bibl>bible</bibl> into <placeName>Angola</placeName>
 
 	<pb n="0002" facs="liv_002285_0002"/><!--pb/@n='02'-->
 <lb/>He has been led to 
@@ -63,12 +69,13 @@
 <lb/>that country. He 
 <lb/>seems of a very 
 <lb/>ardent temperament 
-<lb/>uses the word Hallelujah! in his 
+<lb/>uses the word 
+<lb/>Hallelujah! in his 
 <lb/>letters and is 
 <lb/>possessed of 
 <lb/>means. I don<reg>'</reg>t 
 <lb/>know him at 
-<lb/>all more than he 
+<lb/>all more that he 
 <lb/>sometimes writes 
 <lb/>to me, and in the 
 <lb/>course he proposed 
@@ -80,7 +87,7 @@
 <lb/>no good. I therefore 
 <lb/>advised caution 
 <lb/>in dealing with the 
-<lb/>Portuguese. This 
+<lb/><term type="people">Portuguese</term>. This 
 <lb/>advice he has 
 <lb/>taken in good spirit 
 <lb/>and now asks me 
@@ -100,20 +107,20 @@
 <lb/>through your elder 
 <lb/>and tell him that 
 <lb/>I don<reg>'</reg>t know any 
-<lb/>thing of <persName>Silvas</persName> religious 
+<lb/>thing of <choice><sic><persName>Silva</persName>s</sic><corr>Silva's</corr></choice> religious 
 <lb/>feelings but that 
-<lb/>the Portuguese 
+<lb/>the <term type="people">Portuguese</term> 
 <lb/>generally have very 
 <lb/>weak religious 
 <lb/>convictions and 
 <lb/>I have given him 
-<lb/><persName>M<hi rend="sup">r</hi> Brodies</persName> card 
+<lb/><persName>M<hi rend="sup">r</hi> <choice><sic><persName>Brodie</persName>s</sic><corr>Brodie's</corr></choice> card 
 <lb/>with the assurance 
 <lb/>that he will have 
 <lb/>christian sympathy 
 <lb/>with him. The 
 <lb/>card is gone and 
-<lb/><addSpan spanTo="#p01-01" place="marginleft"><!--addSpan/@place='left hand margin'--></addSpan>not knowing <persName>M<hi rend="sup">r</hi>Brodies</persName>address 
+<lb/><addSpan spanTo="#p01-01" place="marginleft"><!--addSpan/@place='left hand margin'--></addSpan>not knowing M<hi rend="sup">r</hi> <choice><sic><persName>Brodie</persName>s</sic><corr>Brodie's</corr></choice> address 
 <lb/>I venture to trouble you<reg>.</reg>With kind 
 <lb/>regards to 
 <lb/><persName>M<hi rend="sup"><hi rend="underline">rs</hi></hi>H</persName> &amp; 
@@ -122,7 +129,7 @@
 <lb/><p><persName>Sir Roderick</persName>had a thousand at 
 <lb/>his reception last night<reg>.</reg>
 <lb/><anchor xml:id="p02-01"/><addSpan spanTo="#p03-01" place="marginleft"><!--addSpan/@place='left hand margin'--></addSpan>Everybody was there &amp; <persName>D<hi rend="sup underline">r</hi>Beke</persName>
-<lb/>the <unclear cert="low">would</unclear> be source of the <placeName>Nile</placeName> man<reg>.</reg></p><anchor xml:id="p03-01"/>
+<lb/>the <unclear cert="high">would</unclear> be source of the <placeName>Nile</placeName> man<reg>.</reg></p><anchor xml:id="p03-01"/>
 			
 </div>
 		</body>
