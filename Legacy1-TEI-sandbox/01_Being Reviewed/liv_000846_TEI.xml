@@ -37,7 +37,9 @@
 		<revisionDesc>
 			<change>
 				<date>2009-05-19</date>
-				<name xml:id="CO">Caroline Overy</name>Letter foliated by Caroline Overy
+				<name>Caroline Overy</name>Letter foliated by Caroline Overy
+				<date>2017-04-14</date>
+				<name>Kate Simpson</name>Proofread by Kate Simpson
 			</change>
 		</revisionDesc>
 	</teiHeader>
@@ -47,9 +49,9 @@
 			<div>
 
 	<pb n="0001" facs="liv_000846_0001"/><!--pb/@n='1r'-->
-<lb/><p rend="right"><placeName>Cassange</placeName>10<hi rend="sup underline">th</hi>Feby 
-<lb/><hi rend="underline">1855</hi></p>
-<lb/><p rend="right">Rev<hi rend="sup underline">d</hi> D<hi rend="sup"><hi rend="underline">r</hi></hi> Tidman </p>
+				<lb/><p><space extent="12" unit="chars"/><placeName><settlement type="village">Cassange</settlement></placeName> <date when="1855-02-10">10<hi rend="sup underline">th</hi> <choice><abbr>Feby</abbr><expan>February</expan></choice> 
+	<lb/><space extent="24" unit="chars"/><hi rend="underline">1855</hi></date></p>
+<lb/><p rend="no-indent"><persName><choice><abbr>Rev<hi rend="sup underline">d</hi></abbr><expan>Reverend</expan></choice> D<hi rend="sup"><hi rend="underline">r</hi></hi> Tidman</persName> </p>
 <lb/><p>Dear Sir </p>
 <lb/><p>It affords me 
 <lb/>much pleasure to be able to 
