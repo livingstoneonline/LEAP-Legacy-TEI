@@ -34,6 +34,8 @@
 			<change>
 				<date>2008-04-02</date>
 				<name xml:id="SM">Sharon Messenger</name>Initial Transcription by Sharon Messenger
+				<date>2017-05-24</date>
+				<name>Justin Livingstone</name>Proofed by Justin Livingstone
 			</change>
 		</revisionDesc>
 	</teiHeader>
@@ -43,10 +45,14 @@
 			<div>
 
 	<pb n="0001" facs="liv_000572_0001"/><!--pb/@n='19r'-->
-<lb/><p rend="right"><placeName>Mabotsa</placeName>
-<lb/>21 Nov 1844 </p>
-<lb/><p>My Dear <persName>Brother Drummond</persName></p>
-<lb/><p>Your welcome and excellent letter written 
+<lb/><space extent="48" unit="chars"/><fw n="19"><add place="inspace" rend="gray right" hand="#U">19</add></fw>
+<lb/><p><space extent="10" unit="chars"/><choice><sic>Dont</sic><corr>Don't</corr></choice> address me Rev &amp; M. D. too
+<lb/><space extent="40" unit="chars"/><placeName><settlement type="village">Mabotsa</settlement></placeName> 21 Nov 1844
+<lb/><space extent="12" unit="chars"/>say either <persName>D<hi rend="sup underline">r</hi> <choice><abbr>L.</abbr><expan>Livingstone</expan></choice></persName>, if you say Rev D<hi rend="sup underline">r</hi> that would be equal 
+<lb/><space extent="42" unit="chars"/>to D. D. which I am
+<lb/><space extent="56" unit="chars"/>not</p>			
+<lb/><p rend="no-indent">My Dear <persName>Brother Drummond</persName></p>
+<lb/><p><space extent="6" unit="words"/>Your welcome and excellent letter written 
 <lb/>at some queer outlandish place where it seems <persName>M<hi rend="sup">r</hi> Chisholme</persName> among 
 <lb/>other good deeds is doing the needful towards augmenting the worlds 
 <lb/>population found me in my monkish all a few days ago as happy 
