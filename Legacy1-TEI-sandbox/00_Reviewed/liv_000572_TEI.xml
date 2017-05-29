@@ -100,7 +100,7 @@
 
 
 	<pb n="0002" facs="liv_000572_0002"/><!--pb/@n='19v'-->
-<lb/><p>Indeed they seem to make conscience of begging, and though refused 
+<lb/><p rend="no-indent">Indeed they seem to make conscience of begging, and though refused 
 <lb/>if the refusal is in a joculent or friendly manner they <choice><sic>dont</sic><corr>don't</corr></choice>
 <lb/>seem to take it ill. They have cleared their conscience and had 
 <lb/>they gone away without making a <unclear cert="low">trial</unclear> they would have perhaps 
@@ -147,10 +147,11 @@
 <lb/>began - it is not so now. But it is so here. <persName>Mahura</persName>
 <lb/>the <term type="occupation">chief</term> of the <term type="tribe">Batlapi</term>was very much opposed</p>	
 <lb/><cb rend="vertical"/><p><addSpan spanTo="#p19v-01" place="marginleft"/>desirable to be attended to in order to be able to tell <unclear cert="low">them</unclear> of the amount of good done &amp; thus stimulate others to support &amp; <w>individ<supplied cert="high">-</supplied>
-<lb break="no"/>nalize</w> their own labourers at the throne of grace - Have you seen <orgName><persName>Morrison</persName>'s (of <term type="town">Kilmarnock</term>)</orgName> Tracts?<anchor xml:id="p19v-01"/></p>
+<lb break="no"/>ualize</w> their own labourers at the throne of grace - Have you seen <orgName><persName>Morrison</persName>'s (of <term type="town">Kilmarnock</term>)</orgName> Tracts?<anchor xml:id="p19v-01"/></p>
 
 	<pb n="0003" facs="liv_000572_0003"/><!--pb/@n='20r'-->
-<lb/><p rend="no-indent">to the gospel <choice><sic>untill</sic><corr>until</corr></choice> lately, and so long as he continued so,<add place="above" rend="gray" hand="#U">20</add> no 
+<lb/><p><space extent="47" unit="chars"/><add place="inline" rend="gray" hand="#U">20</add> 
+<lb/>to the gospel <choice><sic>untill</sic><corr>until</corr></choice> lately, and so long as he continued so, no 
 <lb/>one living near hiom embraced the gospel. He has lately become 
 <lb/>more favourable &amp; <persName>M<hi rend="sup">r</hi> Ross</persName> has gone to live with him &amp; we 
 <lb/>have hopes of good being the result. Did you notice that <persName>Mr 
@@ -210,17 +211,18 @@
 <lb/>are concerned. Poor <persName>C<del type="strikethrough">h</del>atharine</persName>, she has not enjoyed the <choice><sic>maroned</sic><corr>marooned</corr></choice> 
 <lb/>state since. <space extent="2" unit="chars"/>In perpetual pain &amp; unable to stand without support 
 <lb/><gap extent="1" unit="words" agent="damage"/> well &amp; of <persName>Fison</persName> I hear nothing<reg>.</reg></p>
-
+<lb/>
 <lb/><cb rend="vertical"/><p>Care of Rev. <del type="strikethrough">D<hi rend="sup">r</hi> <persName>Phillip</persName>, <placeName><settlement type="city">Cape Town</settlement></placeName></del>
 <lb/><persName>Rev<hi rend="sup">d</hi> Dr <unclear cert="medium">Ross</unclear></persName>
-<lb/><placeName><term type="city">Sydney</term></placeName>
+<lb/><space extent="4" unit="chars"/><placeName><term type="city">Sydney</term></placeName>
 <address>
-<addrLine><persName>Rev<hi rend="sup">d</hi>George Drummond</persName></addrLine>
-<addrLine><placeName><choice><sic>Falealopu</sic><corr>Falealupo</corr></choice>, <choice><sic>Savaii</sic><corr>Savai'i</corr></choice></placeName></addrLine>
-<addrLine><placeName>Navigator's Islands</placeName></addrLine>
-<addrLine><placeName>South Seas</placeName>.</addrLine>
+<addrLine><space extent="4" unit="chars"/><persName>Rev<hi rend="sup">d</hi> George Drummond</persName></addrLine>
+<addrLine><space extent="8" unit="chars"/><placeName><choice><sic>Falealopu</sic><corr>Falealupo</corr></choice>, <choice><sic>Savaii</sic><corr>Savai'i</corr></choice></placeName></addrLine>
+<addrLine><space extent="12" unit="chars"/><placeName>Navigator's Islands</placeName></addrLine>
+<addrLine><space extent="16" unit="chars"/><placeName>South Seas</placeName>.</addrLine>
 </address></p>
-<lb/><p>You say if <unclear cert="low">I</unclear> children pulling my coat tails &amp;c could not take the breeks
+<lb/>				
+<lb/><p rend="no-indent">You say if <unclear cert="low">I</unclear> children pulling my coat tails &amp;c could not take the breeks
 <lb/>off a <gap extent="1" unit="words" agent="damage"/> could you? I <choice><sic>dont</sic><corr>don't</corr></choice> know when I have had a coat on my 
 <lb/>back, I wear jackets. &amp; I say if you were as near <placeName><country>Egypt</country></placeName> as we are 
 <lb/>you would have worse plagues than children only a great deal smaller<reg>.</reg>
