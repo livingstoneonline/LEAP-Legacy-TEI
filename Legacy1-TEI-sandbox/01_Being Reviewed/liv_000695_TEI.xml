@@ -33,7 +33,11 @@
 		<revisionDesc>
 			<change>
 				<date>2009-04-04</date>
-				<name xml:id="initials">SM</name>Initial Transcription by 
+				<name>Sharon Messenger</name>Initial Transcription by Sharon Messenger 
+			</change>
+			<change>
+				<date>2017-06-01</date>
+				<name>Heather Ball</name>Proofing by Heather Ball 
 			</change>
 		</revisionDesc>
 	</teiHeader>
@@ -43,44 +47,45 @@
 			<div>
 
 	<pb n="0001" facs="liv_000695_0001"/><!--pb/@n='01'-->
-<lb/><p rend="right"><placeName>Kolobeng</placeName> 4<hi rend="sup underline">th</hi> March</p>
-<lb/><p>1850 </p>
-<lb/><p>My Very Dear Friends 
-<lb/>I am ashamed to remember that your last 
-<lb/>letter is still unanswered although it has been by us for 2 or 3 
+<lb/><p rend="no-indent"><space unit="words" extent="12"/><placeName><settlement type="village">Kolobeng</settlement></placeName> 4<hi rend="sup underline">th</hi> March
+<lb/><space unit="words" extent="15"/><space unit="chars" extent="2"/>1850</p>
+<lb/><p rend="no-indent"><space unit="chars" extent="2"/>My Very Dear Friends</p>
+<lb/><p rend="no-indent"><space unit="words" extent="6"/>I am ashamed to remember that <bibl>your last 
+<lb/>letter</bibl> is still unanswered although it has been by us for 2 or 3 
 <lb/>months. My wife will bear none of the blame in that respect 
-<lb/>imitating <persName>Mrs P</persName>. after she got my scolding. I was quite proud 
-<lb/>when I found it has some effect and wish <persName>M<hi rend="sup">r</hi> P</persName> would touch 
+<lb/>imitating <persName>M<hi rend="sup">rs</hi> <choice><abbr>P.</abbr><expan>Pyne</expan></choice></persName> after she got my scolding. I was quite proud 
+<lb/>when I found it had some effect and wish <persName>M<hi rend="sup">r</hi> <choice><abbr>P</abbr><expan>Pyne</expan></choice></persName> would touch 
 <lb/>up my better half occasionally too. We could work to each 
-<lb/>other's hands nicely. <choice><reg>T</reg><orig>t</orig></choice>he reason why I did not answer it 
+<lb/>other's hands nicely. <space unit="chars" extent="2"/><choice><sic>the</sic><corr>The</corr></choice> reason why I did not answer it 
 <lb/>sooner was I have till tonight been going on under the 
-<lb/>impression that I had answered it long ago, but <persName>M<hi rend="sup">rs</hi>L</persName> insists 
-<lb/>I have not. Mary's was a beautiful and most 
-<w>interest-<lb break="no"/>ing</w> letter. She takes after her mother. I cannot possibly 
-<lb/>answer her now as we are going to the North in a few days 
-<lb/>and are busy <del type="strikethrough">now</del> preparing. If she will excuse me I shall 
+<lb/>impression that I had answered it long ago, but <persName>M<hi rend="sup">rs</hi> <choice><abbr>L</abbr><expan>Livingstone</expan></choice></persName> insists 
+<lb/>that I have not. <space unit="chars" extent="1"/><persName>Mary</persName>'s was a beautiful and most <w>interest
+<lb break="no"/><add place="marginleft">-</add>ing</w> <bibl>letter</bibl> - She takes after her mother. <space unit="chars" extent="1"/>I cannot possibly 
+<lb/>answer her now as we are going to <placeName><region>the North</region></placeName> in a few days 
+<lb/>and are busy <del type="strikethrough">now</del> preparing - If she will excuse me I shall 
 <lb/>write during the journey and send it off as soon as we return 
 <lb/>the box about which you advised us came to hand two 
-<lb/>days ago. <choice><reg>A</reg><orig>a</orig></choice>nd it afforded us a great amount of pleasure 
+<lb/>days ago. <choice><sic>and</sic><corr>And</corr></choice> it afforded us a great amount of pleasure 
 <lb/>but pleasure is not all - the contents are are all really useful 
-<lb/>Mary says <persName>M<hi rend="sup">rs</hi>P</persName> has anticipated all her wants and provided 
-<lb/>for them with the kindness of a mother. It is impossible to 
+<lb/><persName>Mary</persName> says <persName>M<hi rend="sup">rs</hi> <choice><abbr>P</abbr><expan>Pyne</expan></choice></persName> has anticipated all her wants and provided 
+<lb/>for them with the kindness of a mother - It is impossible to 
 <lb/>specify the different articles - they are so numerous. I was 
 <lb/>nearly out of shirts and did not know what to do for the journey 
 <lb/>for last time I went every washing wearing one or two of 
-<lb/>my stock through the middle. Half a dozen from my mother in 
-<lb/><placeName>Scotland</placeName> &amp; yours have quite set me out. I have not looked 
+<lb/>my stock through the middle. <choice><sic>half</sic><corr>Half</corr></choice> a dozen from my mother in 
+<lb/><space unit="chars" extent="1"/><placeName><country>Scotland</country></placeName> &amp; yours have quite set me out. <space unit="chars" extent="1"/>I have not looked 
 <lb/>over all the articles, but you must accept our hearty &amp; 
-<lb/>sincere thanks for the whole. <choice><reg>T</reg><orig>t</orig></choice>he seeds I am sorry to say 
-<lb/>were spoiled, they seem to have been put up too moist &amp; 
-<lb/>and were gone bad probably your climate is not dry enough 
+<lb/>sincere thanks for the whole. <space unit="chars" extent="1"/><choice><sic>the</sic><corr>The</corr></choice> <term type="plant_foodstuff">seeds</term> I am sorry to say 
+<lb/>were spoiled, <space unit="chars" extent="1"/>they seem to have been put up too moist &amp; 
+<lb/><space unit="chars" extent="1"/><choice><sic>and</sic><corr/></choice> were gone bad probably your climate is not dry enough 
 <lb/>for putting up in tins. If you try again it may be well 
-<lb/>to put them up simply in brown paper. Our garden is useless from want of water. <choice><reg>T</reg><orig>t</orig></choice>he olive plants around 
-<lb/>our table are the only vegetables that seen to thrive here<reg>.</reg>
+<lb/>to put them <space unit="chars" extent="1"/>up simply in brown paper - Our garden
+<lb/>is useless from want of water. <choice><sic>the</sic><corr>The</corr></choice> <term type="plant_foodstuff">olive plants</term> around 
+<lb/>our table are the only <term type="plant_foodstuff">vegetables</term> that seem to thrive here</p>
 
 	<pb n="0002" facs="liv_000695_0002"/><!--pb/@n='02'-->
-<lb/>We had a pleasant visit from <persName>M<hi rend="sup">r</hi> Freeman</persName>. He came a 
-<lb/>few days before 49 fled &amp; left a few days after 50 began. We 
+<lb/><p rend="no-indent">We had a pleasant visit from <persName>M<hi rend="sup">r</hi> Freeman</persName> - he came a 
+<lb/>few days before <choice><abbr>49</abbr><expan>1849</expan></choice> fled &amp; left a few days after <choice><abbr>50</abbr><expan>1850</expan></choice> began. We 
 <lb/>outlandish people forgot to wish him a happy new year. We 
 <lb/>have no holidays - but I thought we might have so planned 
 <lb/>a trip of about a days journey to a cave. <choice><reg>T</reg><orig>t</orig></choice>he Bakwains 
