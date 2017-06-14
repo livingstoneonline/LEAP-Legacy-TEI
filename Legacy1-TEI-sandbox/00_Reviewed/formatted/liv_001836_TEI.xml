@@ -37,6 +37,10 @@
 				<date>2017-05-11</date>
 				<name>Heather Ball</name>Proofed by Heather Ball
 			</change>
+			<change>
+				<date>2017-06-14</date>
+				<name>Adrian S. Wisnicki</name>Formatting Review by Adrian S. Wisnicki
+			</change>
 		</revisionDesc>
 	</teiHeader>
 
@@ -45,7 +49,7 @@
 			<div>
 
 	<pb n="0001" facs="liv_001836_0001"/><!--pb/@n='01'-->
-<lb/><p rend="no-indent"><space unit="words" extent="1"/><placeName><geogName type="island">Johanna</geogName></placeName> 21<hi rend="sup underline">st</hi> <choice><abbr>Oct<hi rend="sup">r</hi></abbr><expan>October</expan></choice></p>
+<lb/><p rend="no-indent gray"><add place="marginleft" hand="#U" rend="black small">64</add> <space unit="chars" extent="2"/><placeName><geogName type="island">Johanna</geogName></placeName> 21<hi rend="sup underline">st</hi> <choice><abbr>Oct<hi rend="sup">r</hi></abbr><expan>October</expan></choice> <add place="marginright" rend="small" hand="#U">136</add></p>
 <lb/><p rend="no-indent"><choice><abbr>P.S.</abbr><expan>Post Script</expan></choice> <space unit="chars" extent="2"/>We went up a few 
 <lb/>miles after coming back 
 <lb/>to the ship to get ebony 

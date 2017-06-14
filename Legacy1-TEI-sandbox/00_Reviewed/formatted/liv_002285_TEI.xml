@@ -39,6 +39,10 @@
 				<date>2017-05-18</date>
 				<name xml:id="MW">Megan Ward</name>Proofed and Updated XML
 			</change>
+			<change>
+				<date>2017-06-14</date>
+				<name>Adrian S. Wisnicki</name>Formatting Review by Adrian S. Wisnicki
+			</change>
 		</revisionDesc>
 	</teiHeader>
 
@@ -47,10 +51,11 @@
 			<div>
 
 	<pb n="0001" facs="liv_002285_0001"/><!--pb/@n='01'-->
-<lb/><p rend="right"><placeName>8 Dover St</placeName>
-<lb/><placeName>Piccadilly</placeName>
-<lb/><date when="1865-05-04">4 May 1865</date></p>
-<lb/><p>My Dear <persName>D<hi rend="sup underline">r</hi>Hamilton</persName></p>
+<lb/><p rend="no-indent"><space extent="2" unit="words"/><space extent="2" unit="chars"/><placeName>8 Dover St</placeName>
+<lb/><space extent="2" unit="words"/><space extent="2" unit="chars"/><placeName>Piccadilly</placeName>
+<lb/><space extent="2" unit="words"/><space extent="2" unit="chars"/><date when="1865-05-04">4 May 1865</date></p>
+<lb/>
+<lb/><p rend="no-indent">My Dear <persName>D<hi rend="sup underline">r</hi>Hamilton</persName></p>
 <lb/><p>Will you kindly 
 <lb/>forward this note 
 <lb/>to <persName>M<hi rend="sup"><hi rend="underline">r</hi></hi>Brodie</persName>?</p>
@@ -60,10 +65,17 @@
 <lb/><placeName>Leeds</placeName>wishes to 
 <lb/>make an effort 
 <lb/>to introduce the 
-<lb/><bibl>bible</bibl> into <placeName>Angola</placeName>
+<lb/><bibl>bible</bibl> into <placeName>Angola</placeName></p>
+<lb/>
+<lb/><addSpan spanTo="#p01-01" place="marginleft"><!--addSpan/@place='left hand margin'--></addSpan><p rend="no-indent">not knowing M<hi rend="sup">r</hi> <choice><sic><persName>Brodie</persName>s</sic><corr>Brodie's</corr></choice> address 
+<lb/>I venture to trouble you<reg>.</reg> With kind 
+<lb/><space extent="6" unit="words"/>regards to 
+<lb/><space extent="6" unit="words"/><persName>M<hi rend="sup"><hi rend="underline">rs</hi></hi>H</persName> &amp; 
+<lb/><space extent="6" unit="words"/>family 
+<lb/><space extent="6" unit="words"/><persName>David Livingstone</persName></p><anchor xml:id="p01-01"/>
 
 	<pb n="0002" facs="liv_002285_0002"/><!--pb/@n='02'-->
-<lb/>He has been led to 
+<lb/><p rend="no-indent">He has been led to 
 <lb/>this from reading 
 <lb/>my account of 
 <lb/>that country. He 
@@ -79,10 +91,13 @@
 <lb/>sometimes writes 
 <lb/>to me, and in the 
 <lb/>course he proposed 
-<lb/>to adopt I feared 
+<lb/>to adopt I feared </p>
+<lb/><addSpan spanTo="#p02-01" place="marginleft"><!--addSpan/@place='left hand margin'--></addSpan>
+<lb/><p rend="no-indent"><persName>Sir Roderick</persName>had a thousand at 
+<lb/>his reception last night<reg>.</reg></p><anchor xml:id="p02-01"/>
 
 	<pb n="0003" facs="liv_002285_0003"/><!--pb/@n='03'-->
-<lb/>that he might lose a 
+<lb/><p rend="no-indent">that he might lose a 
 <lb/>deal of money &amp; do 
 <lb/>no good. I therefore 
 <lb/>advised caution 
@@ -99,10 +114,14 @@
 <lb/>has been agent for 
 <lb/>British &amp; F. Bible 
 <lb/>Society who proposed 
-<lb/>to settle at <placeName>Loanda</placeName>
+<lb/>to settle at <placeName>Loanda</placeName></p>
+<lb/>
+<lb/><addSpan spanTo="#p03-01" place="marginleft"><!--addSpan/@place='left hand margin'--></addSpan><p rend="no-indent">Everybody was there &amp; <persName>D<hi rend="sup underline">r</hi>Beke</persName>
+<lb/>the would be source of the <placeName>Nile</placeName> man<reg>.</reg></p><anchor xml:id="p03-01"/>
+
 
 	<pb n="0004" facs="liv_002285_0004"/><!--pb/@n='04'-->
-<lb/>I advise him now 
+<lb/><p rend="no-indent">I advise him now 
 <lb/>to apply to <persName>M<hi rend="sup underline">r</hi>Silva</persName>
 <lb/>through your elder 
 <lb/>and tell him that 
@@ -114,22 +133,12 @@
 <lb/>weak religious 
 <lb/>convictions and 
 <lb/>I have given him 
-<lb/><persName>M<hi rend="sup">r</hi> <choice><sic><persName>Brodie</persName>s</sic><corr>Brodie's</corr></choice> card 
+<lb/>M<hi rend="sup">r</hi> <choice><sic><persName>Brodie</persName>s</sic><corr>Brodie's</corr></choice> card 
 <lb/>with the assurance 
 <lb/>that he will have 
 <lb/>christian sympathy 
 <lb/>with him. The 
-<lb/>card is gone and 
-<lb/><addSpan spanTo="#p01-01" place="marginleft"><!--addSpan/@place='left hand margin'--></addSpan>not knowing M<hi rend="sup">r</hi> <choice><sic><persName>Brodie</persName>s</sic><corr>Brodie's</corr></choice> address 
-<lb/>I venture to trouble you<reg>.</reg>With kind 
-<lb/>regards to 
-<lb/><persName>M<hi rend="sup"><hi rend="underline">rs</hi></hi>H</persName> &amp; 
-<lb/>family 
-<lb/><persName>David Livingstone</persName></p><anchor xml:id="p01-01"/><addSpan spanTo="#p02-01" place="marginleft"><!--addSpan/@place='left hand margin'--></addSpan>
-<lb/><p><persName>Sir Roderick</persName>had a thousand at 
-<lb/>his reception last night<reg>.</reg>
-<lb/><anchor xml:id="p02-01"/><addSpan spanTo="#p03-01" place="marginleft"><!--addSpan/@place='left hand margin'--></addSpan>Everybody was there &amp; <persName>D<hi rend="sup underline">r</hi>Beke</persName>
-<lb/>the <unclear cert="high">would</unclear> be source of the <placeName>Nile</placeName> man<reg>.</reg></p><anchor xml:id="p03-01"/>
+<lb/>card is gone and </p>
 			
 </div>
 		</body>

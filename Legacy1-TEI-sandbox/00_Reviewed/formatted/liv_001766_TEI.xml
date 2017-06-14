@@ -35,6 +35,14 @@
 				<date>2008-06-10</date>
 				<name xml:id="SM">Sharon Messenger</name>Initial Transcription by Sharon Messenger
 			</change>
+			<change>
+				<date>2017-05-04</date>
+				<name>Megan Ward</name>Proofing by Megan Ward
+			</change>
+			<change>
+				<date>2017-06-14</date>
+				<name>Adrian S. Wisnicki</name>Formatting Review by Adrian S. Wisnicki
+			</change>
 		</revisionDesc>
 	</teiHeader>
 
@@ -43,9 +51,10 @@
 			<div>
 
 	<pb n="0001" facs="liv_001766_0001"/><!--pb/@n='01'-->
-<lb/><p rend="right"><placeName>Shupanga</placeName><date when="1862-04-25">25 <hi rend="sup underline">th</hi>April 1862</date> </p>
+<lb/><p rend="right"><placeName>Shupanga</placeName> <date when="1862-04-25">25 <hi rend="sup underline">th</hi>April 1862</date></p>
+<lb/>
 <lb/><p>Dear <persName>Lord Kinnaird</persName>
-<lb/>You may have been 
+<lb/><space extent="4" unit="words"/>You may have been 
 <w>sur-<lb break="no"/>prised</w><add place="above">to</add> hear of the death of <persName>Bishop MacKenzie</persName>
 <lb/>by the same mail with my last letter containing 
 <lb/>no forebodings of such a loss. The time between 
@@ -67,10 +76,14 @@
 <lb/>trees and surrounded on three sides by 
 <lb/>a fine stream about 10 yards wide. <choice><reg>T</reg><orig>t</orig></choice>he 
 <lb/>poor bishop admired the trees exceedingly 
-<lb/>and would allow none to be cut down. 
+<lb/>and would allow none to be cut down.</p>
+<lb/>
+<lb/><addSpan spanTo="#p01-01" place="marginleft"><!--addSpan/@place='left hand margin'--></addSpan>
+<lb/><p>A kind salutation to <persName>Lady Kinnaird</persName>. My wife told me 
+<lb/>lately of her kindness to her. </p><anchor xml:id="p01-01"/>
 
 	<pb n="0002" facs="liv_001766_0002"/><!--pb/@n='02'-->
-<lb/><choice><reg>B</reg><orig>b</orig></choice>ut having about 140 freed captives the 
+<lb/><p rend="no-indent"><choice><reg>B</reg><orig>b</orig></choice>ut having about 140 freed captives the 
 <lb/>absence of sanitary regulations <add place="above">and air</add>made the 
 <lb/>place become like a huge cesspool. <choice><reg>T</reg><orig>t</orig></choice>he 
 <lb/>missionaries speak of it as a "pest hole". 
@@ -143,7 +156,8 @@
 <lb/>the Portuguese - their last detachment 
 <lb/>of soldiers was sent up <add place="above">at once</add> to <placeName>Tette</placeName> and they 
 <lb/>have lost but two in two years. While 
-<lb/>formerly when they kept them down at <placeName>Quillimane</placeName> and <placeName>Senna</placeName>they were 
+<lb/>formerly when they kept them down at 
+<lb/><placeName>Quillimane</placeName> and <placeName>Senna</placeName>they were 
 <lb/>invariably nearly all cut off. </p>
 <lb/><p><persName>M<hi rend="sup underline">r</hi>Rae</persName> put the shell of the steamer 
 <lb/>together in a fortnight. I am carrying the 
@@ -154,9 +168,7 @@
 <lb/>introduce the subject. We hope to do something 
 <lb/>towards a permanent stoppage of the trade 
 <lb/>from <placeName><geogName type="lake">Nyassa</geogName></placeName> of 19000 <orgName>slaves</orgName> to <placeName>Zanzibar</placeName>
-<lb/>as soon as we get on the Lake<reg>.</reg>David Livingstone </p><addSpan spanTo="#p01-01" place="marginleft"><!--addSpan/@place='left hand margin'--></addSpan>
-<lb/><p>A kind salutation to <persName>Lady Kinnaird</persName>. My wife told me 
-<lb/>lately of her kindness to her. </p><anchor xml:id="p01-01"/>
+<lb/>as soon as we get on the Lake<reg>.</reg> David Livingstone </p>
 			
 </div>
 		</body>

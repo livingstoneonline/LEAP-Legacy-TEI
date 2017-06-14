@@ -36,6 +36,10 @@
 				<date>2017-04-14</date>
 				<name xml:id="MB">Mary Borgo</name>Proofing
 			</change>
+			<change>
+				<date>2017-06-14</date>
+				<name>Adrian S. Wisnicki</name>Formatting Review by Adrian S. Wisnicki
+			</change>
 		</revisionDesc>
 	</teiHeader>
 
@@ -45,6 +49,7 @@
 
 	<pb n="0001" facs="liv_001699_0001"/><!--pb/@n='01'-->
 <lb/><p><space extent="3" unit="words"/>H.M.S. Pioneer 29<hi rend="sup"><hi rend="underline">th</hi></hi> Nov<hi rend="sup underline">r</hi> 1861 </p>
+<lb/>
 <lb/><p>My Dear Mother </p>
 <lb/><p><space extent="4" unit="words"/>I am not sure whether 
 <lb/>you will be pleased or not to hear 
@@ -109,7 +114,7 @@
 <lb/>were freed and about 140 souls 
 <lb/>delivered to the mission to begin 
 <lb/>school with. <choice><orig>t</orig><reg>T</reg></choice>hey were chiefly women 
-<lb/>and children- their relatives all killed<choice><sic/><corr>.</corr></choice>
+<lb/>and children - their relatives all killed
 <lb/>Anything is better than heathenism<choice><sic/><corr>.</corr></choice></p>
 
 	<pb n="0004" facs="liv_001699_0004"/><!--pb/@n='04'-->
@@ -132,7 +137,7 @@
 <lb/>the child to the <term type="ailment">fever</term> in our 
 <lb/>wretched accomodation. 
 <lb/>With kindest saluations to you 
-<lb/>all<choice><sic/><corr>.</corr></choice><space extent="3" unit="chars"/> I am ever Affectionately </p>
+<lb/>all <space extent="3" unit="chars"/> I am ever Affectionately </p>
 <lb/><p><space extent="1" unit="words"/><persName>David Livingstone</persName></p>
 			
 </div>

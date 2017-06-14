@@ -41,7 +41,11 @@
 			</change>
 			<change>
 				<date>2017-04-11</date>
-				<name xml:id="AW">Adrian S. Wisnicki</name>Initial Transcription by Sharon Messenger
+				<name xml:id="AW">Adrian S. Wisnicki</name>Proofing by Adrian S. Wisnicki
+			</change>
+			<change>
+				<date>2017-06-14</date>
+				<name>Adrian S. Wisnicki</name>Formatting Review by Adrian S. Wisnicki
 			</change>
 		</revisionDesc>
 	</teiHeader>
