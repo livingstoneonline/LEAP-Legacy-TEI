@@ -39,6 +39,10 @@
 				<date>2017-06-01</date>
 				<name>Heather Ball</name>Proofing by Heather Ball 
 			</change>
+			<change>
+				<date>2017-06-14</date>
+				<name>Adrian S. Wisnicki</name>Formatting Review by Adrian S. Wisnicki
+			</change>
 		</revisionDesc>
 	</teiHeader>
 
@@ -241,12 +245,12 @@
 <lb/>them up - <space unit="chars" extent="2"/><orgName>our people</orgName> too who had it were spared 
 <lb/>while one <term type="nationality">English</term> gentleman died &amp; two of their people</p>
 <lb/>
-<lb/><p>Care of the <persName>Rev<hi rend="sup">d</hi> D<hi rend="sup underline">r</hi> Philip</persName>
-<lb/><placeName><settlement type="city"><hi rend="underline">Cape Town</hi></settlement></placeName>
-<lb/><persName>Benjamin Pyne <choice><abbr>Esq<hi rend="sup underline">re</hi></abbr><expan>Esquire</expan></choice></persName>
-<lb/><placeName>Wildingtree</placeName>
-<lb/><placeName>Ongar Essex</placeName>
-<lb/><placeName>England</placeName></p>
+<lb/><p rend="no-indent">Care of the <persName>Rev<hi rend="sup">d</hi> D<hi rend="sup underline">r</hi> Philip</persName>
+<lb/><space extent="1" unit="words"/><placeName><settlement type="city"><hi rend="underline">Cape Town</hi></settlement></placeName>
+<lb/><space extent="2" unit="words"/><persName>Benjamin Pyne <choice><abbr>Esq<hi rend="sup underline">re</hi></abbr><expan>Esquire</expan></choice></persName>
+<lb/><space extent="3" unit="words"/><placeName>Wildingtree</placeName>
+<lb/><space extent="4" unit="words"/><placeName>Ongar Essex</placeName>
+<lb/><space extent="5" unit="words"/><placeName>England</placeName></p>
 <lb/>
 			
 </div>

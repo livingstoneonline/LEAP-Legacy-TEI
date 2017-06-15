@@ -34,6 +34,8 @@
 			<change>
 				<date>2008-10-09</date>
 				<name>Caroline Overy</name>Initial Transcription by Caroline Overy
+			</change>
+			<change>
 				<date>2017-05-08</date>
 				<name>Kate Simpson</name>Proofread by Kate Simpson
 			</change>
@@ -149,7 +151,7 @@
 <lb/><space extent="2" unit="chars"/>here was no begging, no <unclear cert="high">noisy</unclear> impudence but<!-- kate to here -->
 
 	<pb n="0003" facs="liv_000496_0003"/><!--pb/@n='77r'-->
-	<lb/>After <add place="below">˄</add><add place="above">having</add> overcome their fears <add place="above">sufficiently</add> <del type="strikethrough">of our first approach, sufficiently</del> they gazed <add place="marginright" hand="#hand01"><hi rend="gray">77</hi></add>
+	<lb/>After <add place="below">˄</add> <add place="above">having</add> overcome their fears <add place="above">sufficiently</add> <del type="strikethrough">of our first approach, sufficiently</del> they gazed <add place="marginright" hand="#hand01"><hi rend="gray">77</hi></add>
 	<lb/>in astonishment at everything they saw &amp; then brought presents of <term type="foodstuff">milk</term> &amp;c. 
 <lb/>When we went into the town the women peeped past the corners <choice><orig>untill</orig><reg>until</reg></choice>
 <lb/>we approached nearer &amp; when they fled into the houses - the children screamed 

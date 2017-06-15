@@ -4,49 +4,55 @@
 <?xml-stylesheet href="http://livingstoneonline.github.io/LEAP-XSLT/transcription.xsl" type="text/xsl"?>
 <!--Converted from a TEI P4 XML file to the LEAP TEI P5 Schema by James Cummings on 2015-03-02--><!--TEI encoding revised and standardized by Adrian S. Wisnicki, 2015-2016-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="liv_000652">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Letter to William C. Oswell</title>
-<title type="alternative">Letter to William C. Oswell, 10 April 1848</title>
-<author xml:id="DL">Livingstone, David, 1813-1873</author>
-</titleStmt>
-<publicationStmt>
-<authority>Livingstone Online</authority>
-<pubPlace>London</pubPlace>
-<date>08-04-10</date>
-<publisher>Wellcome Centre for the History of Medicine, UCL</publisher>
-<idno type="LEAP-ID">liv_000652</idno>
-</publicationStmt>
-<sourceDesc>
-<bibl xml:id="shelfmark">Auckland Libraries; MS. 116</bibl>
-<bibl xml:id="recipient"><persName>Oswell, William C., 1818-1893</persName></bibl>
-<bibl xml:id="where">Kolobeng</bibl>
-<bibl xml:id="date"><date when="1848-04-10">10 April 1848</date></bibl>
-<bibl xml:id="ccnumber">Letters, 0184</bibl>
-</sourceDesc>
-</fileDesc>
-<profileDesc>
-<langUsage>
-<language ident="en">English</language>
-</langUsage>
-<handNotes>
-<handNote xml:id="hand01">Scribe: Unknown</handNote>
-</handNotes>
-</profileDesc>
-<revisionDesc>
-<change>
-<date>2010-05-21</date>
-<name>Sharon Messenger</name>Initial Transcription by Sharon Messenger
-<date>2017-05-24</date>
-<name>Kate Simpson</name>Proofreading
-</change>
-</revisionDesc>
-</teiHeader>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Letter to William C. Oswell</title>
+				<title type="alternative">Letter to William C. Oswell, 10 April 1848</title>
+				<author xml:id="DL">Livingstone, David, 1813-1873</author>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Livingstone Online</authority>
+				<pubPlace>London</pubPlace>
+				<date>08-04-10</date>
+				<publisher>Wellcome Centre for the History of Medicine, UCL</publisher>
+				<idno type="LEAP-ID">liv_000652</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="shelfmark">Auckland Libraries; MS. 116</bibl>
+				<bibl xml:id="recipient"><persName>Oswell, William C., 1818-1893</persName></bibl>
+				<bibl xml:id="where">Kolobeng</bibl>
+				<bibl xml:id="date"><date when="1848-04-10">10 April 1848</date></bibl>
+				<bibl xml:id="ccnumber">Letters, 0184</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="en">English</language>
+			</langUsage>
+			<handNotes>
+				<handNote xml:id="hand01">Scribe: Unknown</handNote>
+			</handNotes>
+		</profileDesc>
+		<revisionDesc>
+			<change> 
+				<date>2010-05-21</date> 
+				<name>Sharon Messenger</name>Initial Transcription by Sharon Messenger
+			</change>
+			<change> 
+				<date>2017-05-24</date> 
+				<name>Kate Simpson</name>Proofreading 
+			</change>
+			<change> 
+				<date>2017-06-14</date> 
+				<name>Adrian S. Wisnicki</name>Formatting Review by Adrian S.Wisnicki 
+			</change>
+		</revisionDesc>
+	</teiHeader>
 
-<text>
-<body xml:lang="en">
-<div>
+	<text>
+		<body xml:lang="en">
+			<div>
 
 <pb n="0001" facs="liv_000652_0001"/><!--pb/@n='1r'-->
 <lb/><p><add place="above"><hi hand="#hand01" rend="gray"><hi rend="underline"><date when="1933-03-09">9 <choice><abbr>MAR</abbr><expan>March</expan></choice> 1933</date></hi> <add place="below">51<add place="above">A</add>| 091.5</add></hi></add><space extent="22" unit="chars"/><placeName>Kolobeng</placeName> <date when="1848-04-10">10<hi rend="sup underline">th</hi> April 1848</date> </p>
@@ -98,8 +104,9 @@
 <lb/>of the <term type="tribe">Bamapela</term> these may be the obstacle to its 
 <lb/>finding its way to the sea farther north but this 
 <lb/>is merely conjecture - Do not I entreat you imagine that</p> 
-	<lb/><addSpan spanTo="#addEnd-2v" corresp="#add-1r"/><ab rend="vertical">What has become of <persName>M<hi rend="sup">r</hi> Murray</persName>? I wrote him long ago but suppose my letter has miscarried - I shall let fly at
-	<lb/>him again soon - I write <persName>Vardon</persName> by this post - and will give you some farther information in the course of the winter</ab><anchor xml:id="addEnd-2v"/>
+<lb/><cb rend="vertical"/>
+<lb/><addSpan spanTo="#addEnd-2v" corresp="#add-1r"/><ab rend="vertical">What has become of <persName>M<hi rend="sup">r</hi> Murray</persName>? I wrote him long ago but suppose my letter has miscarried - I shall let fly at
+<lb/>him again soon - I write <persName>Vardon</persName> by this post - and will give you some farther information in the course of the winter</ab><anchor xml:id="addEnd-2v"/>
 
 <pb n="0002" facs="liv_000652_0002"/><!--pb/@n='1v'-->
 <lb/><p rend="no-indent">I doubted the candour with which you made your observations. I supposed 
@@ -238,12 +245,12 @@
 <lb/><ab rend="vertical">
 <address>
 <addrLine><space extent="4" unit="chars"/>Care of the <persName><choice><abbr>Rev. D<hi rend="sup underline">r</hi></abbr><expan>Reverend</expan></choice> Philip</persName> <placeName><settlement type="city">Cape Town</settlement></placeName></addrLine>
-		<lb/><addrLine><del type="cancelled">Care of <gap reason="illegible" unit="words" extent="3"/> <placeName><settlement type="city">Cape Town</settlement></placeName></del></addrLine>
-<lb/><addrLine><space extent="4" unit="chars"/><persName>W. <choice><sic>Oswel</sic><corr>Oswell</corr></choice>  <choice><abbr>Esq<hi rend="sup underline">re</hi></abbr><expan>Esquire</expan></choice></persName></addrLine>
-<lb/><addrLine><del type="cancelled"><unclear cert="low">Mp Crawfurd Calcutta</unclear></del></addrLine>
-	<lb/><addrLine><space extent="8" unit="chars"/><del type="cancelled"><placeName><settlement type="city">Madras</settlement></placeName> <unclear cert="low"><choice><abbr>C. S.</abbr><expan>Chennai State</expan></choice></unclear></del></addrLine>
-	<lb/><addrLine><space extent="15" unit="chars"/><del type="cancelled"><gap reason="illegible" unit="chars" extent="8"></gap></del></addrLine>
-<lb/><addrLine><space extent="16" unit="chars"/><del type="cancelled"><placeName><country>India</country></placeName></del></addrLine>
+<addrLine><del type="cancelled">Care of <gap reason="illegible" unit="words" extent="3"/> <placeName><settlement type="city">Cape Town</settlement></placeName></del></addrLine>
+<addrLine><space extent="4" unit="chars"/><persName>W. <choice><sic>Oswel</sic><corr>Oswell</corr></choice>  <choice><abbr>Esq<hi rend="sup underline">re</hi></abbr><expan>Esquire</expan></choice></persName></addrLine>
+<addrLine><del type="cancelled"><unclear cert="low">Mp Crawfurd Calcutta</unclear></del></addrLine>
+<addrLine><space extent="8" unit="chars"/><del type="cancelled"><placeName><settlement type="city">Madras</settlement></placeName> <unclear cert="low"><choice><abbr>C. S.</abbr><expan>Chennai State</expan></choice></unclear></del></addrLine>
+<addrLine><space extent="15" unit="chars"/><del type="cancelled"><gap reason="illegible" unit="chars" extent="8"></gap></del></addrLine>
+<addrLine><space extent="16" unit="chars"/><del type="cancelled"><placeName><country>India</country></placeName></del></addrLine>
 </address>
 </ab><!--addSpan/@place='sheet folded to make envelope. Envelope test on the middle of fo. 2v'-->
 <lb/><p>As I have but little space now I must say a word on the course to the 
@@ -261,12 +268,14 @@
 <lb/>You wonder at my impudence  But I am a <orgName>Caffre</orgName> - the seeds have 
 <lb/>not arrived yet but will in due time I have no doubt - I thank 
 <lb/>you infrequently for them - the <term type="plant">Moana</term> seeds did not vegetate here</p>
+<lb/><cb/>
 <lb/><ab rend="vertical">Saw two genuine <term type="plant">Banyan</term>'s. Roots coming down thus
 <lb/>a lot of fibrils at the end of each descending branch all 
 <lb/>ready to do duty in the ground. <persName>M<hi rend="sup underline">rs</hi> <choice><abbr>L</abbr><expan>Livingstone</expan></choice></persName> joins 
 <lb/>with me in very affectionate salutations. 
-	<lb/>Ever yours <persName><choice><abbr>D</abbr><expan>David</expan></choice> Livingston</persName> <add place="below"><hi rend="black"><persName>Dr. Livingstone</persName></hi></add><anchor xml:id="addEnd-1r"/></ab>
+<lb/><space extent="3" unit="words"/>Ever yours <persName><choice><abbr>D</abbr><expan>David</expan></choice> Livingston</persName> <add place="below"><hi rend="black"><persName>Dr. Livingstone</persName></hi></add><anchor xml:id="addEnd-1r"/></ab>
 
-</div>
-</body>
-</text></TEI>
+			</div>
+		</body>
+	</text>
+</TEI>

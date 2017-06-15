@@ -37,6 +37,10 @@
 				<date>2017</date>
 				<name>Heather Ball</name>Proofed by Heather Ball
 			</change>
+			<change>
+				<date>2017-06-14</date>
+				<name>Adrian S. Wisnicki</name>Formatting Review by Adrian S. Wisnicki
+			</change>
 		</revisionDesc>
 	</teiHeader>
 
@@ -46,8 +50,6 @@
 
 	<pb n="0001" facs="liv_000457_0001"/><!--pb/@n='01'-->
 <lb/><p rend="no-indent"><hi rend="underline">To <persName>Janet <choice><sic>Livingston</sic><corr>Livingstone</corr></choice></persName></hi></p>
-<lb/>
-<lb/>
 <lb/>
 <lb/>
 <lb/>
