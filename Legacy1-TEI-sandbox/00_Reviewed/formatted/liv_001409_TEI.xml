@@ -40,6 +40,10 @@
 				<date>2017-04-14</date>
 				<name>Heather Ball</name>Proofed by Heather Ball
 			</change>
+			<change>
+				<date>2017-06-14</date>
+				<name>Adrian S. Wisnicki</name>Formatting Review by Adrian S. Wisnicki
+			</change>
 		</revisionDesc>
 	</teiHeader>
 
@@ -61,7 +65,7 @@
 <lb/>
 <lb/><p rend="no-indent"><space unit="words" extent="2"/>Signal da cruz</p>
 <lb/>
-<lb/><p rend="no-indent"><space unit="chars" extent="2"/>sa bua zindiquiro ea Santa
+<lb/><p rend="no-indent"><space unit="chars" extent="2"/>Sa bua zindiquiro ea Santa
 <lb/><space unit="chars" extent="2"/>cruzu, ti- purumusse Murungo
 <lb/><space unit="chars" extent="2"/>biua uato, papando zato:
 <lb/><space unit="chars" extent="2"/>zina na Baba na <w><subst><del>n</del><add place="over-text">z</add></subst>a</w> Muana

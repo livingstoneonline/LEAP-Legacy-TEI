@@ -43,6 +43,10 @@
 				<date>2017-05-12</date>
 				<name>Heather Ball</name>Proofed by Heather Ball
 			</change>
+			<change>
+				<date>2017-06-14</date>
+				<name>Adrian S. Wisnicki</name>Formatting Review by Adrian S. Wisnicki
+			</change>
 		</revisionDesc>
 	</teiHeader>
 
@@ -55,6 +59,7 @@
 <lb/>will all reach their destinations in safety</ab>
 <lb/><p rend="no-indent"><space unit="words" extent="3"/><placeName><geogName type="river">River Kongone</geogName></placeName></p>
 <lb/><p rend="no-indent"><space unit="words" extent="4"/><space unit="chars" extent="2"/>4<hi rend="sup underline">th</hi> <choice><abbr>Oct<hi rend="sup underline">r</hi></abbr><expan>October</expan></choice> 1858</p>
+<lb/>
 <lb/><p rend="no-indent"><space unit="words" extent="1"/>My Dear <persName>M<hi rend="sup underline">r</hi> Thompson</persName></p>
 <lb/><p rend="no-indent"><space unit="words" extent="3"/><space unit="chars" extent="2"/>I could not possibly 
 <lb/>write you by last opportunity 

@@ -36,6 +36,10 @@
 				<date>2017-05-12</date>
 				<name>Heather Ball</name>Proofed by Heather Ball
 			</change>
+			<change>
+				<date>2017-06-14</date>
+				<name>Adrian S. Wisnicki</name>Formatting Review by Adrian S. Wisnicki
+			</change>
 		</revisionDesc>
 	</teiHeader>
 
@@ -46,6 +50,7 @@
 	<pb n="0001" facs="liv_001500_0001"/><!--pb/@n='01'-->
 <lb/><p rend="no-indent"><space unit="words" extent="4"/><placeName><geogName type="river">River <choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName></p>
 <lb/><p rend="no-indent"><space unit="words" extent="4"/><space unit="chars" extent="3"/>31<hi rend="sup underline">st</hi> Oct<hi rend="sup underline">r</hi> 1859</p>
+<lb/>
 <lb/><p rend="no-indent"><space unit="words" extent="1"/>My Dear Mother</p>
 <lb/><p rend="no-indent"><space unit="words" extent="4"/><space unit="chars" extent="2"/>It is rather difficult 
 <lb/>to write to you for never a word 

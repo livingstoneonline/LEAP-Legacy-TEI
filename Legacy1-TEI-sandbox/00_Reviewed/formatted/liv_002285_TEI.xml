@@ -140,6 +140,12 @@
 <lb/>with him. The 
 <lb/>card is gone and </p>
 			
+	<pb n="0005" facs="liv_002285_0005"/>
+<lb/><p rend="no-indent"><persName><choice><abbr>Rev<hi rend="sup">d</hi></abbr><expan>Reverend</expan></choice> D<hi rend="sup underline">r</hi> Hamilton</persName>
+<lb/><space extent="2" unit="chars"/><placeName>48 Euston Square</placeName>
+<lb/><persName>D<hi rend="sup">r</hi> <choice><abbr>L</abbr><expan>Livingstone</expan></choice> <space extent="1" unit="words"/><space extent="2" unit="chars"/><unclear cert="medium">N</unclear></persName></p>
+
+
 </div>
 		</body>
 	</text></TEI>
