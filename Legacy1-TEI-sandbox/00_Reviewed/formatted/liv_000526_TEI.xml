@@ -39,6 +39,10 @@
 				<date>2017-05-22</date>
 				<name>Heather Ball</name> Proofing by Heather Ball
 			</change>
+			<change>
+				<date>2017-06-14</date>
+				<name>Adrian S. Wisnicki</name>Formatting Review by Adrian S. Wisnicki
+			</change>
 		</revisionDesc>
 	</teiHeader>
 
@@ -56,7 +60,7 @@
 <lb/>an unction from the Holy one that <choice><sic>magny</sic><corr>many</corr></choice> sinners may through your 
 <lb/>instrumentality be baptized with the Holy Ghost sent down from Heaven
 <lb/>But while I am glad to hear of your prospects I feel sorry that you 
-<lb/>have some <del type="cancelled"><gap agent="illegible"/></del> pain in that you are not enjoying the full cooperation <!-- Adrian, for some reason this del tag with "cancelled" isn't working properly - how fix? HB -->
+<lb/>have some <del type="cancelled"><gap agent="illegible" extent="1" unit="words"/>/></del> pain in that you are not enjoying the full cooperation <!-- Adrian, for some reason this del tag with "cancelled" isn't working properly - how fix? HB -->
 <lb/>of your dear partner in life. The debility of which you spoke 
 <lb/>I hope however is by this time removed and you may now be 
 <lb/>both vigourously prosecuting the great work for which we have 
@@ -103,7 +107,7 @@
 <lb/>far <choice><sic>as</sic><corr/></choice> North East as far as <choice><abbr>Lat</abbr><expan>Latitude</expan></choice> 22º <choice><abbr>S.</abbr><expan>South</expan></choice> <choice><abbr>Long</abbr><expan>Longitude</expan></choice> 29º <choice><abbr>E.</abbr><expan>East</expan></choice> &amp; visited many 
 <lb/>tribes who had never before seen a white face. By 
 <lb/>means of <orgName><orgName>native</orgName> <term type="occupation">teachers</term></orgName> with me I was enabled in a poor 
-<lb/><del type="cancelled"><gap agent="illegible"/></del> way to proclaim the message of mercy. That tour <!-- Same for this del tag as above. HB -->
+<lb/><del type="cancelled"><gap agent="illegible" extent="2" unit="chars"/>/></del> way to proclaim the message of mercy. That tour <!-- Same for this del tag as above. HB -->
 <lb/>lasted 4 months &amp; now I am just returned from another 
 <lb/>of a like duration, <space unit="chars" extent="1"/>But this is a weary wide wide
 <lb/>country &amp; <orgName>the people</orgName> are scattered over it at immense
@@ -201,6 +205,16 @@
 <lb/>&amp; I shall give your name to the <term type="occupation">Editor</term>. If you will 
 <lb/>supply a <bibl>letter</bibl> occasionally it will be translated &amp; 
 <lb/>published &amp; may advance the cause of our blessed <w>savi<supplied cert="high">our</supplied></w></p>
+
+
+<lb/>
+<lb/><cb rend="vertical"/><ab><space unit="words" extent="3"/>Care of <persName><term type="occupation"><choice><abbr>Rev<hi rend="sup underline">d</hi></abbr><expan>Reverend</expan></choice></term> D<hi rend="sup underline">r</hi> Phillip</persName> <hi rend="underline"><placeName><settlement type="city">Cape Town</settlement></placeName></hi> <!-- there is unknown handwriting/editing on this, with the addition of "care of Dr Rap Sidney" and the deletion of the original care of line - to code?! HB -->
+<lb/>
+<lb/><space unit="words" extent="3"/><persName><term type="occupation"><choice><abbr>Rev<hi rend="sup underline">d</hi></abbr><expan>Reverend</expan></choice></term> George Drummond</persName>
+<lb/><space unit="words" extent="2"/><space unit="chars" extent="2"/><placeName><geogName type="island">Island of Savaii</geogName></placeName>
+<lb/><space unit="words" extent="5"/><space unit="chars" extent="2"/><hi rend="double-underline"><placeName><geogName type="sea">South Seas</geogName></placeName></hi></ab>
+
+
 <lb/><p rend="no-indent"><space unit="chars" extent="4"/><persName>Salome Cecil</persName> is very ill of some <term type="ailment">complaint of the Liver</term>
 <lb/>You have probably heard of <persName>M<hi rend="sup">r</hi> Wright</persName>'s death, I mean <persName>M<hi rend="sup">r</hi>
 <lb/>Wright</persName> of <placeName><region>Ongar</region></placeName>. <space unit="chars" extent="3"/><persName>M<hi rend="sup">r</hi> Wright</persName> of <placeName><settlement type="town">Griqua Town</settlement></placeName> is also 
@@ -209,15 +223,8 @@
 <lb/>spared be enabled to work while we are able &amp; glorify 
 <lb/>Our Father in Heaven. <space unit="chars" extent="3"/>My very kind regards to 
 <lb/><persName>M<hi rend="sup">rs</hi> <choice><abbr>D.</abbr><expan>Drummond</expan></choice></persName> &amp; believe me ever <seg rend="black">yours most affectionately</seg>
-<lb/>
 <lb/>I shall be content if you address me <supplied cert="high">as</supplied> <seg rend="black">just <persName><choice><abbr>D Livingston</abbr><expan>David Livingstone</expan></choice></persName></seg>
 <lb/>as I write <unclear cert="low">there without any time &amp; <gap agent="overwriting"/></unclear> <seg rend="black">to the care of <persName>D<hi rend="sup">r</hi> Phillip</persName> <placeName><settlement type="city">Cape Town</settlement></placeName>.</seg></p>
-<lb/>
-<lb/><cb rend="vertical"/><ab><space unit="words" extent="3"/>Care of <persName><term type="occupation"><choice><abbr>Rev<hi rend="sup underline">d</hi></abbr><expan>Reverend</expan></choice></term> D<hi rend="sup underline">r</hi> Phillip</persName> <hi rend="underline"><placeName><settlement type="city">Cape Town</settlement></placeName></hi> <!-- there is unknown handwriting/editing on this, with the addition of "care of Dr Rap Sidney" and the deletion of the original care of line - to code?! HB -->
-<lb/>
-<lb/><space unit="words" extent="3"/><persName><term type="occupation"><choice><abbr>Rev<hi rend="sup underline">d</hi></abbr><expan>Reverend</expan></choice></term> George Drummond</persName>
-<lb/><space unit="words" extent="2"/><space unit="chars" extent="2"/><placeName><geogName type="island">Island of Savaii</geogName></placeName>
-<lb/><space unit="words" extent="5"/><space unit="chars" extent="2"/><hi rend="double-underline"><placeName><geogName type="sea">South Seas</geogName></placeName></hi></ab>
 			
 </div>
 		</body>

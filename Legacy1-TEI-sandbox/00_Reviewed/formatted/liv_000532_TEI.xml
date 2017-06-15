@@ -43,6 +43,10 @@
 				<date>2017-05-24</date>
 				<name>Heather Ball</name>Proofing by Heather Ball
 			</change>
+			<change>
+				<date>2017-06-14</date>
+				<name>Adrian S. Wisnicki</name>Formatting Review by Adrian S. Wisnicki
+			</change>
 		</revisionDesc>
 	</teiHeader>
 
@@ -151,7 +155,7 @@
 <lb/>you. <space unit="chars" extent="2"/>It is probable <persName>M<hi rend="sup">r</hi> Edwards</persName> &amp; myself will go &amp; settle with 
 <lb/>him soon. <space unit="chars" extent="1"/>But I must go on to the rest of my journey. 
 <lb/>I visited the <term type="tribe">Bakwain</term> again but the recent commotions 
-<lb/>have quite <del type="cancelled"><gap agent="illegible"/></del> changed all the former state of things. No 
+<lb/>have quite <del type="cancelled"><gap agent="illegible" extent="1" unit="words"/></del> changed all the former state of things. No 
 <lb/>one now lives <space unit="chars" extent="1"/>where he formerly resided. <persName>Bubi</persName> has fled from 
 <lb/>the spot where we led out <space unit="chars" extent="1"/>the <space unit="chars" extent="1"/>water last year, <persName>Sechele</persName> has 
 <lb/>come southwards, <space unit="chars" extent="1"/>The <term type="tribe">Bamangwato</term> have fled into the holes 
@@ -205,34 +209,34 @@
 <lb/>you have redeemed us by your hand. Hence forth we shall 
 <lb/>swear by you". O that they knew the value of the blood <w>whi<supplied>-</supplied>
 <lb break="no"/><add place="marginleft">-</add>ch</w> was shed for their souls . <space unit="chars" extent="1"/><choice><sic>this</sic><corr>This</corr></choice> was worse than the first 
-<lb/>fracture after which I had to fast nearly two days a circumstance 
-<lb/><anchor xml:id="envelopePosition" type="positionMarker"/> which I believe saved me from <term type="medical">irritative fever</term> But as I can 
+<lb/>fracture after which I had to fast nearly two days a circumstance</p>
+
+<lb/><p rend="no-indent"><address corresp="#envelopePosition">
+<addrLine>Care of <persName>Rev<hi rend="sup underline">d</hi> D<hi rend="sup"><hi rend="underline">r</hi></hi> Phillips</persName></addrLine>
+<addrLine><space extent="4" unit="words"/><placeName><settlement type="city"><hi rend="underline">Cape Town</hi></settlement></placeName></addrLine>
+<addrLine><space extent="1" unit="words"/><persName>Benjamin T. Pyne</persName>, Esq<hi rend="sup underline">re</hi></addrLine>
+<addrLine><space extent="2" unit="words"/>Wildingtree <placeName><region><hi rend="underline">Ongar</hi></region></placeName></addrLine>
+<addrLine><space extent="3" unit="words"/><placeName><region>Essex</region></placeName></addrLine>
+</address></p>
+
+<lb/><anchor xml:id="envelopePosition" type="positionMarker"/> <p rend="no-indent">which I believe saved me from <term type="medical">irritative fever</term> But as I can 
 <lb/>bear a little pain pretty well neither was so bad as you may 
 <lb/>imagine . It did not make me rest a single day. <space unit="chars" extent="1"/>I saw some 
 <lb/>of the <term type="tribe">Mabalaka</term> who live close to <persName>Mosilikatze</persName>. I sent salutations 
 <lb/>&amp; a <bibl>message</bibl> to that notorious villain . One took off an armlet 
 <lb/>&amp; gave it to me as a pledge that he would deliver the <bibl>message</bibl> &amp; 
 <lb/>asked me to give him a pair of <choice><sic>earings</sic><corr>earrings</corr></choice> to <choice><orig>shew</orig><reg>show</reg></choice> <persName>Mosilikatze</persName> as 
-<lb/><space unit="chars" extent="1"/>a token that he had seen me. <space unit="chars" extent="1"/>I gave him two of my metal 
-<lb/><space unit="chars" extent="1"/>buttons which pleased him much . <space unit="chars" extent="1"/>I shall send this armlet to <persName>M<hi rend="sup">rs</hi> <choice><abbr>P.</abbr><expan>Pyne</expan></choice></persName>
-<lb/><space unit="chars" extent="1"/>also some cloth of the <term type="tribe">Makalaka</term> which I brought out for her</p>
-<lb/><space unit="chars" extent="2"/><p rend="no-indent">I do not tell you the pains I felt to excite your pity . I did feel pain
-<lb/><space unit="chars" extent="1"/>But I felt more <space unit="chars" extent="1"/>pleasure &amp; therefore I do not grudge it in the 
-<lb/><space unit="chars" extent="1"/>least. <space unit="chars" extent="2"/>We have a kind master to serve, there never can be 
+<lb/>a token that he had seen me. <space unit="chars" extent="1"/>I gave him two of my metal 
+<lb/>buttons which pleased him much . <space unit="chars" extent="1"/>I shall send this armlet to <persName>M<hi rend="sup">rs</hi> <choice><abbr>P.</abbr><expan>Pyne</expan></choice></persName>
+<lb/>also some cloth of the <term type="tribe">Makalaka</term> which I brought out for her</p>
+<lb/><p rend="no-indent">I do not tell you the pains I felt to excite your pity . I did feel pain
+<lb/>But I felt more <space unit="chars" extent="1"/>pleasure &amp; therefore I do not grudge it in the 
+<lb/>least. <space unit="chars" extent="2"/>We have a kind master to serve, there never can be 
 <lb/><space unit="chars" extent="1"/>one more gracious Let us bless him for ever &amp; ever</p><addSpan spanTo="#p2v-01" place="marginright"><!--addSpan/@place='right margin of p2v'--></addSpan>
-<lb/><cb rend="vertical"/>
-<lb/><ab><term type="plant"><space unit="chars" extent="2"/>Seeds of <term type="medicament">medicinal plants</term></term> sealed in tin would 
+<cb rend="vertical"/>
+<lb/><p rend="no-indent"><term type="plant"><space unit="chars" extent="2"/>Seeds of <term type="medicament">medicinal plants</term></term> sealed in tin would 
 <lb/>be of great value to me. Those I got from you 
-<lb/>were spoiled by the sea air &amp; did not germinate</ab><anchor xml:id="p2v-01"/>
-<lb/><p>
-<address corresp="#envelopePosition">
-<addrLine>Care of <persName>Rev<hi rend="sup underline">d</hi> D<hi rend="sup"><hi rend="underline">r</hi></hi> Phillips</persName></addrLine>
-<addrLine><placeName><settlement type="city"><hi rend="underline">Cape Town</hi></settlement></placeName></addrLine>
-<addrLine><persName>Benjamin T. Pyne</persName>, Esq<hi rend="sup underline">re</hi></addrLine>
-<addrLine>Wildingtree <placeName><region><hi rend="underline">Ongar</hi></region></placeName></addrLine>
-<addrLine><placeName><region>Essex</region></placeName></addrLine>
-</address>
-</p>
+<lb/>were spoiled by the sea air &amp; did not germinate</p><anchor xml:id="p2v-01"/>
 			
 </div>
 		</body>

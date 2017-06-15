@@ -31,8 +31,14 @@
 			<change>
 				<date>2010-03-16</date>
 				<name>Sharon Messenger</name>Transcribed by Sharon Messenger
+			</change>
+			<change>
 				<date>2017-04-14</date>
 				<name>Justin Livingstone</name>Proofed by Justin Livingstone
+			</change>
+			<change>
+				<date>2017-06-14</date>
+				<name>Adrian S. Wisnicki</name>Formatting Review by Adrian S. Wisnicki
 			</change>
 		</revisionDesc>
 	</teiHeader>
@@ -79,10 +85,10 @@
 <lb/>such as those presented to her by -- As for myself 
 <lb/>I never thought myself good enough to aspire so high 
 <lb/>I may mention that my wife is in bodily appearance 
-<lb/>very much like her only a great deal stouter
+<lb/>very much like her only a great deal stouter</p>
 
 	<pb n="0002" facs="liv_000576_0002"/><!--pb/@n='02'-->
-<lb/><persName>M<hi rend="sup">r</hi> <gap extent="1" unit="words" agent="illegible"/></persName> gives me a copy of a letter <choice><sic>recieved</sic><corr>received</corr></choice> from <persName>M<hi rend="sup">r</hi>
+<lb/><p><persName>M<hi rend="sup">r</hi> <gap extent="1" unit="words" agent="illegible"/></persName> gives me a copy of a letter <choice><sic>recieved</sic><corr>received</corr></choice> from <persName>M<hi rend="sup">r</hi>
 <lb/>Moore</persName> during the time he was writing to me. It runs 
 <lb/>thus Dear <persName>Chisholm</persName>, my hands are so full having to 
 <lb/>cook fetch water, sweep rooms &amp;c &amp;c that I have only 
@@ -177,9 +183,7 @@ Ashton</persName> preaches fluently &amp; very correctly indeed
 <addrLine><space extent="18" unit="chars"/><placeName>Essex</placeName></addrLine>
 </address>
 2 sheets</p>
-<lb/>
-<p rend="no-indent"><cb rend="upside-down"/><space extent="6" unit="chars"/><date when="1845-01-28">Jany 28/45</date>
-</p>
+<lb/><p rend="no-indent"><cb rend="upside-down"/><space extent="6" unit="chars"/><date when="1845-01-28">Jany 28/45</date></p>
 <lb/>				
 <lb/><p rend="no-indent">when I spoke of the teeth of a saw writing 
 <lb/>However since you draw my attention to it so I 

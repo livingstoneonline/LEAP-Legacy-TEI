@@ -34,8 +34,14 @@
 			<change>
 				<date>2008-04-02</date>
 				<name xml:id="SM">Sharon Messenger</name>Initial Transcription by Sharon Messenger
+			</change>
+			<change>
 				<date>2017-05-24</date>
 				<name>Justin Livingstone</name>Proofed by Justin Livingstone
+			</change>
+			<change>
+				<date>2017-06-14</date>
+				<name>Adrian S. Wisnicki</name>Formatting Review by Adrian S. Wisnicki
 			</change>
 		</revisionDesc>
 	</teiHeader>
