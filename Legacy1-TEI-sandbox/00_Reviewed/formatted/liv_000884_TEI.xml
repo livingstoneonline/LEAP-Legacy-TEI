@@ -40,6 +40,10 @@
 				<date>2017-06-15</date>
 				<name>Justin Livingstone</name>Proofed by Justin Livingstone
 			</change>
+			<change>
+				<date>2017-06-15</date>
+				<name>Adrian S. Wisnicki</name>Formatting Review by Adrian S. Wisnicki
+			</change>
 		</revisionDesc>
 	</teiHeader>
 
@@ -52,9 +56,7 @@
 <lb/><space extent="4" unit="words"/><placeName><geogName type="river">River Zambesi</geogName></placeName>, <placeName>Africa</placeName> -
 <lb/><space extent="5" unit="words"/><date when="1856-03-02">2<hi rend="sup underline">d</hi> March 1856</date></p>
 <lb/><p><persName>Rev<hi rend="sup underline">d</hi> D<hi rend="sup underline">r</hi> Tidman</persName></p>
-<lb/>
 <lb/><p><space extent="3" unit="words"/>My Dear Sir</p>
-<lb/>
 <lb/><p><space extent="5" unit="words"/>Having by the 
 <lb/>mercy of God reached the farthest inland 
 <lb/>station of the Portuguese this morning 
@@ -125,7 +127,7 @@
 <lb/>requires copying - I rest a few days here 
 <lb/>because I have been on foot through a very 
 <lb/>rough stoney country - <term type="animal">Oxen</term> all dead by <term type="insect">tsetse</term> <anchor xml:id="envelopePosition"/>
-<lb/><space extent="6" unit="words"/><add place="inline" rend="purple" hand="#U"><date from="1856" to="1857">1856/7</date></add>
+<lb/><space extent="7" unit="words"/><add place="inline" rend="purple" hand="#U"><date from="1856" to="1857">1856/7</date></add>
 <lb/><space extent="5" unit="words"/><placeName><settlement type="town">Tette</settlement></placeName>, on <placeName><geogName type="river">River Zambesi</geogName></placeName>, <date when="1856-03-02">2 March <add place="below">56</add></date>
 <lb/>
 <lb/><space extent="7" unit="words"/><persName>Dr <choice><orig>Livingston</orig><reg>Livingstone</reg></choice></persName> -
