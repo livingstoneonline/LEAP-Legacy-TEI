@@ -45,10 +45,11 @@
 			<div>
 
 	<pb n="0001" facs="liv_001828_0001"/><!--pb/@n='01'-->
-<lb/><p rend="no-indent"><placeName><geogName type="bay">Rovuma Bay</geogName></placeName> <date when="1862-10-10">10<hi rend="sup underline">th</hi> Oct<hi rend="sup underline">r</hi>
-<lb/>1862.</date></p>
-<lb/><p>My Dear <persName>Tom</persName>, </p>
-<lb/><p>We have been up the <placeName>Rovuma</placeName> 114 
+<lb/><p rend="no-indent"><add place="above" hand="#U">68</add> <space extent="4" unit="words"/><placeName><geogName type="bay">Rovuma Bay</geogName></placeName> <date when="1862-10-10">10<hi rend="sup underline">th</hi> Oct<hi rend="sup underline">r</hi> <add place="above" hand="#U" rend="gray">138</add>
+<lb/><space extent="9" unit="words"/>1862.</date></p>
+<lb/>
+<lb/><p rend="no-indent">My Dear <persName>Tom</persName></p>
+<lb/><p rend="no-indent"><space extent="2" unit="words"/><space extent="4" unit="chars"/>We have been up the <placeName>Rovuma</placeName> 114 
 <lb/>miles in a straight line from the coast but 
 <lb/>156 by adding the Latitude &amp; Longitude together, 
 <lb/>and having given <placeName>Oswell</placeName> an account of our 
@@ -82,7 +83,7 @@
 <lb/>down with the water but they knew not whence</p>
 
 	<pb n="0002" facs="liv_001828_0002"/><!--pb/@n='02'-->
-<lb/><p>While we were up the hills looking at the Lake a marine 
+<lb/><p rend="no-indent">While we were up the hills looking at the Lake a marine 
 <lb/>officer said he had been fired at by the <orgName>natives</orgName> 
 <lb/>three times - we did not believe it, as they seemed 
 <lb/>quite friendly and we were equally so with them, 
@@ -161,9 +162,9 @@
 <lb/>the rocky table land I have referred to rises 
 <lb/>from the banks though sometimes there is 
 <lb/>a mile of fine level alluvial soil between 
-<lb/><gap extent="1" unit="lines" agent="damage"/>unwilling to 
-<lb/><gap extent="1" unit="lines" agent="damage"/> in the 
-<lb/><gap extent="1" unit="lines" agent="damage"/>of the people on 
+<lb/><gap extent="1" unit="lines" agent="damage"/> <space extent="5" unit="words"/>unwilling to 
+<lb/><gap extent="1" unit="lines" agent="damage"/> <space extent="5" unit="words"/>in the 
+<lb/><gap extent="1" unit="lines" agent="damage"/> <space extent="5" unit="words"/>of the people on 
 <lb/>the <placeName>Shire</placeName> who were more alarmed when we 
 <lb/>first came than the Makonde of <placeName><geogName type="river">Rovuma</geogName></placeName>.
 
@@ -206,8 +207,9 @@
 <lb/>Gardner</persName> wished me to meet him at 
 <lb/><placeName><country>Mozambique</country></placeName> on New years day but I hope 
 <lb/>to be in the <placeName>Zambesi</placeName> then. God bless 
-<lb/>&amp; guide you<reg>.</reg><gap extent="2" unit="words" agent="damage"/></p>
+<lb/>&amp; guide you<reg>.</reg> <gap extent="2" unit="words" agent="damage"/></p>
 			
-</div>
+	</div>
 		</body>
-	</text></TEI>
+			</text>
+				</TEI>
