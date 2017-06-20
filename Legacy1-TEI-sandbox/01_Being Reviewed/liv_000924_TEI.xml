@@ -35,6 +35,10 @@
 				<date>2009-05-19</date>
 				<name xml:id="CO">Caroline Overy</name>Letter foliated by Caroline Overy
 			</change>
+			<change>
+				<date>2017-06-19</date>
+				<name xml:id="AW">Adrian S. Wisnicki</name>Proofing by Adrian S. Wisnicki
+			</change>
 		</revisionDesc>
 	</teiHeader>
 
@@ -43,10 +47,14 @@
 			<div>
 
 	<pb n="0001" facs="liv_000924_0001"/><!--pb/@n='1r'-->
-<lb/><p rend="right">On board S.S. England </p>
-<lb/><p rend="right">31<hi rend="sup underline">st</hi> Oct<hi rend="sup"><hi rend="underline">r</hi></hi> 1856 </p>
-<lb/><p>My Dear M<hi rend="sup underline">r</hi> Thompson </p>
-<lb/><p>Having left the 
+<addSpan spanTo="#p1r-01" place="marginleft"><!--addSpan/@place='left hand margin of p1r-01'--></addSpan>
+<lb/><p rend="no-indent">3 <hi rend="sup"><hi rend="underline">d</hi></hi>Nov <hi rend="sup underline">r</hi> Found the Nubia ready to sail for <placeName>Suez</placeName>
+<lb/>at <placeName>Galle</placeName> yesterday. Will sail today at 4 o<reg>'</reg>clock <reg>.</reg></p><anchor xml:id="p1r-01"/>
+<lb/><p rend="no-indent"><space extent="4" unit="words"/>On board S.S. England </p>
+<lb/><p rend="no-indent"><space extent="4" unit="words"/>31<hi rend="sup underline">st</hi> Oct<hi rend="sup"><hi rend="underline">r</hi></hi> 1856 </p>
+<lb/>
+<lb/><p rend="no-indent">My Dear M<hi rend="sup underline">r</hi> Thompson </p>
+<lb/><p rend="no-indent"><space extent="4" unit="words"/><space extent="2" unit="chars"/>Having left the 
 <lb/><placeName>Mauritius</placeName> on the 23<hi rend="sup">d</hi> we now find 
 <lb/>ourselves within two days of <placeName>Galle</placeName>
 <lb/>and as we may find the steamer 
@@ -59,7 +67,7 @@
 <lb/><placeName>Mauritius</placeName> got completely over 
 <lb/>an affection of the spleen entailed 
 <lb/>on me by frequent attacks of 
-<lb/>fever, this happy result was 
+<lb/>fever. <space extent="2" unit="chars"/>This happy result was 
 <lb/>owing by God's blessing 
 
 	<pb n="0002" facs="liv_000924_0002"/><!--pb/@n='1v'-->
@@ -71,7 +79,7 @@
 <lb/>and as deservedly respected. I saw less 
 <lb/>of his sons. One lately went to <placeName>Seychelles</placeName>
 <lb/>with his wife who is consumptive 
-<lb/>the bishop has gone thither also, 
+<lb/>The Bishop has gone thither also, 
 <lb/>in the Frolic, but for religious 
 <lb/>purposes. As I was five miles from 
 <lb/>town I did not form many 
@@ -80,23 +88,23 @@
 <lb/>with my family. As for the future 
 <lb/>I can say nothing I shall let you 
 <lb/>know how I shall act when 
-<lb/>I have seen my way clear myself<reg>.</reg>
+<lb/>I have seen my way clear myself<reg>.</reg></p>
 
 	<pb n="0003" facs="liv_000924_0003"/><!--pb/@n='2r'-->
-<lb/>If you are writing to <placeName>Kuruman</placeName> I 
+<lb/><p>If you are writing to <placeName>Kuruman</placeName> I 
 <lb/>shall feel obliged by your mentioning 
 <lb/>that I am so far well and on my way 
-<lb/>home. Also, if <persName>George Fleming</persName> is near 
+<lb/>home. Also if <persName>George Fleming</persName> is near 
 <lb/>you say, as he can not write or read 
 <lb/>what is written that he must look 
 <lb/>after ten shillings which he directed 
 <lb/>a man of the Frolic called <persName>Muno</persName>
 <lb/>or some such name to <choice><sic>recieve</sic><corr>receive</corr></choice>
 <lb/>and pay to <persName>M<hi rend="sup">rs</hi> Wright</persName> for my 
-<lb/>washing. <persName>Muno</persName><choice><sic>recieved</sic><corr>received</corr></choice> the 
-<lb/>money as directed but told <persName>M<hi rend="sup">rs</hi>W.</persName>
+<lb/>washing. <persName>Muno</persName> <choice><sic>recieved</sic><corr>received</corr></choice> the 
+<lb/>money as directed but told <persName>M<hi rend="sup">rs</hi> W.</persName>
 <lb/>that <persName>George</persName> owed it to him, and 
-<lb/>I had to pay <persName>M<hi rend="sup">rs</hi>W.</persName> another ten 
+<lb/>I had to pay <persName>M<hi rend="sup">rs</hi> W.</persName> another ten 
 <lb/>shillings instead. <persName>Muno</persName> is a coloured 
 <lb/>man and <persName>George</persName> will know him 
 <lb/>by this if I have mistaken the 
@@ -119,14 +127,12 @@
 <lb/><persName>George</persName> can manage that when 
 <lb/>the Frolic comes to the <placeName>Cape</placeName>. </p>
 <lb/><p rend="center">Believe me </p>
-<lb/><p rend="center">Affectionately Yours </p>
-<lb/><p rend="center">David Livingston </p>
-<lb/><p>Misfortunes don<reg>'</reg>t come alone - my sextant 
+<lb/><p rend="center"><space extent="3" unit="chars"/>Affectionately Yours </p>
+<lb/><p rend="center"><space extent="5" unit="chars"/>David Livingston </p>
+<lb/><p rend="no-indent">Misfortunes don<reg>'</reg>t come alone - my sextant 
 <lb/>got smashed by <persName>George</persName> putting it to the 
 <lb/>tiller below, he had packed it without 
-<lb/>knowing, tell <persName>M<hi rend="sup"><hi rend="underline">r</hi></hi> Maclear</persName> my misfortune<reg>.</reg></p><addSpan spanTo="#p1r-01" place="marginleft"><!--addSpan/@place='left hand margin of p1r-01'--></addSpan>
-<lb/><p>3<hi rend="sup"><hi rend="underline">d</hi></hi>Nov <hi rend="sup underline">r</hi> Found the Nubia ready to sail for <placeName>Suez</placeName>
-<lb/>at <placeName>Galle</placeName> yesterday. Will sail today at 4 o<reg>'</reg>clock <reg>.</reg></p><anchor xml:id="p1r-01"/>
+<lb/>knowing, tell <persName>M<hi rend="sup"><hi rend="underline">r</hi></hi> Maclear</persName> my misfortune<reg>.</reg></p>
 			
 </div>
 		</body>
