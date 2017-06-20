@@ -33,7 +33,10 @@
 				<date>2010-01-20</date>
 				<name xml:id="SM">Sharon Messenger</name>Transcribed by Sharon Messenger
 			</change>
-			<change when="2017-06-18" who="#MW">Proofing and XML encoding</change>
+			<change>
+				<date>2017-06-18</date>
+				<name xml:id="MW">Megan Ward</name>Proofing and encoding by Megan Ward
+			</change>
 		</revisionDesc>
 	</teiHeader>
 
@@ -42,8 +45,8 @@
 			<div>
 
 	<pb n="0001" facs="liv_001828_0001"/><!--pb/@n='01'-->
-<lb/><p><placeName>Rovuma Bay</placeName> <date when="1862-10-10">10<hi rend="sup underline">th</hi> Oct<hi rend="sup"><hi rend="underline">r</hi></hi></p>
-<lb/><p rend="right">1862.</date> </p>
+<lb/><p rend="no-indent"><placeName><geogName type="bay">Rovuma Bay</geogName></placeName> <date when="1862-10-10">10<hi rend="sup underline">th</hi> Oct<hi rend="sup underline">r</hi>
+<lb/>1862.</date></p>
 <lb/><p>My Dear <persName>Tom</persName>, </p>
 <lb/><p>We have been up the <placeName>Rovuma</placeName> 114 
 <lb/>miles in a straight line from the coast but 
@@ -74,7 +77,7 @@
 <lb/>as a sign that coal lies beneath and having 
 <lb/>said so was rather glad when a few days 
 <lb/>afterward I found bits of coal in the sand 
-<lb/>in the bed of <placeName><geogname type="river">Rovuma</geogName></placeName>. he people knew 
+<lb/>in the bed of <placeName><geogName type="river">Rovuma</geogName></placeName>. he people knew 
 <lb/>that it would burn and said it came 
 <lb/>down with the water but they knew not whence</p>
 
@@ -130,7 +133,7 @@
 <lb/>by means of canoes. Seven canoes went with us 
 <lb/><unclear cert="low">three deep</unclear>. They come down to buy salt with rice - 
 <lb/>I was glad that we used every means in our power 
-<lb/>to avoid collision but we see that <orgName>slave slealers<orgName> are blood 
+<lb/>to avoid collision but we see that <orgName>slave slealers</orgName> are blood 
 <lb/>thirsty murdererers. The river has a table land on each 
 <lb/>side which looks like hills 500 feet high till we get up 
 <lb/>about 60 or 70 miles. We then leave the hills &amp; have 
@@ -186,7 +189,7 @@
 <lb/>merchant might introduce lawful trade with 
 <lb/>advantage to the cause of humanity if merchants 
 <lb/>would try and direct their trade so as to 
-<lb/>produce the greatest amount of good- </p>
+<lb/>produce the greatest amount of good -</p>
 <lb/><p>Your friend <persName>M<hi rend="sup underline">r</hi> Rae</persName> had to turn back with 
 <lb/><persName>Captain Gardner</persName> from a little illness - we had 
 <lb/>fever in our party but it did not last long. 
@@ -198,8 +201,8 @@
 <lb/>to see my letters. I shall write to <persName>Agnes</persName>
 <lb/>next, but it will be a good while before 
 <lb/>I can give an account of our operations 
-<lb/>at <placeName><geogName type="lake">Nyassa</gegoName></placeName>. We shall go back to <placeName>Johanna</placeName>
-<lb/><placeName>Mohilla</placeName> and then to the <placeName><geogName type="river">Zambesi</river></placeName>. <persName>Captain 
+<lb/>at <placeName><geogName type="lake">Nyassa</geogName></placeName>. We shall go back to <placeName>Johanna</placeName>
+<lb/><placeName>Mohilla</placeName> and then to the <placeName><geogName type="river">Zambesi</geogName></placeName>. <persName>Captain 
 <lb/>Gardner</persName> wished me to meet him at 
 <lb/><placeName><country>Mozambique</country></placeName> on New years day but I hope 
 <lb/>to be in the <placeName>Zambesi</placeName> then. God bless 
