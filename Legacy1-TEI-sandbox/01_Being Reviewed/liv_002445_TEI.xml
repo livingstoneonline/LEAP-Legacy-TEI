@@ -64,15 +64,15 @@
 <lb/>his generous aid - A
 <lb/>great deal depends on 
 <lb/>yourself - and I have no 
-<lb/>doubt but you you will
-<lb/>exert<!-- unsure about this word. MB --> yourself vigorously
+<lb/>doubt but you will
+<lb/>exert<!-- unsure about this word. MB --><!-- ok AW --> yourself vigorously
 <lb/>not only to take in <w>know<supplied>-</supplied>
 <lb break="no"/>ledge</w> but to assimilate
 <lb/>it so as to have it at
 <lb/>command for use - 
 
 	<pb n="0002" facs="liv_002445_0002"/><!--pb/@n='02'-->
-<lb/>If your own exertions<!-- unsure about this word. MB --> are
+<lb/>If your own exertions<!-- unsure about this word. MB --><!-- ok AW --> are
 <lb/>not put forth your <w>oppor-
 <lb break="no"/>tunities</w> will only enable 
 <lb/>you to furnish another
@@ -114,8 +114,8 @@
 <lb/>preperation for them 
 <lb/>has to be very thorough 
 <lb/>I have a little dislike to 
-<lb/>being Germanized<!-- nationality? MB--> in 
-<lb/>any way. Tbeir<!-- TODO SM: Fix this as this coding doesn't make sense --><!-- fiexed. MB --> theological 
+<lb/>being <term type="nationality"><orgName>Germanized</orgName></term><!-- nationality? MB--><!-- term and orgName AW --> in 
+<lb/>any way. Their<!-- TODO SM: Fix this as this coding doesn't make sense --><!-- fixed. MB --> theological 
 <lb/>views may be pleasing 
 
 	<pb n="0004" facs="liv_002445_0004"/><!--pb/@n='04'-->
@@ -126,9 +126,9 @@
 <lb/>would have been better
 <lb/>never to have read any of
 <lb/>it. nor after he had read
-<lb/>held<!-- unsure MB --> up an intelligent
+<lb/>held<!-- unsure MB --><!-- ok. AW --> up an intelligent
 <lb/><term type="tribe">Zulu</term> as his instructor.</p> 
-<lb/><p>The vigilans<!-- unsure MB --> by which
+<lb/><p>The vigilant<!-- unsure MB --><!-- fixed. AW--> by which
 <lb/>I was to go will be a 
 <lb/>month yet in coming
 <lb/>but I am going in
@@ -143,30 +143,31 @@
 	<pb n="0005" facs="liv_002445_0005"/><!--pb/@n='08'-->
 <lb/><p>I am all ready and anxious<add place="above" hand="U1">146</add>
 <lb/>to be off - I have twelve
-<lb/><orgName>marines</orgName> &amp; one David<!-- unsure MB --> deer
-<lb/>eyes<!--unclear MB --> <orgName>Africans</orgName> and two 
-<lb/>boys <term type="tribe">Ajarvas</term> or <term type="tribe">Waiau</term><!-- unsure what these are. MB--> 
+<lb/><orgName>marines</orgName> &amp; one <term type="occupation">Havildar</term>
+<lb/>eight <orgName>Africans</orgName> and two 
+<lb/>boys <term type="tribe"><choice><orig>Ajawas</orig><reg>Yao</reg></choice></term> or <term type="tribe"><choice><orig>Waiau</orig><reg>Yao</reg></choice></term><!-- unsure what these are. MB--><!-- tribes. AW --> 
 <lb/>who once were with <persName><choice><sic>bishop</sic><corr>Bishop</corr></choice>
-<lb/><choice><orig><w>clea<del type="overwriting">l</del><add place="over-text">k</add>ewye</w></orig><reg><!-- unsure how to reg this. MB --></reg></choice></persName> <persName><w>D<hi rend="sup">r</hi></w> Wilson</persName> one
+<lb/><choice><orig><w>Ma<del type="overwriting">l</del><add place="over-text">c</add>enzie</w></orig><reg><!-- unsure how to reg this. MB --></reg></choice></persName> <persName><w>D<hi rend="sup">r</hi></w> Wilson</persName> one
 <lb/>of the most eminent
 <lb/>missionaries in <placeName><country>India</country></placeName> 
-<lb/>Nuules<!-- unsure MB --> the two boys ready for
+<lb/><unclear><gap extent="1" unit="words"/></unclear><!-- unsure MB --> the two boys ready for
 <lb/>for baptism. They read
 <lb/>English pretty well &amp; speak
 <lb/>it tolerably and also
-<lb/>Hindustani &amp; Marathi -<!-- tag the languages? MB -->
+<lb/>Hindustani &amp; Marathi -<!-- tag the languages? MB --><!-- no. AW -->
 <lb/>four <orgName>Europeans</orgName> have
 <lb/>volunteered but some 
 <lb/>I had last time made
-<lb/>me scunner<!-- unsure --> and I take
+<lb/>me <unclear cert="low">scunner</unclear><!-- unsure --> and I take
 <lb/>none - The <orgName>Marines</orgName> are 
 <lb/>intelligent men and will
 <lb/>pick up some <orgName>native</orgName>
-<lb/>tongue- A few words 
-<lb/><add>My love to <persName>Oswell</persName> too</add><!-- unsure how to code the bit in the left margin. MB -->
+<lb/>tongue- A few words</p> 
+<lb/><cb rend="vertical"/>
+<lb/><p rend="no-indent">My love to <persName>Oswell</persName> too<!-- unsure how to code the bit in the left margin. MB --></p>
 
 	<pb n="0006" facs="liv_002445_0006"/>
-<lb/>of Hindustani pocket out
+<lb/><p rend="no-indent">of Hindustani pocket out
 <lb/>of a book in Roman characters
 <lb/>helps me along with theim
 <lb/>A very considerable change is
@@ -187,7 +188,7 @@
 <lb/>who have educated thier
 <lb/>daughters <choice><sic>dont</sic><corr>don't</corr></choice> like to give
 <lb/>them to uneducated men
-<lb/>This is one of the s<!-- unsure. MB -->
+<lb/>This is one of the symptoms
 <lb/>or change taking place
 	
 	<pb n="0007" facs="liv_002445_0007"/>
@@ -195,7 +196,7 @@
 <lb/><orgName>Christians</orgName> - <placeName>Manochjee
 <lb/>Cursetjee</placeName> is a poor specimen
 <lb/>a fussy anthropological
-<lb/><!-- unsure MB -->man - those in whom
+<lb/>sort of man - those in whom
 <lb/>one has more hope <w>a<del type="overwriting">s</del><add place="over-text">r</add>e</w>
 <lb/>the enlightened liberal &amp;
 <lb/>rich men who groan at
@@ -208,7 +209,7 @@
 <lb/>Their countenances shewed
 <lb/>peace &amp; happiness The
 <lb/>women generally look
-<lb/>discontented. These are to<!-- unsure MB -->
+<lb/>discontented. These are the
 <lb/>converts - The scum of
 <lb/>camps &amp; cities who often
 <lb/>call themselves <orgName><choice><orig>christians</orig><reg>Christians</reg></choice></orgName>
@@ -238,10 +239,9 @@
 <lb break="no"/>head</w> - My love to <persName>Anna
 <lb/>Mary - glad to hear she is
 <lb/>better and able to read -
-<lb/>send this to Anties<!-- unclear MB--></persName>with 
-<lb/>my love - please write to my<!-- unclear MB -->
-<lb/>another time</p><p>
-<persName>David Livingstone</persName></p><!--How do we encode the closer now? MB -->
+<lb/>send this to Anties</persName>with 
+<lb/>my love - I shall write to them
+<lb/>another time <persName>David Livingstone</persName></p><!--How do we encode the closer now? MB -->
 			
 </div>
 		</body>
