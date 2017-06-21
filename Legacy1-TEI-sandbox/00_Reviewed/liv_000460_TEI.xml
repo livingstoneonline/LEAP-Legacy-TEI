@@ -39,6 +39,10 @@
 				<date>2017-06-20</date>
 				<name>Heather Ball</name>Full Transcription and Proofing by Heather Ball
 			</change>
+			<change>
+				<date>2017-06-21</date>
+				<name>Adrian S. Wisnicki</name>Proofing by Adrian S. Wisnicki
+			</change>
 		</revisionDesc>
 	</teiHeader>
 
@@ -69,7 +73,7 @@
 <lb/>hardships and many other things appear <hi rend="underline">something</hi>, and, to our minds 
 <lb/>ought to keep eternity &amp; its concerns in the background,
 <lb/>while the fact is <hi rend="underline">they are nothing</hi> , <space extent="1" unit="chars"/>less than nothing and vanity</p>
-<lb/><p rend="no-indent"><space extent="3" unit="chars"/>Every saturation in life has its own temptations - each has
+<lb/><p rend="no-indent"><space extent="3" unit="chars"/>Every situation in life has its own temptations - each has
 <lb/>his own reasons for considering this subject as of little moment
 <lb/>and if they look not upon it so yet particular reasons
 
@@ -81,11 +85,11 @@
 <lb/><space extent="2" unit="chars"/>life, <space extent="1" unit="chars"/>I believe it has been to you one continued struggle with
 <lb/><space extent="1" unit="chars"/>poverty for many years, <space extent="1" unit="chars"/>perhaps this may <del type="cancelled">be</del> still be your
 <lb/><space extent="1" unit="chars"/>lot, this may have been your temptation, you may have felt
-<lb/><space extent="1" unit="chars"/>that it was impossible you could <choice><sic>bestowed</sic><corr>bestow</corr></choice> much attention on
+<lb/><space extent="1" unit="chars"/>that it was impossible you could bestow<del><gap end="1" unit="chars"/></del> much attention on
 <lb/><space extent="2" unit="chars"/>the concerns of the soul, <space extent="1" unit="chars"/>but this is Just exactly what you
 <lb/><space extent="2" unit="chars"/>should certainly have felt in any or in every situation in
 <lb/><space extent="2" unit="chars"/>the wide world, had you had it in your power to have made
-<lb/><space extent="3" unit="chars"/>trial of them all; <space extent="2" unit="chars"/>Here is the differently, if others deceived us
+<lb/><space extent="3" unit="chars"/>trial of them all; <space extent="2" unit="chars"/>Here is the difficulty, if others deceived us
 <lb/><space extent="3" unit="chars"/>on this subject we might with care detect it, but, to be
 <lb/><space extent="3" unit="chars"/>deceived by our own hearts is truly perplexing. <space extent="1" unit="chars"/><choice><sic>the</sic><corr>The</corr></choice> Lord alone
 <lb/><space extent="3" unit="chars"/>can undeceive us, <space extent="1" unit="chars"/>we feel conscious that we are right, till he
@@ -95,7 +99,7 @@
 <lb/><space extent="3" unit="chars"/>change --- <space extent="1" unit="words"/>When I said above that perhaps poverty might
 <lb/><space extent="3" unit="chars"/>still be your lot, <space extent="1" unit="chars"/>I by no means wished it be so - most gladly
 <lb/><space extent="3" unit="chars"/>if it were in my power, should I place you in more <w>comfort<supplied>-</supplied>
-<lb break="no"/><space extent="3" unit="chars"/><add place="marginleft">-</add>able</w> circumstance, <space extent="1" unit="chars"/>but I know that whatever may be
+<lb break="no"/><space extent="3" unit="chars"/>-able</w> circumstance, <space extent="1" unit="chars"/>but I know that whatever may be
 <lb/><space extent="3" unit="chars"/>your condition in life you must have trials, even though
 <lb/><space extent="3" unit="chars"/>we are <orgName><choice><sic>christians</sic><corr>Christians</corr></choice></orgName> we must have sorrows &amp; troubles all the
 
@@ -106,10 +110,10 @@
 <lb/><space extent="2" unit="chars"/>meet them, every one <hi rend="underline">has</hi> to meet them - <space extent="1" unit="chars"/>every heart has its own
 <lb/><space extent="2" unit="chars"/>bitterness - <space extent="1" unit="chars"/>Oh How much depends on the spirit in which we do
 <lb/><space extent="2" unit="chars"/>receive them, <space extent="2" unit="chars"/>God designs them to produce an important
-<lb/><space extent="2" unit="chars"/>effect - do they wean us from the <unclear cert="medium">worst</unclear>? <choice><sic>or</sic><corr>Or</corr></choice> do they make us cling
+<lb/><space extent="2" unit="chars"/>effect - do they wean us from the world? <choice><sic>or</sic><corr>Or</corr></choice> do they make us cling
 <lb/><space extent="2" unit="chars"/>more closely to it? <choice><sic>if</sic><corr>If</corr></choice> the latter effect is produced we are not
 <lb/><space extent="2" unit="chars"/>sensible of it, we only think more of our difficulties and <w>imag-
-<lb break="no"/><space extent="2" unit="chars"/>-ine</w> that our duties in relations to them render it impossible
+<lb break="no"/><space extent="2" unit="chars"/>-ine</w> that our duties in relation to them render it impossible
 <lb/><space extent="2" unit="chars"/>for us to attend to both worlds, thus duties which in themselves
 <lb/><space extent="2" unit="chars"/>are proper are made the instruments of deluding us</p>
 <lb/><p rend="no-indent"><space extent="1" unit="words"/>But though we are to have trials, we are called upon to rejoice <gap extent="1" unit="words" agent="hole"/><supplied cert="high">in</supplied>
@@ -120,7 +124,7 @@
 <lb/><space extent="3" unit="chars"/>received into the fold of the good shepherd, to go no more out must
 <lb/><space extent="2" unit="chars"/>produce happiness, <space extent="1" unit="chars"/>nothing is more anomalous than a desponding
 <lb/><space extent="3" unit="chars"/><orgName><choice><sic>christian</sic><corr>Christian</corr></choice></orgName>, but then, when we look at our sins, our <w>forgetful<supplied>-</supplied>
-<lb break="no"/><space extent="2" unit="chars"/><add place="marginleft">-</add>ness</w> - our departures from duty &amp; the tendency to neglect the calls
+<lb break="no"/><space extent="2" unit="chars"/>-</add>ness</w> - our departures from duty &amp; the tendency to neglect the calls
 <lb/><space extent="2" unit="chars"/>of our kindest friend, our inconsistencies &amp;c no wonder there is
 <lb/><space extent="2" unit="chars"/>sorrow - <space extent="2" unit="chars"/>It should not grieve us that we have trials but that
 <lb/><space extent="2" unit="chars"/>we do <space extent="1" unit="chars"/>not meet them in a proper spirit - these trials
@@ -136,7 +140,7 @@
 <lb/>mother, according to the flesh, even when hanging on the harmful
 <lb/>cross return all <unclear cert="medium">the</unclear> kindness you have <choice><orig>shewn</orig><reg>shown</reg></choice> me, <add place="below">^</add> <add place="above">a hundred fold</add> back into
 <lb/>your own bosom, with best wishes and prayers for your
-<lb/><cb rend="horizontal"/><space extent="2" unit="chars"/>and <space extent="1" unit="chars"/>my beloved father's temporal &amp; spiritual welfare <!-- Adrian not sure how to indicate the text returns to horizontal, as the three segments are all one paragraph so can't close with a p to indicate cb vertical finished? HB -->
+<lb/><cb rend="vertical"/><space extent="2" unit="chars"/>and <space extent="1" unit="chars"/>my beloved father's temporal &amp; spiritual welfare <!-- Adrian not sure how to indicate the text returns to horizontal, as the three segments are all one paragraph so can't close with a p to indicate cb vertical finished? HB -->
 <lb/>together with that of all who are dear to us, I subscribe
 <lb/>myself your affectionate son <space extent="2" unit="chars"/><persName><choice><abbr>D. Livingston</abbr><expan>David Livingstone</expan></choice></persName> -----</p>
 <lb/><p rend="no-indent"><space extent="2" unit="chars"/><choice><sic>this</sic><corr>This</corr></choice> world is not our home we may not meet again Oh shall we
