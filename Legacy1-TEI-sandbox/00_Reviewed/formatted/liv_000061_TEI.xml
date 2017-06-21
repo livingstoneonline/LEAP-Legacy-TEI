@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
- <?xml-stylesheet href="http://livingstoneonline.github.io/LEAP-XSLT/transcription.xsl" type="text/xsl"?>
+ <?xml-stylesheet href="http://livingstoneonline.github.io/LEAP-XSLT/transcription-alt-new.xsl" type="text/xsl"?>
  <!--Converted from a TEI P4 XML file to the LEAP TEI P5 Schema by James Cummings on 2015-03-02--><!--TEI encoding revised and standardized by Adrian S. Wisnicki, 2015-2016-->
          <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="liv_000061">
 	<teiHeader>
@@ -9,18 +9,18 @@
 			<titleStmt>
 				<title>Letter to William Thompson</title>
                 <title type="alternative">Letter to William Thompson, 11, 17 October 1853</title>
-				<author xml:id="DL">Livingstone, David, 1813-1873</author>
+				<author>Livingstone, David, 1813-1873</author>
 			</titleStmt>
 			<publicationStmt>
-				<authority>Livingstone Online</authority>
-				<pubPlace>London</pubPlace>
-				<date>2008-08-19</date>
-				<publisher>Wellcome Centre for the History of Medicine, UCL</publisher>
+                <authority>Livingstone Online</authority>
+                <publisher>University of Maryland Libraries</publisher>
+                <pubPlace>College Park, MD, USA</pubPlace>
+                <date>2017</date>
 				<idno type="LEAP-ID">liv_000061</idno>
 			</publicationStmt>
 			<sourceDesc><!-- Mike: this is a new find. It's an extract of a letter held in SOAS we found in Glasgow Uni archives when we did our raid on Scotland - it will need a new candc no creating -->
 				<bibl xml:id="shelfmark">University of Glasgow. Archives; Gen 539/6</bibl>
-				<bibl xml:id="recipient"><persName>Thompson, William, 1811-1889</persName></bibl>
+				<bibl xml:id="recipient"><persName>Thompson, William, 1811-1889</persName>; </bibl>
 				<bibl xml:id="where">Linyanti</bibl>
 				<bibl xml:id="date"><date from="1853-10-11" to="1853-10-17">11, 17 October 1853</date></bibl>
 				<bibl xml:id="ccnumber">Letters, 0328</bibl>

@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-stylesheet href="http://livingstoneonline.github.io/LEAP-XSLT/transcription.xsl" type="text/xsl"?>
-<!--Converted from a TEI P4 XML file to the LEAP TEI P5 Schema by James Cummings on 2015-03-02--><!--TEI encoding revised and standardized by Adrian S. Wisnicki, 2015-2016-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="liv_000652">
+ <?xml-stylesheet href="http://livingstoneonline.github.io/LEAP-XSLT/transcription-alt-new.xsl" type="text/xsl"?>
+ <!--Converted from a TEI P4 XML file to the LEAP TEI P5 Schema by James Cummings on 2015-03-02--><!--TEI encoding revised and standardized by Adrian S. Wisnicki, 2015-2016-->
+         <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="liv_000652">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
 				<title>Letter to William C. Oswell</title>
-				<title type="alternative">Letter to William C. Oswell, 10 April 1848</title>
-				<author xml:id="DL">Livingstone, David, 1813-1873</author>
+                <title type="alternative">Letter to William C. Oswell, 10 April 1848</title>
+				<author>Livingstone, David, 1813-1873</author>
 			</titleStmt>
 			<publicationStmt>
-				<authority>Livingstone Online</authority>
-				<pubPlace>London</pubPlace>
-				<date>08-04-10</date>
-				<publisher>Wellcome Centre for the History of Medicine, UCL</publisher>
+                <authority>Livingstone Online</authority>
+                <publisher>University of Maryland Libraries</publisher>
+                <pubPlace>College Park, MD, USA</pubPlace>
+                <date>2017</date>
 				<idno type="LEAP-ID">liv_000652</idno>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl xml:id="shelfmark">Auckland Libraries; MS. 116</bibl>
-				<bibl xml:id="recipient"><persName>Oswell, William C., 1818-1893</persName></bibl>
+				<bibl xml:id="recipient"><persName>Oswell, William C., 1818-1893</persName>; </bibl>
 				<bibl xml:id="where">Kolobeng</bibl>
 				<bibl xml:id="date"><date when="1848-04-10">10 April 1848</date></bibl>
 				<bibl xml:id="ccnumber">Letters, 0184</bibl>
@@ -96,7 +96,7 @@
 <lb/>this to the <term type="tribe">Bamapela</term> our course is not quite straight - We have to make 
 <lb/>some Southing to avoid some ranges of hills - We crossed to <unclear cert="medium"><placeName><geogName type="river">Marikoe</geogName></placeName></unclear> then 
 <lb/>its source - <measure>our course was then North East for 9 days</measure> and there lies 
-<lb/>the <placeName><geogName  type="river">Limpopo</geogName></placeName> again after having traversed the course you know 
+<lb/>the <placeName><geogName type="river">Limpopo</geogName></placeName> again after having traversed the course you know 
 <lb/>the first two crossings are by windings the main direction of 
 <lb/>the whole must however be at those parts North West - I imagine 
 <lb/>its course may be some what of the following shape <figure><figDesc>outline of river route</figDesc></figure>
@@ -249,7 +249,7 @@
 <addrLine><space extent="4" unit="chars"/><persName>W. <choice><sic>Oswel</sic><corr>Oswell</corr></choice>  <choice><abbr>Esq<hi rend="sup underline">re</hi></abbr><expan>Esquire</expan></choice></persName></addrLine>
 <addrLine><del type="cancelled"><unclear cert="low">Mp Crawfurd Calcutta</unclear></del></addrLine>
 <addrLine><space extent="8" unit="chars"/><del type="cancelled"><placeName><settlement type="city">Madras</settlement></placeName> <unclear cert="low"><choice><abbr>C. S.</abbr><expan>Chennai State</expan></choice></unclear></del></addrLine>
-<addrLine><space extent="15" unit="chars"/><del type="cancelled"><gap reason="illegible" unit="chars" extent="8"></gap></del></addrLine>
+<addrLine><space extent="15" unit="chars"/><del type="cancelled"><gap reason="illegible" unit="chars" extent="8"/></del></addrLine>
 <addrLine><space extent="16" unit="chars"/><del type="cancelled"><placeName><country>India</country></placeName></del></addrLine>
 </address>
 </ab><!--addSpan/@place='sheet folded to make envelope. Envelope test on the middle of fo. 2v'-->

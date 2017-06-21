@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
- <?xml-stylesheet href="http://livingstoneonline.github.io/LEAP-XSLT/transcription.xsl" type="text/xsl"?>
+ <?xml-stylesheet href="http://livingstoneonline.github.io/LEAP-XSLT/transcription-alt-new.xsl" type="text/xsl"?>
  <!--Converted from a TEI P4 XML file to the LEAP TEI P5 Schema by James Cummings on 2015-03-02--><!--TEI encoding revised and standardized by Adrian S. Wisnicki, 2015-2016-->
          <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="liv_000605">
 	<teiHeader>
@@ -9,13 +9,13 @@
 			<titleStmt>
 				<title>Letter to Benjamin T. Pyne</title>
                 <title type="alternative">Letter to Benjamin T. Pyne, 1 January 1846</title>
-				<author xml:id="DL">Livingstone, David, 1813-1873</author>
+				<author>Livingstone, David, 1813-1873</author>
 			</titleStmt>
 			<publicationStmt>
-				<authority>Livingstone Online</authority>
-				<pubPlace>London</pubPlace>
-				<date>2004-04-07</date>
-				<publisher>Wellcome Centre for the History of Medicine, UCL</publisher>
+                <authority>Livingstone Online</authority>
+                <publisher>University of Maryland Libraries</publisher>
+                <pubPlace>College Park, MD, USA</pubPlace>
+                <date>2017</date>
 				<idno type="LEAP-ID">liv_000605</idno>
 			</publicationStmt>
 			<sourceDesc>
@@ -132,7 +132,7 @@
 <lb/>at a low <space unit="chars" extent="1"/>price <term type="plant_foodstuff">coffee</term> &amp;c sufficient to serve 
 <lb/>us for nearly two years to come. <space unit="chars" extent="1"/>As he has 
 <lb/>been in the army &amp; is well bred we enjoyed his 
-<lb/>company. <space unit="chars" extent="1"/>Only thank M<persName></persName>ary. <choice><sic>he</sic><corr>He</corr></choice> gave us a few 
+<lb/>company. <space unit="chars" extent="1"/>Only thank M<persName/>ary. <choice><sic>he</sic><corr>He</corr></choice> gave us a few 
 <lb/>numbers of "Punch". Did I not enjoy the 
 <lb/>jokes on the poor River and that sort of thing</p>
 <lb/><cb rend="vertical"/>
@@ -183,7 +183,7 @@
 <lb/>of <term type="animal">buffaloes</term> the same morning.</p>
 <lb/><cb rend="vertical"/>
 <lb/><addSpan spanTo="#p2r-01" place="marginleft"><!--addSpan/@place='left hand margin of p01'--></addSpan><p rend="no-indent"><persName><unclear cert="low">M<hi rend="sup">r</hi> Ross</unclear></persName> is doing well at <placeName><unclear cert="low">E Tauns</unclear></placeName>. A great many believers have collected under the wily old <term type="occupation">chief</term> <persName>Bahura</persName> and many 
-<lb/>conversions are taking place since. <space unit="chars" extent="1"/><persName>M<hi rend="sup">rs</hi> <choice><abbr>R</abbr><expan><unclear></unclear></expan></choice></persName> finds great difficulty in managing her little unruly members. 
+<lb/>conversions are taking place since. <space unit="chars" extent="1"/><persName>M<hi rend="sup">rs</hi> <choice><abbr>R</abbr><expan><unclear/></expan></choice></persName> finds great difficulty in managing her little unruly members. 
 <lb/><persName>M<hi rend="sup">r</hi> Inglis</persName> has begun with <persName>Bahruotse</persName> &amp; I hope he will succeed</p><anchor xml:id="p2r-01"/>
 
 	<pb n="0004" facs="liv_000605_0004"/><!--pb/@n='2v'-->
@@ -214,7 +214,7 @@
 <lb/>have no difficulty in selecting the proper sort of 
 <lb/>thing after this <space unit="chars" extent="1"/>explanation. <space unit="chars" extent="2"/>In my next I shall 
 <lb/>give you <space unit="chars" extent="1"/>more <term type="occupation">missionary</term> information that this 
-<lb/>contains . <space unit="chars" extent="1"/>Kind regards to all. <choice><sic>thanks</sic><corr>Thanks</corr></choice> to <persName>M<hi rend="sup">r</hi> <choice><abbr>J</abbr><expan><unclear></unclear></expan></choice></persName>
+<lb/>contains . <space unit="chars" extent="1"/>Kind regards to all. <choice><sic>thanks</sic><corr>Thanks</corr></choice> to <persName>M<hi rend="sup">r</hi> <choice><abbr>J</abbr><expan><unclear/></expan></choice></persName>
 <lb/>for the great trouble he took in the case of the last bill
 <lb/>If I have not mentioned all the <bibl>articles</bibl> <choice><sic>recieved</sic><corr>received</corr></choice> it 
 <lb/>is not because <space unit="chars" extent="1"/>I feel nothing in the way of gratitude</p>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
- <?xml-stylesheet href="http://livingstoneonline.github.io/LEAP-XSLT/transcription.xsl" type="text/xsl"?>
+ <?xml-stylesheet href="http://livingstoneonline.github.io/LEAP-XSLT/transcription-alt-new.xsl" type="text/xsl"?>
  <!--Converted from a TEI P4 XML file to the LEAP TEI P5 Schema by James Cummings on 2015-03-02--><!--TEI encoding revised and standardized by Adrian S. Wisnicki, 2015-2016-->
          <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="liv_000460">
 	<teiHeader>
@@ -9,13 +9,13 @@
 			<titleStmt>
 				<title>Letter to Agnes Livingstone 1</title>
                 <title type="alternative">Letter to Agnes Livingstone 1, [1838-1839]</title>
-				<author xml:id="DL">Livingstone, David, 1813-1873</author>
+				<author>Livingstone, David, 1813-1873</author>
 			</titleStmt>
 			<publicationStmt>
-				<authority>Livingstone Online</authority>
-				<pubPlace>London</pubPlace>
-				<date>2008-10-13</date>
-				<publisher>Wellcome Centre for the History of Medicine, UCL</publisher>
+                <authority>Livingstone Online</authority>
+                <publisher>University of Maryland Libraries</publisher>
+                <pubPlace>College Park, MD, USA</pubPlace>
+                <date>2017</date>
 				<idno type="LEAP-ID">liv_000460</idno>
 			</publicationStmt>
 			<sourceDesc>
@@ -124,7 +124,7 @@
 <lb/><space extent="3" unit="chars"/>received into the fold of the good shepherd, to go no more out must
 <lb/><space extent="2" unit="chars"/>produce happiness, <space extent="1" unit="chars"/>nothing is more anomalous than a desponding
 <lb/><space extent="3" unit="chars"/><orgName><choice><sic>christian</sic><corr>Christian</corr></choice></orgName>, but then, when we look at our sins, our <w>forgetful<supplied>-</supplied>
-<lb break="no"/><space extent="2" unit="chars"/>-</add>ness</w> - our departures from duty &amp; the tendency to neglect the calls
+<lb break="no"/><space extent="2" unit="chars"/>-ness</w> - our departures from duty &amp; the tendency to neglect the calls
 <lb/><space extent="2" unit="chars"/>of our kindest friend, our inconsistencies &amp;c no wonder there is
 <lb/><space extent="2" unit="chars"/>sorrow - <space extent="2" unit="chars"/>It should not grieve us that we have trials but that
 <lb/><space extent="2" unit="chars"/>we do <space extent="1" unit="chars"/>not meet them in a proper spirit - these trials
