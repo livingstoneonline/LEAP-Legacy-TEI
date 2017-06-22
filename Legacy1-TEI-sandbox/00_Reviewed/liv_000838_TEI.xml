@@ -62,16 +62,16 @@ For example, [1863-01-12] (for a supplied date, etc).
 
 	<pb n="0001" facs="liv_000838_0001"/><!--pb/@n='1'-->
 <!-- hand01 and hand02 might be same - 01 is in ink and 02 in pencil-->
-<lb/><p rend="no-indent"><add place="marginleft" hand="#U1" rend="gray">DL/2/6/2</add> <add place="inspace over-text" hand="#hand01" rend="underline black">Insert Title</add> <add place="inspace" hand="#hand02" rend="gray small">Explorations of the <placeName><region>Interior of Africa</region></placeName> 
+<lb/><p rend="no-indent"><add place="marginleft" hand="#U1" rend="gray">DL/2/6/2</add> <add place="inspace over-text" hand="#hand01" rend="black"><hi rend="underline">Insert Title</hi></add> <add place="inspace" hand="#hand02" rend="gray small">Explorations of the <placeName><region>Interior of Africa</region></placeName> 
 <lb/><persName>By Dr David Livingston</persName></add></p>
-<lb/><p><add place="marginleft" hand="#hand01" rend="underline">Note</add> 
+<lb/><p><add place="marginleft" hand="#hand01"><hi rend="underline">Note</hi></add> 
 <lb/><add place="marginleft" hand="#hand01">to precede</add> <space extent="5" unit="chars"/><placeName><region>Pungo Andongo</region></placeName>
 <lb/><add place="marginleft" hand="#hand01"><hi rend="underline">paper</hi> <add place="below"><hi rend="underline">Begin</hi></add></add> <space extent="8" unit="chars"/> <date when="1854-12-31">31<hi rend="sup underline">st</hi> <choice><abbr>Dec<hi rend="sup">r</hi></abbr><expan>December</expan></choice> 1854</date></p>
 
 <lb/><p rend="center"><del type="strikethrough" hand="#hand01"><persName>Sir Roderick Impey Murchison</persName></del></p>
 <lb/><p rend="no-indent"><add place="marginleft" hand="#hand01">small Type</add></p>
-<lb/><p><del type="strikethrough" hand="#hand01" rend="underline">Sir</del></p>
-<lb/><p><space extent="2" unit="chars"/><metamark/><del type="overwritten" hand="#hand01">t</del><add place="over-text" hand="#hand01">T</add>he letter marked 
+<lb/><p><del type="strikethrough" hand="#hand01"><hi rend="underline">Sir</hi></del></p>
+<lb/><p><space extent="2" unit="chars"/><metamark/><del hand="#hand01">t</del><add place="over-text" hand="#hand01">T</add>he letter marked 
 <lb/><choice><abbr>N<hi rend="sup underline">o</hi></abbr><expan>Number</expan></choice> I. is a copy from 
 <lb/>memory chiefly, of one I 
 <lb/>sent under date of <date when="1854-08">August</date> 
@@ -81,12 +81,12 @@ For example, [1863-01-12] (for a supplied date, etc).
 <lb/>was lost in the destruction 
 <lb/>of the "Forerunner" off 
 <lb/><placeName><geogName type="island"><choice><sic>Madeiria</sic><corr>Madeira</corr></choice></geogName></placeName>. I<add place="above" hand="#hand01">T</add> had <add place="below">^</add> <add place="above" hand="#hand01">The</add> fever 
-<lb/><space extent="16" unit="chars"/><add place="marginbottom" hand="#U1" rend="gray small">DL 2/6/2</add>
+<lb/><space extent="16" unit="chars"/><add place="inline" hand="#U1" rend="gray small">DL 2/6/2</add>
 
 	<pb n="0002" facs="liv_000838_0002"/><!--pb/@n='2'-->
 <lb/><add place="marginleft" rend="gray" hand="#hand02">2</add> 
 <lb/>so frequently after leaving 
-<lb/><placeName><settlement type="village">Cassangé</settlement></placeName> <add place="above" hand="#hand02"><del type="overwritten">that</del><add place="over-text" hand="#hand01">that</add></add> I <del type="strikethrough" hand="#hand01">took</del> <add place="above" hand="#hand01">could only take</add> Latitudes <add place="inline" hand="#hand01">,</add>
+<lb/><placeName><settlement type="village">Cassangé</settlement></placeName> <add place="above" hand="#hand02"><del>that</del><add place="over-text" hand="#hand01">that</add></add> I <del type="strikethrough" hand="#hand01">took</del> <add place="above" hand="#hand01">could only take</add> Latitudes <add place="inline" hand="#hand01">,</add>
 <lb/><del type="strikethrough" hand="#hand01">only -</del><del type="strikethrough" hand="#hand01">putting</del> <add place="above" hand="#hand02"><del>inserting</del><add place="over-text" hand="#hand01">inserting</add></add> them and  
 <lb/>my route in <del type="strikethrough" hand="#hand02">in</del> pencil<del type="strikethrough" hand="#hand01">.</del> <add place="above" hand="#hand01">and</add>
 <lb/>I promised to send a 
@@ -204,10 +204,10 @@ For example, [1863-01-12] (for a supplied date, etc).
 <lb/>
 <lb/>
 <lb/>
-<lb/><p><space extent="15" unit="chars"/><add place="marginbottom" hand="#U1" rend="gray small">DL 2/6/2</add></p><!-- this is moved for printed version to where insert list is but remains here for now --><!-- Page size and paper type changes from this point for next sheet -->
+<lb/><p><space extent="15" unit="chars"/><add place="inline" hand="#U1" rend="gray small">DL 2/6/2</add></p><!-- this is moved for printed version to where insert list is but remains here for now --><!-- Page size and paper type changes from this point for next sheet -->
 
 	<pb n="0009" facs="liv_000838_0009"/><!--pb/@n='9'-->
-<lb/><p rend="gray"><space extent="24" unit="chars"/><add place="margintop" hand="#U1" rend="gray">DL 2/6/2</add>
+<lb/><p rend="gray"><space extent="24" unit="chars"/><add place="inline" hand="#U1" rend="gray">DL 2/6/2</add>
 <lb/><space extent="18" unit="chars"/><add hand="#hand02">List for insertion in note from 
 <lb/><space extent="24" unit="chars"/><placeName><region>Pungo Andongo</region></placeName> <date when="1854-12-31">Dec <hi rend="underline">31</hi>
 <lb/>54</date></add></p>

@@ -88,7 +88,7 @@
 <lb/>will advise him against any point that may be dangerous. 
 <lb/><space extent="11" unit="words"/>Remember me  
 <lb/><space extent="11" unit="words"/>kindly to
-<lb/><space extent="11" unit="words"/><persName><choice><abbr>D<hi rend="sup">r</hi></abbr><expan>Doctor</expan></choice> Dickson</persName><anchor corresp="#londadd-1"/><anchor xml:id="p.1r-01"/>
+<lb/><space extent="11" unit="words"/><persName><choice><abbr>D<hi rend="sup">r</hi></abbr><expan>Doctor</expan></choice> Dickson</persName><anchor corresp="#longadd-1"/><anchor xml:id="p.1r-01"/>
 
 	<pb n="0002" facs="liv_001879_0002"/><!--pb/@n='1v'-->
 <lb/>day &amp; generation - but I need not inflict 
@@ -155,7 +155,7 @@
 <lb/>to be leaky we took the goods aboard 
 <lb/>though crowded with <term type="animal">cattle</term> &amp; full of <add place="below">provisions</add></p>
 <addSpan spanTo="#p.2r-01" place="marginright" corresp="#longadd-3"/>
-<lb/><p rend="no-indent">You need never look <persName>Miss MacGregor</persName> <gap reason="damage" extent="3" unit="words"/> my dear fellow</p><anchor corresp="longadd-3"/><anchor xml:id="p.2r-01"/>
+<lb/><p rend="no-indent">You need never look <persName>Miss MacGregor</persName> <gap extent="3" unit="words"/> my dear fellow</p><anchor corresp="longadd-3"/><anchor xml:id="p.2r-01"/>
 
 	<pb n="0004" facs="liv_001879_0004"/><!--pb/@n='2v'-->
 <lb/><p>Had it began to blow we must have thrown 
@@ -165,7 +165,7 @@
 <lb/>damage done more than was when 
 <lb/>we had them - the mail - a large one I 
 <lb/>sent up to <placeName><settlement type="town">Quillimane</settlement></placeName> - thinking it 
-<lb/>would go quicker that way - <persName><gap extent="6" unit="chars" reason="illegible"/></persName> 
+<lb/>would go quicker that way - <persName><gap extent="6" unit="chars" agent="illegible"/></persName> 
 <lb/>failed us miserably - promised to sail 
 <lb/>down for the goods and never knowing 
 <lb/>him to lie before I advised <persName>Proctor</persName>
