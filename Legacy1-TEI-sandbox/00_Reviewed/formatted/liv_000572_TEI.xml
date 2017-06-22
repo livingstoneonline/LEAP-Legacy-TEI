@@ -97,7 +97,7 @@
 <lb/>station has been recently formed by <persName>M<hi rend="sup">r</hi> Edwards</persName> &amp; myself 
 <lb/>&amp;c <persName>M<hi rend="sup">r</hi> <choice><abbr>E</abbr><expan>Edwards</expan></choice></persName> came out 20 years ago for the <placeName><region>Kurrichane</region></placeName> &amp; 
 <lb/>is the only one of 7 with the same destination who ever 
-<lb/>saw the locality. The <placeName><geogName type="mountains"><placeName><region>Kurrichane</region></placeName> mountains</geogName></placeName> lie about <measure>30 
+<lb/>saw the locality. The <placeName><geogName type="mountain"><placeName><region>Kurrichane</region></placeName> mountains</geogName></placeName> lie about <measure>30 
 <lb/>miles</measure> South east of us. The people among whom we have 
 <lb/>taken up our residence are called <term type="tribe">Bakhatla</term> a tribe of <term type="tribe">Bechuanas</term>
 <lb/>which works in iron &amp; wood, the founderies are of the 
@@ -157,7 +157,7 @@
 <lb/>began - it is not so now. But it is so here. <persName>Mahura</persName>
 <lb/>the <term type="occupation">chief</term> of the <term type="tribe">Batlapi</term>was very much opposed</p>	
 <lb/><cb rend="vertical"/><p><addSpan spanTo="#p19v-01" place="marginleft"/>desirable to be attended to in order to be able to tell <unclear cert="low">them</unclear> of the amount of good done &amp; thus stimulate others to support &amp; <w>individ<supplied cert="high">-</supplied>
-<lb break="no"/>ualize</w> their own labourers at the throne of grace - Have you seen <orgName><persName>Morrison</persName>'s (of <term type="town">Kilmarnock</term>)</orgName> Tracts?<anchor xml:id="p19v-01"/></p>
+<lb break="no"/>ualize</w> their own labourers at the throne of grace - Have you seen <orgName><persName>Morrison</persName>'s (of <placeName><settlement type="town">Kilmarnock</settlement></placeName>)</orgName> Tracts?<anchor xml:id="p19v-01"/></p>
 
 	<pb n="0003" facs="liv_000572_0003"/><!--pb/@n='20r'-->
 <lb/><p><space extent="47" unit="chars"/><add place="inline" rend="gray" hand="#U">20</add> 
@@ -224,7 +224,7 @@
 <lb/>
 <lb/><cb rend="vertical"/><p>Care of Rev. <del type="strikethrough">D<hi rend="sup">r</hi> <persName>Phillip</persName>, <placeName><settlement type="city">Cape Town</settlement></placeName></del>
 <lb/><persName>Rev<hi rend="sup">d</hi> Dr <unclear cert="medium">Ross</unclear></persName>
-<lb/><space extent="4" unit="chars"/><placeName><term type="city">Sydney</term></placeName>
+<lb/><space extent="4" unit="chars"/><placeName><settlement type="city">Sydney</settlement></placeName>
 <address>
 <addrLine><space extent="4" unit="chars"/><persName>Rev<hi rend="sup">d</hi> George Drummond</persName></addrLine>
 <addrLine><space extent="8" unit="chars"/><placeName><choice><sic>Falealopu</sic><corr>Falealupo</corr></choice>, <choice><sic>Savaii</sic><corr>Savai'i</corr></choice></placeName></addrLine>

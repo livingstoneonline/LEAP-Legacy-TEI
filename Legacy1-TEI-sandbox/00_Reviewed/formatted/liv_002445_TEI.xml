@@ -29,8 +29,6 @@
 		<profileDesc>
 			<langUsage>
 				<language ident="en">English</language>
-			</langUsage>
-			<langUsage>
 				<language ident="de">German</language>
 			</langUsage>
 			<handNotes>
@@ -40,7 +38,7 @@
 		<revisionDesc>
 			<change>
 				<date>2008-10-13</date>
-				<name xml:id="initials">Sharon Messenger</name>Initial Transcription by Sharon Messenger
+				<name xml:id="SM">Sharon Messenger</name>Initial Transcription by Sharon Messenger
 			</change>
 			<change>
 				<date>2017-06-05</date>
@@ -151,7 +149,7 @@
 <lb/>day is not yet fixed</p>
 
 	<pb n="0005" facs="liv_002445_0005"/><!--pb/@n='08'-->
-<lb/><p>I am all ready and anxious <add place="above" hand="U1" rend="gray">146</add>
+<lb/><p>I am all ready and anxious <add place="above" hand="#U1" rend="gray">146</add>
 <lb/>to be off - I have twelve
 <lb/><term type="occupation">marines</term> &amp; one <term type="occupation">Havildar</term>
 <lb/>eight <orgName>Africans</orgName> and two 

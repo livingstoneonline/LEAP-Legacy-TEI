@@ -245,11 +245,11 @@
 <lb/><ab rend="vertical">
 <address>
 <addrLine><space extent="4" unit="chars"/>Care of the <persName><choice><abbr>Rev. D<hi rend="sup underline">r</hi></abbr><expan>Reverend</expan></choice> Philip</persName> <placeName><settlement type="city">Cape Town</settlement></placeName></addrLine>
-<addrLine><del type="cancelled">Care of <gap reason="illegible" unit="words" extent="3"/> <placeName><settlement type="city">Cape Town</settlement></placeName></del></addrLine>
+<addrLine><del type="cancelled">Care of <gap agent="illegible" unit="words" extent="3"/> <placeName><settlement type="city">Cape Town</settlement></placeName></del></addrLine>
 <addrLine><space extent="4" unit="chars"/><persName>W. <choice><sic>Oswel</sic><corr>Oswell</corr></choice>  <choice><abbr>Esq<hi rend="sup underline">re</hi></abbr><expan>Esquire</expan></choice></persName></addrLine>
 <addrLine><del type="cancelled"><unclear cert="low">Mp Crawfurd Calcutta</unclear></del></addrLine>
 <addrLine><space extent="8" unit="chars"/><del type="cancelled"><placeName><settlement type="city">Madras</settlement></placeName> <unclear cert="low"><choice><abbr>C. S.</abbr><expan>Chennai State</expan></choice></unclear></del></addrLine>
-<addrLine><space extent="15" unit="chars"/><del type="cancelled"><gap reason="illegible" unit="chars" extent="8"/></del></addrLine>
+<addrLine><space extent="15" unit="chars"/><del type="cancelled"><gap agent="illegible" unit="chars" extent="8"/></del></addrLine>
 <addrLine><space extent="16" unit="chars"/><del type="cancelled"><placeName><country>India</country></placeName></del></addrLine>
 </address>
 </ab><!--addSpan/@place='sheet folded to make envelope. Envelope test on the middle of fo. 2v'-->

@@ -56,7 +56,7 @@
 <lb/><p rend="right"><space extent="1" unit="words"/><date when="1862-03-12">12 March 1862</date></p>
 <lb/><p rend="no-indent"><space extent="2" unit="chars"/><persName>Rev<hi rend="sup"><hi rend="underline">d</hi></hi> D<hi rend="sup"><hi rend="underline">r</hi></hi> Candlish</persName></p>
 <lb/><p rend="no-indent"><space extent="1" unit="chars"/>My Dear Sir</p>
-<lb/><p><hi rend="right">I am happy to inform</hi> 
+<lb/><p><seg rend="right">I am happy to inform</seg> 
 <lb/>you that <persName>M<hi rend="sup"><hi rend="underline">r</hi></hi> Stewart</persName> arrived off the 
 <lb/>mouth of this river on the last day 
 <lb/>of January, and as it appeared 
@@ -68,8 +68,8 @@
 <lb/>while trying to take a steamer up 
 <lb/>to <placeName><geogName type="lake">Lake Nyassa</geogName></placeName>. By the kind 
 <lb/>assistance of <persName>Captain Wilson</persName> of 
-<lb/><term type="boat">H. M. S. Gorgon</term> we soon had most of 
-<lb/>the hull aboard the <term type="boat">Pioneer</term>, but </p>
+<lb/>H. M. S. Gorgon we soon had most of 
+<lb/>the hull aboard the Pioneer, but </p>
 <lb/>
 <lb/><addSpan spanTo="#p.1r-01" place="marginleft"><!--addSpan/@place='left margin of fol. 1r'--></addSpan>
 <lb/><p rend="no-indent">though I had not the pleasure of meeting you at <persName>D<hi rend="sup"><hi rend="underline">r</hi></hi>
