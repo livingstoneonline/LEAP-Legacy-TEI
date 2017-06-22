@@ -2,21 +2,20 @@
 <?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
  <?xml-stylesheet href="http://livingstoneonline.github.io/LEAP-XSLT/transcription.xsl" type="text/xsl"?>
- <!--Converted from a TEI P4 XML file to the LEAP TEI P5 Schema by James Cummings on 2015-03-02--><!--TEI encoding revised and standardized by Adrian S. Wisnicki, 2015-2016-->
+ <!--Converted from a TEI P4 XML file to the LEAP TEI P5 Schema by James Cummings on 2015-03-02--><!--TEI encoding revised and standardized by Adrian S. Wisnicki, 2015-2017-->
          <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="liv_001879">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
 				<title>Letter to Horace Waller</title>
                 <title type="alternative">Letter to Horace Waller, 12 February 1863</title>
-                <title type="alternative">Letter to Horace Waller, 12 February 1863</title>
 				<author>Livingstone, David, 1813-1873</author>
 			</titleStmt>
 			<publicationStmt>
-				<authority>Livingstone Online</authority>
-				<pubPlace>London</pubPlace>
-				<date>06-03-2010</date>
-				<publisher>Wellcome Centre for the History of Medicine, UCL</publisher>
+                <authority>Livingstone Online</authority>
+                <publisher>University of Maryland Libraries</publisher>
+                <pubPlace>College Park, MD, USA</pubPlace>
+                <date>2017</date>
 				<idno type="LEAP-ID">liv_001879</idno>
 			</publicationStmt>
 			<sourceDesc>
@@ -37,8 +36,14 @@
 			<change>
 				<date>06-03-2010</date>
 				<name>Sharon Messenger</name>Transcribed by Sharon Messenger
+			</change>
+			<change>
 				<date>2017-06-22</date>
 				<name>Kate Simpson</name>Proofreading
+			</change>
+			<change> 
+				<date>2017-06-22</date> 
+				<name>Adrian S. Wisnicki</name>Proofing and Formatting 
 			</change>
 		</revisionDesc>
 	</teiHeader>
@@ -187,6 +192,7 @@
 <lb/><addSpan spanTo="#p.2v-01" place="marginleft" corresp="#longadd-4"/><p>Leave all other topics till we meet this way the admiralty will be with you all</p><anchor corresp="longadd-4"/>
 				<anchor xml:id="p.2v-01"/><anchor xml:id="p.2r-01"/><anchor xml:id="p.1v-01"/><anchor xml:id="p.1r-01"/>
 			
-</div>
+			</div>
 		</body>
-	</text></TEI>
+	</text>
+</TEI>

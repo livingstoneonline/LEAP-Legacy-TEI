@@ -2,7 +2,7 @@
 <?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
  <?xml-stylesheet href="http://livingstoneonline.github.io/LEAP-XSLT/transcription.xsl" type="text/xsl"?>
- <!--Converted from a TEI P4 XML file to the LEAP TEI P5 Schema by James Cummings on 2015-03-02--><!--TEI encoding revised and standardized by Adrian S. Wisnicki, 2015-2016-->
+ <!--Converted from a TEI P4 XML file to the LEAP TEI P5 Schema by James Cummings on 2015-03-02--><!--TEI encoding revised and standardized by Adrian S. Wisnicki, 2015-2017-->
          <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="liv_000838">
 	<!-- LP130 -->
 	<teiHeader>
@@ -10,13 +10,13 @@
 			<titleStmt>
 				<title>Letter to Roderick I. Murchison</title>
                 <title type="alternative">Letter to Roderick I. Murchison, 31 December 1854</title>
-				<title type="alternative">Letter to Roderick I. Murchison, 31 December 1854</title>
 				<author>Livingstone, David, 1813-1873</author>
 			</titleStmt>
 			<publicationStmt>
-				<authority>Livingstone Online</authority>
-				<publisher>University of Maryland Libraries</publisher>
-				<pubPlace>College Park, MD, USA</pubPlace>
+                <authority>Livingstone Online</authority>
+                <publisher>University of Maryland Libraries</publisher>
+                <pubPlace>College Park, MD, USA</pubPlace>
+                <date>2017</date>
 				<idno type="LEAP-ID">liv_000838</idno>
 			</publicationStmt>
 			<sourceDesc>
@@ -41,8 +41,18 @@ For example, [1863-01-12] (for a supplied date, etc).
 			</handNotes>
 		</profileDesc>
 		<revisionDesc>
-			<change> <date>2009</date> <name>Caroline Overy</name>initial transcription
-				<date>2017-06-22</date> <name>Kate Simpson</name>Proofreading </change>
+			<change> 
+				<date>2009</date> 
+				<name>Caroline Overy</name>initial transcription
+			</change>
+			<change>
+				<date>2017-06-22</date> 
+				<name>Kate Simpson</name>Proofreading 
+			</change>
+			<change> 
+				<date>2017-06-22</date> 
+				<name>Adrian S. Wisnicki</name>Proofing and Formatting 
+			</change>
 		</revisionDesc>
 	</teiHeader>
 

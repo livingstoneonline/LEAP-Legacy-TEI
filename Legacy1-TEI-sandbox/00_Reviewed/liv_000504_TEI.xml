@@ -2,21 +2,20 @@
 <?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
  <?xml-stylesheet href="http://livingstoneonline.github.io/LEAP-XSLT/transcription.xsl" type="text/xsl"?>
- <!--Converted from a TEI P4 XML file to the LEAP TEI P5 Schema by James Cummings on 2015-03-02--><!--TEI encoding revised and standardized by Adrian S. Wisnicki, 2015-2016-->
+ <!--Converted from a TEI P4 XML file to the LEAP TEI P5 Schema by James Cummings on 2015-03-02--><!--TEI encoding revised and standardized by Adrian S. Wisnicki, 2015-2017-->
          <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="liv_000504">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
 				<title>Letter to Benjamin T. Pyne</title>
                 <title type="alternative">Letter to Benjamin T. Pyne, 11 March, 17 May 1842</title>
-				<title type="alternative">Letter to Benjamin T. Pyne, 11 March, 17 May 1842</title>
 				<author>Livingstone, David, 1813-1873</author>
 			</titleStmt>
 			<publicationStmt>
-				<authority>Livingstone Online</authority>
-				<pubPlace>London</pubPlace>
-				<date>2009-04-28</date>
-				<publisher>Wellcome Centre for the History of Medicine, UCL</publisher>
+                <authority>Livingstone Online</authority>
+                <publisher>University of Maryland Libraries</publisher>
+                <pubPlace>College Park, MD, USA</pubPlace>
+                <date>2017</date>
 				<idno type="LEAP-ID">liv_000504</idno>
 			</publicationStmt>
 			<sourceDesc>
@@ -36,8 +35,18 @@
 			</handNotes>
 		</profileDesc>
 		<revisionDesc>
-			<change> <date>2009-04-28</date> <name>Caroline Overy</name>Initial Transcription by Caroline
-				Overy <date>2017-06-20</date> <name>Kate Simpson</name>Proofreading </change>
+			<change> 
+				<date>2009-04-28</date> 
+				<name>Caroline Overy</name>Initial Transcription by Caroline Overy
+			</change>
+			<change> 
+				<date>2017-06-20</date> 
+				<name>Kate Simpson</name>Proofreading 
+			</change>
+			<change> 
+				<date>2017-06-22</date> 
+				<name>Adrian S. Wisnicki</name>Proofing and Formatting 
+			</change>
 		</revisionDesc>
 	</teiHeader>
 
