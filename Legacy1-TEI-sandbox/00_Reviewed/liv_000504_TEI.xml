@@ -56,9 +56,9 @@
 
 	<pb n="0001" facs="liv_000504_0001"/><!--pb/@n='1r'-->
 <lb/><p rend="right"><space extent="24" unit="chars"/><placeName><region>Tropic of Capricorn</region></placeName>, <choice><abbr>Long.</abbr><expan>Longitude</expan></choice> 28º 10′ <choice><abbr>E,</abbr><expan>East</expan></choice>
-<lb/><space extent="46" unit="chars"/><date when="1842-03-11">11<hi rend="sup">th</hi> March
-<lb/><space extent="52" unit="chars"/>1842</date></p>
-<lb/><p rend="no-indent">My very dear friends
+<lb/><space extent="50" unit="chars"/><date when="1842-03-11">11<hi rend="sup">th</hi> March
+<lb/><space extent="56" unit="chars"/>1842</date></p>
+<lb/><p rend="no-indent"><space extent="2" unit="chars"/>My very dear friends
 <lb/><space extent="17" unit="chars"/>You will see by the date if this that I am coming nearer 
 <lb/>you, I am not quite certain whether I am actually on the <placeName><region>Tropic</region></placeName> but by a 
 <lb/>dead reckoning carried on from the last observation I had an opportunity 
@@ -321,13 +321,7 @@
 <lb/>him very weak - I then left him &amp; <add place="below">˄</add><add place="above">having</add> requested <persName>Sekhomi</persName> to send men for one of 
 <lb/>my <term type="animal">oxen</term> - When they arrived I sent them on for <persName>Pomore</persName> - We then bid <persName>Sekomi</persName>
 <lb/>farewell &amp; instead of riding myself I had the pleasure of walking about <measure>70 miles</measure> <gap extent="1" unit="words" agent="illegible"/>
-<lb/>the side of my <term type="occupation">servant</term> &amp; the sand is very much like snow under <gap extent="5" unit="words" agent="illegible"/><anchor xml:id="p.04-01"/>
-		<anchor xml:id="p.01-01"/><anchor xml:id="p.02-01"/><anchor xml:id="p.03-01"/></p>
-
-
-	<pb n="0007" facs="liv_000504_0007"/><!--pb/@n='2r'-->
-
-
+<lb/>the side of my <term type="occupation">servant</term> &amp; the sand is very much like snow under <gap extent="5" unit="words" agent="illegible"/></p><anchor xml:id="p.04-01"/>
 
 			</div>
 		</body>
